@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Andres Garcia-Saavedra</title>
+    <link>/tags/projects/</link>
+    <description>Recent content in Projects on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EU 5G-PPP project 5G-TRANSFORMER has just kicked off!</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>EU 5G-PPP project 5G-TRANSFORMER(https://themes.gohugo.io/theme/academic/) has just kicked off! Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.</description>
+    </item>
+    
+  </channel>
+</rss>
