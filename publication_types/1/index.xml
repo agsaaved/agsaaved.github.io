@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Andres Garcia-Saavedra</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FluidRAN: Optimized vRAN/MEC Orchestration</title>
+      <link>/publication/2018_garcia-saavedra_infocom_fluidran/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_garcia-saavedra_infocom_fluidran/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>Revisiting 802.11 Rate Adaptation from Energy Consumption&#39;s Perspective</title>
+      <link>/publication/2016-ucar-mswin-revisiting/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2016-ucar-mswin-revisiting/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>srsLTE: An Open-Source Platform for LTE Evolution and Experimentation</title>
+      <link>/publication/2016_gomez-miguelez_wintech/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2016_gomez-miguelez_wintech/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>Energy consumption anatomy of 802.11 devices and its implication on modeling and design</title>
+      <link>/publication/2012_garcia-saavedra_conext/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2012_garcia-saavedra_conext/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>Distributed Opportunistic Scheduling: A control theoretic approach</title>
+      <link>/publication/2012_garcia-saavedra_infocom_ados/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2012_garcia-saavedra_infocom_ados/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>Energy-efficient fair channel access for IEEE 802.11 WLANs</title>
+      <link>/publication/2011_garcia-saavedra_wowmom_energy-efficient/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2011_garcia-saavedra_wowmom_energy-efficient/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+  </channel>
+</rss>
