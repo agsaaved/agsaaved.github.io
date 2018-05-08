@@ -1,0 +1,453 @@
+\documentclass[10pt,conference,compsocconf]{IEEEtran}
+
+\usepackage{times}
+  
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{grffile}
+\usepackage{url}
+\usepackage{color}
+\usepackage{cite}
+\usepackage{marvosym}
+\usepackage{algorithmicx}
+\usepackage[ruled]{algorithm}
+\usepackage{algpseudocode}
+\usepackage{multirow}
+\usepackage{stfloats}
+\usepackage{amssymb}
+\usepackage{balance}
+\usepackage[font=footnotesize]{subfig}
+\usepackage[font=footnotesize]{caption}
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+\pagestyle{empty}
+\begin{document}
+\pagenumbering{gobble}
+%
+% paper title
+% can use linebreaks \\ within to get better formatting as desired
+\title{\textbf{\Large Investigating Bit Error Patterns for Radar Pulse Detection in IEEE 802.11}\\[0.2ex]}
+
+% author names and affiliations
+% use a multiple column layout for up to three different
+% affiliations
+
+\author{\IEEEauthorblockN{~\\[-0.4ex]\large Claudio Pisa, Andres Garcia-Saavedra, and Douglas J. Leith\\[0.3ex]\normalsize}
+\IEEEauthorblockA{Hamilton Institute, NUI Maynooth\\
+Maynooth, Ireland\\
+claudio.pisa@uniroma2.it, \{andres.garciasaavedra, doug.leith\}@nuim.ie}
+}
+
+
+
+% use for special paper notices
+%\IEEEspecialpapernotice{(Invited Paper)}
+
+
+
+
+% make the title area
+\maketitle
+
+
+\begin{abstract}
+%\boldmath
+The shift towards use of the 5~GHz band by WiFi networks comes with the requirement that these networks coexist safely with existing systems using that band, e.g., meteorology, aeronautics or military radars.   Regulatory bodies are mandating the implementation of Dynamic Frequency Selection (DFS) in wireless communication protocols to (i) detect radar operations and (ii) move away from channels populated by these.  Conventional approaches to implementing such mechanisms, however, can result in massive underutilization of the radio channel since the radio must be kept silent for a large amount of time in order to ensure sufficient detection accuracy.   This inevitably impacts the throughput capacity of the wireless network.    In this paper, we consider whether bit-error patterns at the receiver of a WiFi link can be used for radar detection. In our experimental study, we adopt a pair-packet transmission technique to mitigate the interference inherent to the 802.11 protocol due to, e.g., other contending stations. Our initial results show that the observation of bit-error patterns due to radar interferences is indeed possible, establishing that the potential exists to design unobtrusive detection mechanisms that work transparently with existing network protocols without loss of network capacity.
+\end{abstract}
+% IEEEtran.cls defaults to using nonbold math in the Abstract.
+% This preserves the distinction between vectors and scalars. However,
+% if the conference you are submitting to favors bold math in the abstract,
+% then you can use LaTeX's standard command \boldmath at the very start
+% of the abstract to achieve this. Many IEEE journals/conferences frown on
+% math in the abstract anyway.
+
+% no keywords
+
+\begin{IEEEkeywords}
+Radar; 802.11; Interference management.%
+\end{IEEEkeywords}
+
+
+
+% For peer review papers, you can put extra information on the cover
+% page as needed:
+% \ifCLASSOPTIONpeerreview
+% \begin{center} \bfseries EDICS Category: 3-BBND \end{center}
+% \fi
+%
+% For peerreview papers, this IEEEtran command inserts a page break and
+% creates the second title. It will be ignored for other modes.
+\IEEEpeerreviewmaketitle
+
+
+
+\section{Introduction}
+
+The growing density of radio frequency (RF) transceivers operating in the ISM 2.4~GHz band (Industrial, Scientific and Medical radio band)  is placing increasing pressure on the limited spectral resources available (up to 13 channels spaced 5~MHz apart) for e.g., IEEE 802.11b/g~\cite{ieee80211}, ZigBee~\cite{zigbee} or Bluetooth~\cite{bluetooth} users. This is encouraging greater utilization of the wider 5~GHz band (up to 25  channels of 20~MHz) for newer WiFi standards, first with IEEE 802.11n  and ultimately with the advent of IEEE 802.11ac~\cite{ieee80211ac}  which only uses this band. 
+
+The trend towards utilization of the 5~GHz band in commodity wireless devices potentially impacts the functioning of pre-existing communication systems, e.g. meteorological radars~\cite{brandao20055}. Weather radars periodically  emit unidirectional electromagnetic pulses  and listen for echoes, e.g., reflected by raindrops. Fig.~\ref{fig:radar} illustrates the regular behavior of a radar that emits bursts of pulses separated by a time equal to $T_{PR}$. For each transmitted pulse, the radar processes the echoes for a measurement time $T_{meas}$ and then remains idle for an Inter-Measurement Gap time $T_{IMG}$ before the next pulse is transmitted.  For example, Fig.~\ref{fig:real_radar} shows measured weather radar traces taken with a Rohde \& Schwarz FSL-6 \emph{spectrum analyzer} near to Dublin airport in Ireland.  These measurements show bursts of electromagnetic pulses, with $3ms$ inter-pulse separation time.   From  Fig.~\ref{fig:real_radar}(b) it can be seen that on a larger time-scale the amplitude of transmissions is periodic in nature, with a period of approximately 20s.  This is attributed to periodic rotation of the radar antenna, with high amplitudes corresponding to intervals when the radar antenna is directed towards the spectrum analyzer.
+
+\begin{figure}[ht!]
+	\centerline{\includegraphics[width=\columnwidth]{figs/radar.eps}}
+	\caption{Schematic illustrating radar signals in the time domain.}
+	\label{fig:radar}
+	\vspace{-8mm}
+\end{figure}
+
+\begin{figure}[htb!]
+        \centering
+                \subfloat[Small timescale. ]{
+                \includegraphics[width=0.5\columnwidth]{figs/real-radar-09.eps}
+                \label{fig:real_radar-small}
+        }%
+        \subfloat[Large timescale.]{
+                \centering
+                \includegraphics[width=0.5\columnwidth]{figs/real-radar-14.eps}
+                \label{fig:real_radar-large}
+        }
+  \caption{Weather radar time history near Dublin airport, Ireland.}
+  \label{fig:real_radar}
+\end{figure}
+
+
+In order to facilitate coexistence, Dynamic Frequency Selection (DFS) is enforced for unlicensed devices, e.g., through FCC~\cite{fcc-rule} regulations in North America and ETSI~\cite{etsi-rule} regulations in Europe.
+% (Table~\ref{tab:etsi-table} summarizes the signals that systems operating in 5150--5350~MHz and 5470--5725~MHz must be able to detect in Europe). 
+To meet these regulatory requirements, the IEEE 802.11h~\cite{ieee80211} amendment introduces DFS to the IEEE 802.11 PHY/MAC standard.  However, although the 802.11h specifies the mechanisms for supporting DFS, the ultimate responsibility for implementing efficient radar detection schemes  lies with the device manufacturer. 
+
+DFS mandates that the master device (e.g., the Access Point in a WLAN) monitors the channel for potential radar interference for at least the \emph{channel availability check time}.  A major issue with this requirement  is that no transmissions can occur during this check time, which may be up to 10 minutes duration for some channels~\cite{etsi-rule}.  A further issue is that, even after the check time has elapsed, when using half-duplex radios, radar detection cannot be carried out while data is being transmitted/received.   Hence, radar detection in future dense (and heavily loaded) wireless networks is likely to be problematic.   Moreover, weather radar technology keeps changing, with more complex and faster scan patterns that inflate the ratio of false positives in legacy wireless devices, scaling up dramatically the amount of sensing time needed and so of channel unavailability.   
+
+In this paper, we present initial results of our experimental evaluation of radar detection through \emph{in-service} bit-error pattern recognition. The ability to detect (and react to) the presence of radar signals while a transmission is ongoing not only offers the potential to increase the spectrum efficiency, but also to improve the reliability of radar detection in heavily loaded networks. 
+
+
+The rest of the paper is structured as follow. A brief survey of related literature is given in Section~\ref{sec:related}, the description of the experimental methodology in Section~\ref{sec:methodology}, and a set of representative results in Section~\ref{sec:measurements}. Finally, in Section~\ref{sec:challenges} we discuss the open issues to resolve in future work, and Section~\ref{sec:conclusions} concludes the paper.
+
+
+
+\section{Related Work}
+\label{sec:related}
+
+
+Most of the related literature focuses on the design of off-line detectors. For instance, in \cite{anitori2011detection} the authors develop a detector based on Compressive Sensing (CS), while \cite{anitori2012compressive} designs a radar detector based on a Constant False Alarm Rate (CFAR) and a Complex Approximate Message Passing (CAMP) algorithm.  \cite{wen2005radar}  evaluates a few  algorithms based on a matched filtering technique and propose a method based on power detection in the time domain.  However, these detectors, if implemented in a regular wireless  device with a half-duplex transceiver, could only work while communication is not ongoing, which limits its applicability as explained above.
+
+
+The coexistence between IEEE 802.11 transceivers implementing DFS and radars has been studied in \cite{brandao20055, kruys2009}. These evaluate DFS in the presence of a Doppler weather radar system and show that the 802.11 radio  introduces an additive and uncorrelated noise into the radar system.
+
+A few works analyze the radar detection probabilities. Within the FCC and ETSI standards, the computation of the detection probability was carried out initially using a basic random transmission model~\cite{itu}.
+The authors of \cite{zarikoff2012analysis} perform a theoretical evaluation of the detection of radar pulses in time division duplexed systems, and compute the expected number of pulses occurring during the receive period of a transmission. 
+
+In contrast to all previous works,  this paper is, to the best of our knowledge, the first attempt to experimentally assess radar detection via bit-error recognition over received packets.  
+
+
+\section{Methodology}\label{sec:methodology}
+
+The key idea is to search for radar interference footprints, via inspection of bit error patterns, while packet processing is ongoing at the receiver.  Fig.~\ref{fig:idea} illustrates this idea with a burst of eleven pulses (at the bottom) and three examples of data packet communication with different packet rates and lengths (at the top). Those packets, transmitted concurrently with one or more radar pulses, will be disrupted by a burst of bit errors (shown in black in the figure). The observation of this footprint, jointly with the knowledge of the underlying radar process, should make possible the detection of radar signals.
+
+
+
+
+\begin{figure}[htb!]
+\centering
+\includegraphics[width=\columnwidth]{figs/idea}
+ \caption{Radar interference footprint during packet reception.}
+\label{fig:idea}
+\end{figure}
+
+% \begin{table}[t!]
+% \footnotesize
+% \centering
+% \caption{Parameters of radar test signals according to ETSI EN 301 893 v1.7.1~\cite{etsi-rule}}
+% \begin{tabular}{|c|c|c|c|c|} 
+% \hline
+%  Type  &  Pulse width ($\mu s$)& PRF ($s^{-1}$)  & Pulses per burst  & $\#$ of PRFs  \\
+%  %Type  &  ($\mu s$) &  ($s^{-1}$)  & burst & different PRFs \\
+% \hline \hline
+% 1 & 0.5--5 & 200--1000  & 10 & 1\\
+% 2 & 0.5--15 & 200--1600 & 15 & 1\\
+% 3 & 0.5--15 & 2300--4000 & 25 & 1\\
+% 4 & 20--30 & 2000--4000 & 20 & 1\\
+% 5 & 0.5--2 & 300--400 & 10 &  2/3\\
+% 6 & 0.5--2 & 400--1200 & 15 & 2/3 \\
+% \hline
+% \end{tabular}
+% \vspace{-5mm}
+% \label{tab:etsi-table}
+% \end{table}
+
+\begin{figure}[t!]
+\centering
+\subfloat[Radar test signal type 2~\cite{etsi-rule}]{
+\includegraphics[width=0.48\columnwidth, height=31mm]{img/radar_singlespeed}
+}
+\subfloat[Radar test signal with double speed]{
+\includegraphics[width=0.48\columnwidth, height=31mm]{img/radar_doublespeed}
+}
+ \caption{Measured traces while radar emulator is in operation.}
+ \vspace{-5mm}
+\label{fig:synthetic-radar}
+\end{figure}
+
+
+The first step to study the feasibility of bit-error pattern recognition for radar detection requires a controlled environment. To this end, we  programmed a  Rohde$\&$Schwarz SMBV100A \emph{vector signal generator} to emulate the behavior of a radar. Unless otherwise stated, each pulse width is set to $1~\mu s$, $PRF=1/T_{PR}=1000~s^{-1}$ and we send bursts of $15$ pulses, to mimic the behavior of a radar test signal type $2$~\cite{etsi-rule}.
+% , as shown in Table~\ref{tab:etsi-table}. 
+Given the traces collected with our spectrum analyzer  when our ``radar emulator'' is in operation, shown in Fig.~\ref{fig:synthetic-radar}, and their similarity with respect to those of Fig.~\ref{fig:real_radar}, we validate this set-up for our experiments.
+
+
+
+
+One of the main challenges in the detection of errors caused by the operation of radars is the ability to distinguish these from other sources of error, for instance those caused by another transmitter within the same WLAN, i.e., \emph{collisions}. Collisions are part of the correct operation of the CSMA/CA MAC protocol in IEEE 802.11 and are caused by two or more stations selecting the same slot to transmit during the random backoff procedure. If a station is successful (i.e., its backoff counter reached zero before other senders), the other stations will defer their backoff while the channel is not \emph{idle}. The physical layer (PHY) implements a Clear Channel Assessment (CCA) scheme based on a carrier-sense threshold for energy detection, and the MAC uses a Network Allocation Vector (NAV) parameter transported in each header to inform other stations about the duration of the ongoing transmission. A channel is idle only  if the CCA fails to detect a carrier and if the NAV timer is zero. However, collisions are not the only cause of packet impairment. Nodes that are too far to be able to decode the NAV of concurrent transmissions whose energy level is below the CCA threshold (i.e., \emph{hidden} nodes) could cause errors in theoretically successful transmissions as well. In order to narrow down the sources of interference to just those due to radar coexistence, we applied the technique proposed in \cite{giustiniano2010measuring}. To this end, we force each packet to be fragmented at the MAC layer to ensure that the second and subsequent fragments are protected from both collisions and hidden nodes. The protection against collisions is granted by the NAV value used in the first fragment, which is set to the amount of time required to send all the fragments. Each fragment is sent back-to-back (separated by a SIFS interval) to the AP and individually acknowledged by the AP; given the fact that all stations should be able to hear the AP's transmissions, and therefore the NAV value carried within the acknowledgment frames, these fragments are protected against hidden nodes (similarly to the RTS/CTS scheme).  
+
+
+\begin{figure}[tbh!]
+\centering
+\vspace{-5mm}
+\subfloat[Test link and other interfering links.]{
+\includegraphics[width=0.48\columnwidth]{figs/pair-packet-stations}
+\label{fig:pair-packet-experiment:stations}
+}
+\subfloat[Test link and a source of noise.]{
+\includegraphics[width=0.48\columnwidth]{figs/pair-packet-snr}
+\label{fig:pair-packet-experiment:snr}
+}
+ \caption{Technique to narrow down sources of interferences.}
+%   \vspace{-5mm}
+
+\label{fig:pair-packet-experiment}
+\end{figure}
+
+
+
+
+\begin{figure}[b!]
+\centering
+\vspace{-5mm}
+\subfloat{
+   \includegraphics[width=0.6\columnwidth, height=33mm]{img/1mbps_screenshot_1peak.png}
+}
+\\
+\vspace{-3mm}
+\subfloat{
+   \includegraphics[width=0.8\columnwidth]{img/1Mbps1Pulse_reconstructed.txt.eps}
+}
+% \setcounter{subfigure}{0}
+% \\
+\caption{Radar traces and bit error patterns, PHY rate 1Mbps.}
+      \label{fig:1mbps-1pulse}
+\end{figure}
+
+
+We have run two simple experiments to validate this methodology; the results are shown in Fig.~\ref{fig:pair-packet-experiment}. In both experiments, we configure a laptop as a  WiFi AP transmitting test traffic to another laptop, configured as a  WiFi client. The AP sends 50 bursts of 3000 ICMP packets, with 1150~bytes of payload, generated with SING, an ICMP-packet generator which allows customization of the transmitted packets. The transmission power is set to 16dBm and we set a fragmentation threshold of 600~bytes to force the delivery of 2 fragments per packet (i.e., the first has to contend for channel access, the second is protected against collisions and hidden nodes). In the first experiment, the AP transmits the test traffic towards the client, while we increase the number of additional contending stations to the network. Fig.~\ref{fig:pair-packet-experiment:stations} depicts the ratio of bit errors for each of the pair of packets sent in each transmission opportunity. As we can see, the first fragment is severely affected by the growing number of collisions incurred by the additional contending stations. On the other hand, the second fragment is unaffected by this type of interference source. In the second experiment we switch the additional contending stations for the signal generator,  to generate synthetic RF noise. Fig.~\ref{fig:pair-packet-experiment:snr} shows the error rate as a function of the power of the noise generated. The results indicate that both the first and second fragment experience the same effects upon a noisy environment. These two experiments serve as validation for this technique to identify bit-error patterns due to radar signals while excluding those inherent to the IEEE 802.11 MAC protocol.  In the following, we will apply this technique, along with our radar emulator, to study the bit-error patterns in received frames and its feasibility in the detection of radars in the environment.
+
+
+
+
+
+\begin{figure}[b!]
+\centering
+\vspace{-5mm}
+\subfloat{
+   \includegraphics[width=0.6\columnwidth, height=33mm]{img/1mbps_screenshot_2peaks.png}
+
+}
+\\
+\vspace{-3mm}
+\subfloat{
+   \includegraphics[width=0.8\columnwidth]{img/1Mbps2Pulses_reconstructed.txt.eps}
+}
+
+\caption{Radar traces and bit error patterns, PHY rate 1Mbps.}
+   \label{fig:1mbps-2pulses}
+\end{figure}
+
+
+
+
+
+%--------------------------%<-----------------------------
+\section{Measurements}\label{sec:measurements}
+
+
+
+We set up two laptops with an IEEE 802.11b/g Atheros AR5008 wireless card each using the driver madwifi 0.9.6 and separated by $100cm$. Note that we have disabled the IEEE 802.11.h capabilities from the driver to avoid that the legacy DFS operation affecting channel selection upon the observation of our radar signals. One laptop serves as WiFi AP and the other as a regular client. 
+Each experiment consists of the transmission of a stream of packets from the AP to the client. Each UDP packet transports a 1796-byte payload with known information, which allows us to assess the error patterns occurring at the receiver. In the following, we summarize our initial results where we compare the trace given by the spectrum analyzer and the error pattern found in selected packets. 
+% , and the fragmentation threshold is set to 260 bytes. 
+
+% \begin{figure}[ht!]
+% 	\centerline{\includegraphics[width=\columnwidth]{figs/deployment.eps}}
+% 	\caption{Testbed deployment. \tbd{To improve! (photo?)}}
+% 	\label{fig:deployment}
+% \end{figure}
+
+In the first experiment, each packet is sent at 1~Mbps (so they are of relatively long duration). Fig.~\ref{fig:1mbps-1pulse} top shows how the end of a packet transmission collides with one pulse from the beginning of a radar burst. In Fig.~\ref{fig:1mbps-1pulse} bottom we illustrate the results of the packet inspection at the receiver. We mark the beginning of the payload (the part that we process), each bit error found after decoding (we also zoom in the burst of errors) and the end of the packet. This figure  shows that the footprint of the colliding radar pulse is clearly observable. However, in this case, the observation of one burst of errors is not sufficient to infer the presence of a radar signal.
+
+
+
+Fig.~\ref{fig:1mbps-2pulses} shows the resulting packet processing of another packet sent at 1~Mbps where two pulses of a radar signal corrupts the payload of the data transmission. We can easily identify the radar footprint out of the packet inspection, i.e., two bursts of errors separated by $1ms$ ($PRF$ of our test radar signal) with pulses of approximately $1\mu s$ duration.
+
+
+
+
+We now configure the AP to transmit 6-Mbps packets. Similarly as before, Fig~\ref{fig:6mbps} depicts the results for a selected packet of this experiment which is corrupted by two radar pulses. This result allows a similar observation as in the previous case, that is, we found two burst of bit errors of approximately $1\mu s$ of duration and separated by $1ms$, matching the characteristics of the underlying radar test signal.
+
+
+\begin{figure}[t!]
+\centering
+\subfloat{
+   \includegraphics[width=0.6\columnwidth, height=33mm]{img/6mbps_screenshot2.png}
+}
+\\
+\vspace{-3mm}
+\subfloat{
+   \includegraphics[width=0.8\columnwidth]{img/6Mbps2Pulses_reconstructed.txt.eps}
+}
+\caption{Radar traces and bit error patterns, PHY rate 6Mbps.}
+
+\label{fig:6mbps}
+\end{figure}
+
+
+
+
+% \subsection{6Mbps bitrate}
+% 
+% We start off by evaluating low Modulation and Coding Schemes (MCS) that provide low bitrates. Frames transmitted at this rate last longer and, therefore, the probability of finding bit-error patterns from the radar signals is larger.
+% 
+% Fig.~\ref{fig:6mbpsfrag} depict such patterns in one packets sent at 6Mbps. The plot at the top of each figure shows the trace obtained with the spectrum analyzer during the transmission of this packets. The plot at the bottom sketch the reconstruction of the whole packet (from the fragments) and the summary of events occurring during its transmission. We mark the beginning of the payload (starting point where we should be able to detect error bursts) and we zoom in where the burst of errors has occurred. 
+% 
+% As we can see from the figure, we can clearly observe the bit-error pattern caused by our radar signal after the reconstruction of the packet.
+% 
+% 
+% \begin{figure}[htb!]
+% \centering
+% \subfloat{
+%    \includegraphics[width=0.75\columnwidth]{img/6mbps_screenshot_fragments}
+% }
+% \\
+% \subfloat{
+%    \includegraphics[width=\columnwidth]{img/6Mbps_frag_reconstructed.txt.eps}
+% }
+% \caption{6Mbps, fragments}
+% \label{fig:6mbpsfrag}
+% \end{figure}
+% 
+% 
+% %--------------------------%<-----------------------------
+% 
+% \subsection{24Mbps bitrate}
+% 
+% 
+% In the next experiment, depicted in Fig.~\ref{fig:24mbpsfrag}, we increase the bitrate to 24Mbps, which clearly lowers the probability of radar encounter but still allows for a clear pattern recognition. An interesting observation though, is that the second burst meeting the packet transmission did not cause any single bit error which should have been seen at the end of the reconstructed packet. This is evidence that the design of a radar detection algorithm is not trivial and has to address the the pattern recognition in a dynamic environment.
+% 
+% % \subsection{24Mbps using 260 bytes fragments}
+% % 1796 bytes (payload) UDP packets sent in broadcast from a STA (fragmented with threshold 260 bytes) and then rebroadcasted by the AP.
+% % Average errors: 47 bits.
+% % Figure~\ref{fig:24mbpsfrag}
+% 
+% \begin{figure}[htb!]
+% \centering
+% \subfloat{
+%    \includegraphics[width=0.75\columnwidth]{img/24mbps_screenshot_frags_singlespeed_c}
+% }
+% \\
+% \subfloat{
+%    \includegraphics[width=\columnwidth]{img/24Mbps_frag_reconstructed.txt}
+% }
+% \caption{24Mbps, fragments}
+% \label{fig:24mbpsfrag}
+% \end{figure}
+% 
+% %--------------------------%<-----------------------------
+% % 
+% % \subsection{24Mbps bitrate and double rate radar}
+% 
+% Next, we repeat the same experiment at 24Mbps but increase the rate of bursts to twice as much as the radar signal used in prior experiments. The result is shown in Fig.~\ref{fig:24mbpsfrag2x} which, obviously, double the chances of encountering a burst of errors within the selected fragments.
+% 
+% \begin{figure}[htb!]
+% \centering
+% \subfloat{
+%    \includegraphics[width=0.75\columnwidth]{img/24mbps_screenshot_frags_doublespeed_b}
+% }
+% \\
+% \subfloat{
+%    \includegraphics[width=\columnwidth]{img/24Mbps_frag_2x_reconstructed.txt}
+% }
+% \caption{24Mbps, fragments, double speed radar}
+% \label{fig:24mbpsfrag2x}
+% \end{figure}
+% 
+
+
+\section{Open questions}\label{sec:challenges}
+
+The experiments we have carried out so far unveil a clear footprint from radar interference which is observable while a packet reception is being processed. However, the heterogeneous (and random) nature of real-life data packet communications makes the actual design of a practical algorithm for radar detection through bit-error pattern recognition inherently challenging. The major challenge is indeed to discern the constant rate footprint of radar bursts from a decoupled data transmission, i.e., with independent rate/size distribution. 
+
+Fig.~\ref{fig:idea} illustrates this with three examples with different packet rates and packet lengths (although packet rate and length are constant in these examples, which will not be the case in general). First, a single large packet might be enough to observe a constant error burst rate that would trigger a radar presence alarm. However, the case with short packets requires a longer-term observation. Second, the analysis of consecutive packets from a high packet rate transmission could also be sufficient. However, slower rates (and/or heterogeneous distributions) might hide the presence of a radar given that most of its bursts could coincide with idle inter-frame spaces, not causing bit errors. 
+
+% \tbd{Features of a practical algorithm?}
+
+
+
+\section{Conclusions}\label{sec:conclusions}
+
+Dynamic Frequency Selection (DFS) is a mandatory scheme for wireless communication protocols operating in the 5~Ghz band in order to mitigate the interference caused to coexistent systems such as radars. Unfortunately, conventional implementations may cause severe underutilization of resources and poor performance in heavy loaded networks. Motivated by this observation, we explore the feasibility of radar detection via duly observation of bit-error patterns in received packets. In this paper, we present the initial results of our experimental evaluation and discuss a series of open questions that need to be resolved to design an effective \emph{in-service} detection mechanism.
+
+% The shift towards use of the 5~GHz band by WiFi networks requires coexistence with current systems relying on radars, e.g., meteorology, aeronautics or military, which operate in the same frequency band. Regulatory bodies mandate the implementation of Dynamic Frequency Selection (DFS) in wireless communication protocols to (i) detect radar operations and (ii) move away from channels populated by these.  Conventional approaches to implementing such scheme, however, can result in massive underutilization of the radio channel since the radio must be kept silent for a large amount of time  to ensure sufficient detection accuracy.   
+% % This inevitably impacts the throughput efficiency of the future dense networks. 
+% 
+% This observation motivates the study of \emph{in-service} detection techniques, that is, the detection of neighboring radars while performing data communication.   In this paper we consider whether bit-error patterns at the receiver of a WiFi link can be used for radar detection. In our experimental study, we adopt a pair-packet transmission technique to mitigate the interference inherent to the 802.11 protocol. Our initial results show that the observation of bit-error patterns due to radar interferences is indeed possible, which fosters the design of  reactive unobtrusive mechanisms to work transparently to the actual network protocols for the detection of radar signal patterns.
+
+% abstact: The shift towards use of the 5~GHz band by WiFi networks comes with the requirement that these networks coexist safely with existing systems using that band, e.g., meteorology, aeronautics or military radars.   Regulatory bodies are mandating the implementation of Dynamic Frequency Selection (DFS) in wireless communication protocols to (i) detect radar operations and (ii) move away from channels populated by these.  Conventional approaches to implementing such mechanisms, however, can result in massive underutilization of the radio channel since the radio must be kept silent for a large amount of time in order to ensure sufficient detection accuracy.   This inevitably impacts the throughput capacity of the wireless network.    In this paper, we consider whether bit-error patterns at the receiver of a WiFi link can be used for radar detection. In our experimental study, we adopt a pair-packet transmission technique to mitigate the interference inherent to the 802.11 protocol due to, e.g., other contending stations. Our initial results show that the observation of bit-error patterns due to radar interferences is indeed possible, establishing that the potential exists to design unobtrusive detection mechanisms that work transparently with existing network protocols without loss of network capacity.
+
+
+
+% use section* for acknowledgement
+\section*{Acknowledgment}
+
+
+Work supported by Science Foundation Ireland grant 11/PI/11771.
+
+
+
+
+% trigger a \newpage just before the given reference
+% number - used to balance the columns on the last page
+% adjust value as needed - may need to be readjusted if
+% the document is modified later
+%\IEEEtriggeratref{8}
+% The "triggered" command can be changed if desired:
+%\IEEEtriggercmd{\enlargethispage{-5in}}
+
+% references section
+
+% can use a bibliography generated by BibTeX as a .bbl file
+% BibTeX documentation can be easily obtained at:
+% http://www.ctan.org/tex-archive/biblio/bibtex/contrib/doc/
+% The IEEEtran BibTeX style support page is at:
+% http://www.michaelshell.org/tex/ieeetran/bibtex/
+%\bibliographystyle{IEEEtran}
+% argument is your BibTeX string definitions and bibliography database(s)
+%\bibliography{IEEEabrv,../bib/paper}
+%
+% <OR> manually copy in the resultant .bbl file
+% set second argument of \begin to the number of references
+% (used to reserve space for the reference number labels box)
+%
+% As suggested below, edit bibtemplate_samples.bib to reflect
+% your bibliography. See bibtemplate.text for referencing.
+%
+
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,radar}
+
+
+
+
+
+% that's all folks
+\end{document}
+
+

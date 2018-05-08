@@ -1,0 +1,562 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Andres Garcia Saavedra</title>
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20894679-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+    <meta name="author" content="Andres Garcia Saavedra">
+    <meta name="description" content="Personal page of Andres Garcia
+      Saavedra (aka Andres Garcia-Saavedra): Publications, projects,
+      etc.">
+    <meta name="keywords" content="Andres Garcia-Saavedra, Andres Garcia
+      Saavedra, Personal page, Publications, Biography">
+    <meta name="keywords" content="Andres Garcia Saavedra, Personal
+      Page, Publications, CV" lang="en">
+    <meta http-equiv="Content-Type" content="text/html;
+      charset=ISO-8859-15">
+    <link href="estilo.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="headerBorderUc3mblue">
+      <div class="header white"> <a href="http://www.uc3m.es/"> <img
+            class="logos logoleft"
+            src="index_files/EscudoLogoCorporativo.png" alt="Carlos III
+            University of Madrid"> </a> <a
+          href="http://www.it.uc3m.es/"> <img class="logos logoright"
+            src="index_files/EnglishLogoIT.png" alt="Telematic
+            Engineering Department"> </a> </div>
+      <div class="headerBorderUc3mblue">
+        <table width="100%" bgcolor="#000000" border="0" cellpadding="0"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <table width="100%" border="0" cellpadding="0"
+                  cellspacing="1">
+                  <tbody>
+                    <tr>
+                      <td width="2000" height="1" bgcolor="#bbc7fb"><img
+                          src="index_files/spacer.gif"></td>
+                    </tr>
+                    <tr>
+                      <td width="2000" height="22" bgcolor="#ccd0d6">
+                        <div align="right"><a
+                            href="http://www.it.uc3m.es/vi/localizacion/localizacion.htm"
+                            class="azul">Location</a> | <a
+                            href="http://www.it.uc3m.es/vi/personal/directorio.htm"><span
+                              class="rojo">Personnel</span></a> | <a
+                            href="http://www.it.uc3m.es/vi/docencia/docencia.htm"
+                            class="azul">Teaching</a> | <a
+                            href="http://www.it.uc3m.es/vi/investigacion/investigacion.htm"
+                            class="azul">Research</a> | <a
+                            href="http://www.it.uc3m.es/vi/novedades/novedades.htm"
+                            class="azul">News</a> | <a
+                            href="http://www.it.uc3m.es/vi/intranet/intranet.htm"
+                            class="azul">Intranet</a> &nbsp;&nbsp;</div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table width="95%" align="center" border="0" cellpadding="0"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td valign="bottom" height="24"><a
+                  href="http://www.it.uc3m.es/" class="azul">Home</a> /
+                <a
+                  href="http://www.it.uc3m.es/vi/personal/directorio.htm"
+                  class="azul">Personnel</a> / <a
+                  href="http://www.it.uc3m.es/vi/personal/directorio.htm#titulares"
+                  class="azul">Group </a> / <span class="peq">Andres
+                  Garcia Saavedra</span></td>
+              <td valign="bottom" height="24">
+                <div align="right"><a href="javascript:history.back();"><img
+                      src="index_files/flechamenos.gif" alt="anterior"
+                      width="18" height="12" border="0"></a><a href="#"><img
+                      src="index_files/flechamas.gif" alt="siguiente"
+                      width="18" height="12" border="0"></a></div>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" height="2" bgcolor="#ffffff"><img
+                  src="index_files/spacer.gif"></td>
+            </tr>
+            <tr>
+              <td colspan="2" height="1" bgcolor="#000066"><img
+                  src="index_files/spacer.gif"></td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <table width="95%" align="center" border="0" cellpadding="1"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td width="62%">
+                <table width="100%" align="center" border="0"
+                  cellpadding="1" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td bgcolor="#000033">
+                        <table width="100%" height="100%"
+                          bgcolor="#ffffff" border="0" cellpadding="3"
+                          cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <td valign="top" width="15%">
+                                <div align="center"><img style="width:
+                                    83px; height: 122px;"
+                                    src="index_files/dres.jpg"></div>
+                              </td>
+                              <td width="3">
+                                <p>&nbsp;</p>
+                              </td>
+                              <td> <b><font color="#000066">Andres
+                                    Garcia Saavedra</font></b><br>
+                                PhD Candidate<br>
+                                <br>
+                                <b>Telephone:</b>: (+34) 91-624-8795<br>
+                                <b>Fax</b>: <br>
+                                <b>E-mail</b>: <a
+                                  href="mailto:agsaaved@it.uc3m.es">agsaaved@it.uc3m.es</a><br>
+                                <b>Address</b>: Universidad Carlos III
+                                de Madrid. Avda de la Universidad, 30 <br>
+                                E-28911 Leganes (Madrid) Spain <br>
+                                <b>Visits</b>: Escuela Politecnica
+                                Superior - Building Torres Quevedo - <br>
+                                Office L-4.1F15</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td valign="top" width="38%">
+                <table width="95%" align="center" bgcolor="#ccd0d6"
+                  border="0" cellpadding="1" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td>
+                        <table width="100%" height="100%" border="0"
+                          cellpadding="1" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <td bgcolor="#ffffff">
+                                <ul>
+                                  <br>
+                                  <li class="lista"><a href="#1">Teaching</a></li>
+                                  <li class="lista"><a href="#2">Research</a></li>
+                                  <li class="lista"><a href="#3">Links</a><a
+                                      href="#4"><br>
+                                    </a><br>
+                                  </li>
+                                </ul>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <table width="95%" align="center" border="0" cellpadding="2"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                </ul>
+                <span style="font-weight: bold;"></span><span
+                  style="font-weight: bold;"></span>
+                <meta http-equiv="content-type" content="text/html;
+                  charset=ISO-8859-15">
+                <table style="color: rgb(34, 34, 34); font-style:
+                  normal; font-variant: normal; font-weight: normal;
+                  letter-spacing: normal; line-height: normal; orphans:
+                  2; text-align: -webkit-auto; text-indent: 0px;
+                  text-transform: none; white-space: normal; widows: 2;
+                  word-spacing: 0px; -webkit-text-size-adjust: auto;
+                  -webkit-text-stroke-width: 0px; background-color:
+                  rgba(255, 255, 255, 0.917969); font-size: 10pt;
+                  font-family: Arial, Helvetica, sans-serif; "
+                  width="95%" align="center" border="0" cellpadding="2"
+                  cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td style="margin-top: 0px; margin-right: 0px;
+                        margin-bottom: 0px; margin-left: 0px;
+                        font-family: arial, sans-serif; font-size: 10pt;
+                        ">
+                        <p style="font-family: arial, sans-serif; ">Andres
+
+
+
+                          Garcia-Saavedra received his B.Sc. in
+                          Telecommunication Engineering from Universidad
+                          of Cantabria in 2009, and his M.Sc. in
+                          Telematics Engineering from<span
+                            class="Apple-converted-space">&nbsp;</span><span
+                            style="font-size: 10pt; font-family: Arial,
+                            Helvetica, sans-serif; ">Universidad Carlos
+                            III de Madrid (UC3M)</span><span
+                            style="font-size: 10pt; font-family: Arial,
+                            Helvetica, sans-serif; ">&nbsp;in 2010.
+                            Currently he&nbsp;</span><span
+                            style="font-family: Arial, Helvetica,
+                            sans-serif; font-size: 10pt; ">holds the
+                            position of Teaching Assistant&nbsp;</span><span
+                            style="font-size: 10pt; font-family: Arial,
+                            Helvetica, sans-serif; ">and&nbsp;</span><span
+                            style="font-size: 10pt; font-family: Arial,
+                            Helvetica, sans-serif; ">pursues his
+                            Ph.D.&nbsp;</span><span style="font-size:
+                            10pt; font-family: Arial, Helvetica,
+                            sans-serif; ">in the Telematics Department
+                            of UC3M</span><span style="font-size: 10pt;
+                            font-family: Arial, Helvetica, sans-serif; ">.
+                            His work focuses on performance evaluation
+                            and energy efficiency of wireless networks.</span></p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="4" class="peq">
+                <div align="right"><a href="#"><img
+                      src="index_files/flechaup.gif" width="12"
+                      height="18" border="0"></a></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <table width="95%" align="center" border="0" cellpadding="1"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td bgcolor="#000033">
+                <table width="100%" align="center" bgcolor="#ffffff"
+                  border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr bgcolor="#cccccc">
+                      <td height="13" bgcolor="#ccd0d6"><b class="menut">&nbsp;PUBLICATIONS</b></td>
+                      <td height="13" bgcolor="#ccd0d6">
+                        <div align="right"><img
+                            src="index_files/degradtabla2.jpg"
+                            width="236" height="15"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table width="95%" align="center" border="0" cellpadding="2"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td> <span style="font-weight: bold;"></span> <span
+                  style="font-weight: bold;">2012<br>
+                </span>
+                <ul>
+	<li><a href="papers/2012_garcia-saavedra_conext.pdf">Energy consumption anatomy of 802.11 devices and its implication on modeling and design</a><br/>
+	Andres Garcia-Saavedra, Pablo Serrano, Albert Banchs, Giuseppe Bianchi<br/>
+	ACM CoNEXT 2012, Nice, France, December 2012</li>
+	<br/>
+                  <a href="./papers/2012_infocom.pdf"><li>"Distributed Opportunistic Scheduling: A Control
+                    Theoretic Approach"<br></a>
+                    Andres Garcia-Saavedra, Albert Banchs, Pablo
+                    Serrano, Joerg Widmer<br>
+                    <span style="font-style: italic;"><span
+                        style="font-style: italic;">Accepted for
+                        publication at 31th IEEE International
+                        Conference on Computer Communications (IEEE
+                        INFOCOM 2012)</span></span></li>
+                  <li><a href="./papers/2012_pmc.pdf">&quot;Balancing Energy Efficiency and Throughput Fairness in IEEE 802.11 WLANs&quot;<br></a>
+                    Andres Garcia-Saavedra, Pablo Serrano, Albert Banchs, Matthias Hollick<br> 
+                    <span style="font-style: italic;"><span
+                        style="font-style: italic;">Elsevier Pervasive and Mobile Computing</li>
+                  </li>
+                </ul>
+                <span style="font-weight: bold;">2011<br>
+                </span>
+                <ul>
+                  <li><a href="papers/2011_wowmom.pdf">"</a><em><a
+                        href="papers/2011_wowmom.pdf"><em>Energy-efficient fair channel access for IEEE 802.11 WLANs</em>"</a><br>
+                    </em>Andres Garcia-Saavedra, Pablo Serrano, Albert
+                    Banchs, Matthias Hollick<br>
+                    World of Wireless Mobile and Multimedia Networks (WoWMoM), 2011 IEEE International Symposium</li>
+                   <li><a href="./papers/2012_wowmom_ext_abstract.pdf">&quot;Greening IEEE 802.11 channel access&quot;<br></a>
+                    Andres Garcia-Saavedra<br> 
+                    <span style="font-style: italic;"><span
+                        style="font-style: italic;">2011 IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks</li>
+                  </li>
+
+                  <li>"On the Scalability of Carrier-grade Mesh Network
+                    Architectures"<br>
+                    Johannes Lessmann, Antonio de la Oliva, Cigdem
+                    Sengul, Andres Garcia, Mathias Kretschmer, Sean
+                    Murphy, Paul Patras<br>
+                    Future Network and MobileSummit 2011</li>
+                </ul>
+                <span style="font-weight: bold;">2010<br>
+                </span>
+                <ul>
+                  <li><a href="./papers/TMF_AndresGarciaSaavedra.pdf">"Energy-efficient fair channel access for IEEE 802.11 WLANs"</a><br>
+                    Andres Garcia Saavedra<br>
+                    M.Sc. thesis</li>
+                  <a href="./papers/2010_sigcomm_demo.pdf"><li>"CARMEN: Resource Management and Abstraction in
+                    Wireless Heterogeneous Mesh Networks"<br></a>
+                    Nico Bayer; Krysztof Loziak; Andres Garcia-Saavedra;
+                    Cigdem Sengul; Pablo Serrano<br>
+                    Sigcomm 2010 Conference <br>
+                    Demo Session (1/3 of acceptance for demos and poster
+                    submissions)</li>
+                  <li><a href="./papers/2010_energy_ew.pdf">"On the
+                      Energy Efficiency of IEEE 802.11 WLANs" </a><br>
+                    Pablo Serrano, Andres Garcia-Saavedra, Matthias
+                    Hollick, Albert Banchs<br>
+                    European Wireless (EW) conference, 2010.
+                </ul>
+                <span style="font-weight: bold;">
+                  <ul>
+                  </ul>
+                  <ul>
+                  </ul>
+                </span></td>
+            </tr>
+            <tr>
+              <td colspan="4" class="peq">
+                <div align="right"><a href="#"><img
+                      src="index_files/flechaup.gif" width="12"
+                      height="18" border="0"></a></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <br>
+   
+
+<table align="center" border="0" cellpadding="1" cellspacing="0" width="95%">
+  <tbody>
+    <tr>
+      <td bgcolor="#000033">
+      <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody>
+          <tr bgcolor="#cccccc">
+            <td bgcolor="#ccd0d6" height="13"><b class="menut">&nbsp;<font color="#000033">TEACHING</font><a name="1"></a></b></td>
+            <td bgcolor="#ccd0d6" height="13">
+            <div align="right"><img src="http://www.it.uc3m.es/imag/degradtabla2.jpg" height="15" width="236"></div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="center" border="0" cellpadding="2" cellspacing="0" width="95%">
+  <tbody>
+    <tr>
+      <td>
+Current courses:
+      <ul>
+<li>Teor&iacute;a de Redes (2o Grado en Ing. Telem&aacute;tica):<ul><li> 10/11, 11/12, 12/13</li></ul></li>
+<li>Sistemas Audiovisuales M&oacute;viles (2o Grado en Ing. Telem&aacute;tica):<ul><li> 12/13 </li></ul></li>
+</ul>
+Past courses:
+<ul>
+        <li>Redes y Servicios de Comunicaciones (2o Grado en Ing. Telem&aacute;tica):<ul><li> 09/10, 10/11, 11/12</li></ul></li>
+      </ul>
+
+
+Current students:
+<ul>
+</ul>
+
+Past students:
+<ul>
+<li>Jos&eacute; Mar&iacute;a Montes Yuste, Grado Ing. Telem&aacute;tica (2013-07-10)</li>
+<li><a href="http://georgiospapadopoulos.com/">Georgios Z. Papadopoulos</a>, MsC Telematics Engineering (2012-07-11)</li>
+<li><a href="http://fourier.networks.imdea.org/people/~vasileios_papadopoulos/">Vasileios Papadopoulos</a> (2011-11-23) </li>
+</ul>
+
+
+
+        <table width="95%" align="center" border="0" cellpadding="1"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td bgcolor="#000033">
+                <table width="100%" align="center" bgcolor="#ffffff"
+                  border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr bgcolor="#cccccc">
+                      <td height="13" bgcolor="#ccd0d6"><b class="menut">&nbsp;PROJECTS</b></td>
+                      <td height="13" bgcolor="#ccd0d6">
+                        <div align="right"><img
+                            src="index_files/degradtabla2.jpg"
+                            width="236" height="15"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table width="95%" align="center" border="0" cellpadding="2"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td> <span style="font-weight: bold;"></span> <span
+                  style="font-weight: bold;">2011-currently</span>
+                <ul>
+                  <li><a href="http://www.ict-flavia.eu/">FLAVIA:
+                      FLexible Architecture for Virtualizable future
+                      wireless Internet Access</a></li>
+                  <li><a href="http://www.neclab.eu/">Collaboration with
+                      NEC Laboratories Europe</a><br>
+                  </li>
+                </ul>
+                <span style="font-weight: bold;">2010</span>
+                <ul>
+                  <a href="http://www.it.uc3m.es/%7Enetcom"> </a>
+                  <li><a href="http://www.it.uc3m.es/%7Enetcom"> </a><a
+                      href="http://www.ict-carmen.eu/">CARMEN: Carrier
+                      Grade Mesh Networks</a></li>
+                </ul>
+                <ul>
+                </ul>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="4" class="peq">
+                <div align="right"><a href="#"><img
+                      src="index_files/flechaup.gif" width="12"
+                      height="18" border="0"></a></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table width="95%" align="center" border="0" cellpadding="1"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td bgcolor="#000033">
+                <table width="100%" align="center" bgcolor="#ffffff"
+                  border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr bgcolor="#cccccc">
+                      <td height="13" bgcolor="#ccd0d6"><font
+                          class="menut" color="#000033">&nbsp;<b>LINKS</b></font></td>
+                      <td height="13" bgcolor="#ccd0d6">
+                        <div align="right"><img
+                            src="index_files/degradtabla2.jpg"
+                            width="236" height="15"></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table width="95%" align="center" border="0" cellpadding="2"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                  <br>
+                  <li> <a href="./AndresGarciaSaavedra_resume.pdf">My
+                      CV</a>&nbsp;</li>
+                  <li><a href="http://www.netcom.it.uc3m.es/">Visit
+                      NETCOM's webpage: Research in communications and
+                      services networks/a&gt;</a></li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="4" class="peq">
+                <div align="right"><a href="#"><img
+                      src="index_files/flechaup.gif" width="12"
+                      height="18" border="0"></a></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table width="95%" align="center" border="0" cellpadding="2"
+          cellspacing="0">
+          <tbody>
+            <tr>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <table width="100%" height="27" border="0" cellpadding="0"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <div align="center"><a
+                    href="http://www.it.uc3m.es/vi/localizacion/localizacion.htm"
+                    class="azul">Location</a> | <a
+                    href="http://www.it.uc3m.es/vi/personal/directorio.htm"><span
+                      class="rojo">Personnel</span></a> | <a
+                    href="http://www.it.uc3m.es/vi/docencia/docencia.htm"
+                    class="azul">Teaching</a> | <a
+                    href="http://www.it.uc3m.es/vi/investigacion/investigacion.htm"
+                    class="azul">Research</a> | <a
+                    href="http://www.it.uc3m.es/vi/novedades/novedades.htm"
+                    class="azul">News</a> | <a
+                    href="http://www.it.uc3m.es/vi/intranet/intranet.htm"
+                    class="azul">Intranet</a></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table width="97%" align="center" border="0" cellpadding="0"
+          cellspacing="0">
+          <tbody>
+            <tr>
+              <td background="index_files/fondomenu.jpg">
+                <div align="center"> <span class="menut"><a
+                      href="http://www.it.uc3m.es/">inicio</a> | <a
+                      href="http://www.it.uc3m.es/mapa.htm">mapa del web</a>
+                    | <a href="http://www.it.uc3m.es/contacta.htm">contacta</a></span>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>
