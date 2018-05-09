@@ -93,6 +93,18 @@
     
     <item>
       <title></title>
+      <link>/talk/20180415_infocom/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/20180415_infocom/</guid>
+      <description>
+
+&lt;h1 id=&#34;embed-your-slides-or-video-here-using-shortcodes-https-sourcethemes-com-academic-post-writing-markdown-latex-further-details-can-easily-be-added-using-markdown-and-rm-latex-math-code&#34;&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/talk/20180501_ton/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
@@ -159,18 +171,6 @@
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0100</pubDate>
       
       <guid>/publication/2016-ucar-mswin-revisiting/</guid>
-      <description>
-
-&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>srsLTE: An Open-Source Platform for LTE Evolution and Experimentation</title>
-      <link>/publication/2016_gomez-miguelez_wintech/</link>
-      <pubDate>Fri, 07 Oct 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2016_gomez-miguelez_wintech/</guid>
       <description>
 
 &lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
