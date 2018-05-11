@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5G on Andres Garcia-Saavedra</title>
+    <link>/tags/5g/</link>
+    <description>Recent content in 5G on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/5g/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5G-TRANSFORMER</title>
+      <link>/project/transformer/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/project/transformer/</guid>
+      <description>5G-Transformer defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:
+ Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes). Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.</description>
+    </item>
+    
+    <item>
+      <title>5G-CROSSHAUL</title>
+      <link>/project/crosshaul/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/project/crosshaul/</guid>
+      <description>Mobile data traffic is forecasted to increase 11-fold between 2013 and 2018. 5G networks serving this mobile data tsunami will require fronthaul and backhaul solutions between the RAN and the packet core capable of dealing with this increased traffic load while fulfilling new stringent 5G service requirements in a cost-efficient manner. The 5G-Crosshaul project aims at developing a 5G integrated backhaul and fronthaul transport network enabling a flexible and software-defined reconfiguration of all networking elements in a multi-tenant and service-oriented unified management environment.</description>
+    </item>
+    
+  </channel>
+</rss>

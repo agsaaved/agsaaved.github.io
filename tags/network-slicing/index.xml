@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network slicing on Andres Garcia-Saavedra</title>
+    <link>/tags/network-slicing/</link>
+    <description>Recent content in Network slicing on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/network-slicing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5G-TRANSFORMER</title>
+      <link>/project/transformer/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/project/transformer/</guid>
+      <description>5G-Transformer defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:
+ Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes). Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.</description>
+    </item>
+    
+  </channel>
+</rss>

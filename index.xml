@@ -57,13 +57,27 @@
     </item>
     
     <item>
-      <title>EU 5G-PPP project 5G-TRANSFORMER has just kicked off!</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      <title>5G-TRANSFORMER</title>
+      <link>/project/transformer/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
-      <guid>/post/getting-started/</guid>
-      <description>&lt;p&gt;EU 5G-PPP project 5G-TRANSFORMER(&lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;https://themes.gohugo.io/theme/academic/&lt;/a&gt;)  has just kicked off!
-&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+      <guid>/project/transformer/</guid>
+      <description>&lt;p&gt;5G-Transformer defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes).&lt;/li&gt;
+&lt;li&gt;Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.&lt;/li&gt;
+&lt;li&gt;Mobile Transport and Computing Platform as the underlying unified transport stratum for integrated fronthaul and backhaul networks.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For more information click &lt;a href=&#34;http://5g-transformer.eu/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Date: 01/06/2017 &amp;ndash; End Date: 30/11/2019&lt;/li&gt;
+&lt;li&gt;European Commision (EC) contribution: 7.985.582,41 €&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;5GT-partners.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

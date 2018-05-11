@@ -41,8 +41,8 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2017-06-01T00:00:00+02:00</lastmod>
+      <loc>/project/transformer/</loc>
+      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -185,24 +185,6 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/2016_valls_commlet/</loc>
       <lastmod>2016-04-21T00:00:00+02:00</lastmod>
     </url>
@@ -214,6 +196,15 @@
     
       <loc>/publication/2015_patras_adhoc/</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/crosshaul/</loc>
+      <lastmod>2015-07-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -320,6 +311,24 @@
     
     <url>
     
+      <loc>/project/flavia/</loc>
+      <lastmod>2010-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/carmen/</loc>
+      <lastmod>2008-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
       <lastmod>2018-04-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -340,8 +349,28 @@
     
     <url>
     
+      <loc>/tags/5g/</loc>
+      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/backhaul/</loc>
+      <lastmod>2015-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -359,8 +388,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <loc>/tags/fronthaul/</loc>
+      <lastmod>2015-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -369,8 +398,8 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <loc>/tags/network-slicing/</loc>
+      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -380,17 +409,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/projects/</loc>
-      <lastmod>2017-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -411,6 +430,26 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/wireless-mesh/</loc>
+      <lastmod>2008-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/wireless-virtualization/</loc>
+      <lastmod>2010-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

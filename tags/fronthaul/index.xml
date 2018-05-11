@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fronthaul on Andres Garcia-Saavedra</title>
+    <link>/tags/fronthaul/</link>
+    <description>Recent content in Fronthaul on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/fronthaul/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5G-CROSSHAUL</title>
+      <link>/project/crosshaul/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/project/crosshaul/</guid>
+      <description>Mobile data traffic is forecasted to increase 11-fold between 2013 and 2018. 5G networks serving this mobile data tsunami will require fronthaul and backhaul solutions between the RAN and the packet core capable of dealing with this increased traffic load while fulfilling new stringent 5G service requirements in a cost-efficient manner. The 5G-Crosshaul project aims at developing a 5G integrated backhaul and fronthaul transport network enabling a flexible and software-defined reconfiguration of all networking elements in a multi-tenant and service-oriented unified management environment.</description>
+    </item>
+    
+  </channel>
+</rss>

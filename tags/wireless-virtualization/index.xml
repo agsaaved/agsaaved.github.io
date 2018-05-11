@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless virtualization on Andres Garcia-Saavedra</title>
+    <link>/tags/wireless-virtualization/</link>
+    <description>Recent content in Wireless virtualization on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jul 2010 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/wireless-virtualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FLAVIA</title>
+      <link>/project/flavia/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0200</pubDate>
+      
+      <guid>/project/flavia/</guid>
+      <description>Wireless networks importance for the Future Internet is raising at a fast pace as mobile devices increasingly become its entry point. However, today’s wireless networks are unable to rapidly adapt to evolving contexts and service needs due to their rigid architectural design.
+FLAVIA fosters a paradigm shift towards the Future Wireless Internet: from pre-designed link services to programmable link processors. The key concept is to expose flexible programmable interfaces enabling service customization and performance optimization through software-based exploitation of low-level operations and control primitives, e.</description>
+    </item>
+    
+  </channel>
+</rss>

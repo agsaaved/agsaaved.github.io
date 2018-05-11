@@ -41,15 +41,6 @@
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -68,6 +59,15 @@
     </item>
     
     <item>
+      <title>Research Projects</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -77,14 +77,23 @@
     </item>
     
     <item>
+      <title>Service to Research Community</title>
+      <link>/home/community/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/community/</guid>
+      <description>Editorial and Organization duties  [2018] Technical Program Commitee (TPC) Chair ACM WiNTECH 2018 [2016-now] Area Editor of Elsevier Computer Communications [2016] Technical Program Commitee (TPC) Chair IEEE Online GreenComm 2016 [2013] Web and Software Tools Chair IEEE Online GreenComm 2013  Technical Program Committee (TPC) and Reviewing duties  TPC member in IEEE Globecom (2018), MadCom (2018), FiCloud (2018), IEEE COMNETSAT (2018), IEEE MASS (2018), EFC-IoT (2018), IEEE VTC (2015-Fall, 2017-spring), Elsevier Computer Communications (2014, 2015, 2016), MACOM (2014, 2015), AWICT (2015), IEEE GlobalSIP (2015), MOBIWAC (2014, 2015, 2016, 2017, 2018), ACM WiNTECH (2013, 2016, 2017), SustainIT (2013, 2014, 2015, 2016), ICALP (2012) Regular reviewer of IEEE Communication Letters (2014 Exemplary Reviewer), IEEE Journal on Selected Areas in Communication (JSAC), IEEE Transactions on Vehicular Technology, IEEE INFOCOM, IEEE Wireless Communications, IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Communications Magazine, IEEE Transactions on Communications, IEEE Transactions on Wireless Communications, IEEE Communication Surveys &amp;amp; Tutorials, IEEE Globecom, IEEE VTC, Elsevier Adhoc Networks, Springer Wireless Networks, International Conference on Communications (ICT), EURASIP Journal on Wireless Communications and Networking, IEEE Globecom, International Workshop on Multiple Access Communications (MACOM), Elsevier Computer Communications (COMCOM), Elsevier Computer Networks (COMNET), International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), International Workshop on Wireless Network Testbeds (WiNTECH), International Colloquium on Automata, Languages and Programming (ICALP), International Symposium on a World of Wireless, Mobile and Multimedia Networks (IEEE WoWMoM).</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>I have supervised the following students:
+ Josep Xavier Salvat, M.Sc. Telematics Eng., Universitat Politècnica de Catalunya (2016). Jose Maria Montes Yuste, B.Sc. Telematics Eng., University Carlos III of Madrid (2013). Georgios Z. Papadopoulos, M.Sc Telematics Eng., University Carlos III of Madrid (2012). Vasileios Papadopoulos, B.Sc. Software Eng., Alexander Technological Institute of Thessaloniki (2011).  My teaching duties, while being a Teaching Assistant (TA) at UC3M, were:
+ Theory of networks (10 /11, 11 /12, 12 /13): Introduction to probability, Markov models and queueing theory.</description>
     </item>
     
     <item>

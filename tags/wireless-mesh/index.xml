@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless mesh on Andres Garcia-Saavedra</title>
+    <link>/tags/wireless-mesh/</link>
+    <description>Recent content in Wireless mesh on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/wireless-mesh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CARMEN</title>
+      <link>/project/carmen/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/project/carmen/</guid>
+      <description>CARMEN, CARrier grade MEsh Networks, will study and specify a wireless mesh network supporting carrier grade triple-play services for mobile/fixed network operators. Future operator networks will be comprised of a common core network and several access networks, and the CARMEN access network will complement other access technologies by providing a low cost and fast deployment mesh network access technology. The project proposes the integration of heterogeneous wireless technologies in a multi-hop fashion to provide scalable and efficient ubiquitous quad-play carrier services.</description>
+    </item>
+    
+  </channel>
+</rss>

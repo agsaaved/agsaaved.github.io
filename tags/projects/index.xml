@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>EU 5G-PPP project 5G-TRANSFORMER has just kicked off!</title>
-      <link>/post/getting-started/</link>
+      <title>5G-TRANSFORMER</title>
+      <link>/project/transformers/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
       
-      <guid>/post/getting-started/</guid>
-      <description>EU 5G-PPP project 5G-TRANSFORMER(https://themes.gohugo.io/theme/academic/) has just kicked off! Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.</description>
+      <guid>/project/transformers/</guid>
+      <description>5G-Transformer defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:
+ Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes). Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.</description>
     </item>
     
   </channel>
