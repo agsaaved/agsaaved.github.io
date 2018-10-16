@@ -11,6 +11,90 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Overbooking Network Slices through Yield-driven End-to-End Orchestration</title>
+      <link>/publication/2018_salvat_conext/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_salvat_conext/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20181001_tmc/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20181001_tmc/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20181001_ton/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20181001_ton/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joint Optimization of Edge Computing Architectures and Radio Access Networks</title>
+      <link>/publication/2018_garcia-saavedra_jsac_fluidran/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_garcia-saavedra_jsac_fluidran/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LaSR: A Supple Multi-Connectivity Scheduler for Multi-RAT OFDMA  Systems</title>
+      <link>/publication/2018_diez_tmc_lasr/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_diez_tmc_lasr/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ORLA/OLAA: Orthogonal Coexistence of LAA and WiFi in Unlicensed Spectrum</title>
+      <link>/publication/2018_garcia-saavedra_ton_lteu/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_garcia-saavedra_ton_lteu/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20180801_conext/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20180801_conext/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20180801_jsac/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20180801_jsac/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FluidRAN: Optimized vRAN/MEC Orchestration</title>
       <link>/publication/2018_garcia-saavedra_infocom_fluidran/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0200</pubDate>
@@ -57,31 +141,6 @@
     </item>
     
     <item>
-      <title>5G-TRANSFORMER</title>
-      <link>/project/transformer/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/project/transformer/</guid>
-      <description>&lt;p&gt;5G-Transformer defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes).&lt;/li&gt;
-&lt;li&gt;Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.&lt;/li&gt;
-&lt;li&gt;Mobile Transport and Computing Platform as the underlying unified transport stratum for integrated fronthaul and backhaul networks.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;For more information click &lt;a href=&#34;http://5g-transformer.eu/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Date: 01/06/2017 &amp;ndash; End Date: 30/11/2019&lt;/li&gt;
-&lt;li&gt;European Commision (EC) contribution: 7.985.582,41 €&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;5GT-partners.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Low Delay Random Linear Coding and Scheduling Over Multiple Interfaces</title>
       <link>/publication/2017_garcia-saavedra_tmc/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0100</pubDate>
@@ -114,80 +173,6 @@
       <description>
 
 &lt;h1 id=&#34;embed-your-slides-or-video-here-using-shortcodes-https-sourcethemes-com-academic-post-writing-markdown-latex-further-details-can-easily-be-added-using-markdown-and-rm-latex-math-code&#34;&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20180501_ton/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20180501_ton/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>5G-TRANSFORMER</title>
-      <link>/talk/20170601_transformers/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20170601_transformers/</guid>
-      <description>&lt;p&gt;#Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Call for papers for ACM WiNTECH 2018</title>
-      <link>/talk/20180401_wintech/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20180401_wintech/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper accepted at IEEE INFOCOM 2018</title>
-      <link>/talk/20171127_infocom/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20171127_infocom/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper accepted at IEEE Transactions on Mobile Computing</title>
-      <link>/talk/20180109_tmc/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20180109_tmc/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper accepted at IEEE/ACM Transactions on Networking</title>
-      <link>/talk/20170701_ton/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20170701_ton/</guid>
-      <description>
-
-&lt;h1 id=&#34;embed-your-slides-or-video-here-using-shortcodes-https-sourcethemes-com-academic-post-writing-markdown-latex-further-details-can-easily-be-added-using-markdown-and-rm-latex-math-code&#34;&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Revisiting 802.11 Rate Adaptation from Energy Consumption&#39;s Perspective</title>
-      <link>/publication/2016-ucar-mswin-revisiting/</link>
-      <pubDate>Thu, 17 Nov 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2016-ucar-mswin-revisiting/</guid>
-      <description>
-
-&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
 </description>
     </item>
     

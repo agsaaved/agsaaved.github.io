@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joint Optimization of Edge Computing Architectures and Radio Access Networks</title>
+      <link>/publication/2018_garcia-saavedra_jsac_fluidran/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_garcia-saavedra_jsac_fluidran/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>LaSR: A Supple Multi-Connectivity Scheduler for Multi-RAT OFDMA  Systems</title>
+      <link>/publication/2018_diez_tmc_lasr/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_diez_tmc_lasr/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>ORLA/OLAA: Orthogonal Coexistence of LAA and WiFi in Unlicensed Spectrum</title>
+      <link>/publication/2018_garcia-saavedra_ton_lteu/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_garcia-saavedra_ton_lteu/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
     
     <item>
       <title>On the energy efficiency of rate and transmission power control in 802.11</title>
