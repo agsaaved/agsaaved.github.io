@@ -141,6 +141,31 @@
     </item>
     
     <item>
+      <title>5G-TRANSFORMER</title>
+      <link>/project/transformer/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/project/transformer/</guid>
+      <description>&lt;p&gt;5G-Transformer defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes).&lt;/li&gt;
+&lt;li&gt;Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.&lt;/li&gt;
+&lt;li&gt;Mobile Transport and Computing Platform as the underlying unified transport stratum for integrated fronthaul and backhaul networks.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For more information click &lt;a href=&#34;http://5g-transformer.eu/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Date: 01/06/2017 &amp;ndash; End Date: 30/11/2019&lt;/li&gt;
+&lt;li&gt;European Commision (EC) contribution: 7.985.582,41 €&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;5GT-partners.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Low Delay Random Linear Coding and Scheduling Over Multiple Interfaces</title>
       <link>/publication/2017_garcia-saavedra_tmc/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0100</pubDate>
@@ -161,18 +186,6 @@
       <description>
 
 &lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20180415_infocom/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20180415_infocom/</guid>
-      <description>
-
-&lt;h1 id=&#34;embed-your-slides-or-video-here-using-shortcodes-https-sourcethemes-com-academic-post-writing-markdown-latex-further-details-can-easily-be-added-using-markdown-and-rm-latex-math-code&#34;&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
 </description>
     </item>
     

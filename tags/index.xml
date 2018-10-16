@@ -21,5 +21,59 @@
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
+    <item>
+      <title>5G</title>
+      <link>/tags/5g/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/5g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backhaul</title>
+      <link>/tags/backhaul/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/backhaul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fronthaul</title>
+      <link>/tags/fronthaul/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/fronthaul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network slicing</title>
+      <link>/tags/network-slicing/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/network-slicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wireless mesh</title>
+      <link>/tags/wireless-mesh/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/wireless-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wireless virtualization</title>
+      <link>/tags/wireless-virtualization/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/wireless-virtualization/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
