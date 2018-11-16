@@ -11,18 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Energy consumption anatomy of 802.11 devices and its implication on modeling and design</title>
-      <link>/publication/2018_garcia-saavedra_conext_enso/</link>
-      <pubDate>Tue, 04 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018_garcia-saavedra_conext_enso/</guid>
-      <description>
-
-&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Cellular access multi-tenancy through small-cell virtualization andcommon RF front-end sharing</title>
       <link>/publication/2018_mendes_comcom_vran/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
@@ -186,6 +174,18 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&#34;5GT-partners.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low Delay Random Linear Coding and Scheduling Over Multiple Interfaces</title>
+      <link>/publication/2017_garcia-saavedra_tmc/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017_garcia-saavedra_tmc/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
 </description>
     </item>
     
