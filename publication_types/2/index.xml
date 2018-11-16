@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cellular access multi-tenancy through small-cell virtualization andcommon RF front-end sharing</title>
+      <link>/publication/2018_mendes_comcom_vran/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_mendes_comcom_vran/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
     
     <item>
       <title>Joint Optimization of Edge Computing Architectures and Radio Access Networks</title>
