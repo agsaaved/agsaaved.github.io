@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs</title>
+      <link>/publication/2019_ayala_mobicom/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2019_ayala_mobicom/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
     
     <item>
       <title>Overbooking Network Slices through Yield-driven End-to-End Orchestration</title>
