@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>/talk/20191025_mobicom/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20191025_mobicom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Fronthaul and Backhaul Networks: Transport Challenges and Feasibility Results</title>
+      <link>/publication/2019_gonzalez-diaz_tmc_crosshaul/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2019_gonzalez-diaz_tmc_crosshaul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20191024_tmc/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20191024_tmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs</title>
       <link>/publication/2019_ayala_mobicom/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0200</pubDate>
@@ -137,40 +164,6 @@
       
       <guid>/talk/20180801_jsac/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FluidRAN: Optimized vRAN/MEC Orchestration</title>
-      <link>/publication/2018_garcia-saavedra_infocom_fluidran/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2018_garcia-saavedra_infocom_fluidran/</guid>
-      <description>
-
-&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the energy efficiency of rate and transmission power control in 802.11</title>
-      <link>/publication/2017_ucar_comcom_energy/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2017_ucar_comcom_energy/</guid>
-      <description>
-
-&lt;h1 id=&#34;more-detail-can-easily-be-written-here-using-markdown-and-rm-latex-math-code&#34;&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>WizHaul: On the Centralization Degree of Cloud RAN Next Generation Fronthaul</title>
-      <link>/publication/2018_garcia-saavedra_tmc_wizhaul/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018_garcia-saavedra_tmc_wizhaul/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
