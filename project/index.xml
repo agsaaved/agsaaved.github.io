@@ -18,8 +18,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/transformer/</guid>
-      <description>5G-Transformer defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:
- Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes). Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.</description>
+      <description>5G-TRANSFORMER is an H2020 PPP project co-funded by the European Commission under the ICT theme (H2020-ICT-2016-2). 5G-TRANSFORMER aims to transform today’s mobile transport    network    into    an    SDN/NFV-based Mobile    Transport    and    Computing    Platform (MTP),    which    brings the  &amp;ldquo;Network  Slicing&amp;rdquo; paradigm   into   mobile   transport   networks   by provisioning and managing MTP slices tailored to the specific needs   of   vertical   industries.</description>
     </item>
     
     <item>
@@ -28,7 +27,7 @@
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
       
       <guid>/project/crosshaul/</guid>
-      <description>Mobile data traffic is forecasted to increase 11-fold between 2013 and 2018. 5G networks serving this mobile data tsunami will require fronthaul and backhaul solutions between the RAN and the packet core capable of dealing with this increased traffic load while fulfilling new stringent 5G service requirements in a cost-efficient manner. The 5G-Crosshaul project aims at developing a 5G integrated backhaul and fronthaul transport network enabling a flexible and software-defined reconfiguration of all networking elements in a multi-tenant and service-oriented unified management environment.</description>
+      <description>5G-Crosshaul is an H2020 PPP project co-funded by the European Commission under the ICT theme (Call 14). The 5G-Crosshaul project aims at developing a 5G integrated backhaul and fronthaul transport network enabling a flexible and software-defined reconfiguration of all networking elements in a multi-tenant and service-oriented unified management environment.</description>
     </item>
     
     <item>
@@ -37,8 +36,7 @@
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0200</pubDate>
       
       <guid>/project/flavia/</guid>
-      <description>Wireless networks importance for the Future Internet is raising at a fast pace as mobile devices increasingly become its entry point. However, today’s wireless networks are unable to rapidly adapt to evolving contexts and service needs due to their rigid architectural design.
-FLAVIA fosters a paradigm shift towards the Future Wireless Internet: from pre-designed link services to programmable link processors. The key concept is to expose flexible programmable interfaces enabling service customization and performance optimization through software-based exploitation of low-level operations and control primitives, e.</description>
+      <description>FLAVIA is a project funded by the European Commission under FP7 Call 5, Objective 1.1: The Network of the Future. FLAVIA fosters a paradigm shift towards the Future Wireless Internet: from pre-designed link services to programmable link processors. The key concept is to expose flexible programmable interfaces enabling service customization and performance optimization through software-based exploitation of low-level operations and control primitives, e.g., transmission timing, frame customization and processing, spectrum and channel management, power control, etc.</description>
     </item>
     
     <item>
@@ -47,7 +45,7 @@ FLAVIA fosters a paradigm shift towards the Future Wireless Internet: from pre-d
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
       
       <guid>/project/carmen/</guid>
-      <description>CARMEN, CARrier grade MEsh Networks, will study and specify a wireless mesh network supporting carrier grade triple-play services for mobile/fixed network operators. Future operator networks will be comprised of a common core network and several access networks, and the CARMEN access network will complement other access technologies by providing a low cost and fast deployment mesh network access technology. The project proposes the integration of heterogeneous wireless technologies in a multi-hop fashion to provide scalable and efficient ubiquitous quad-play carrier services.</description>
+      <description>CARMEN (CARrier grade MEsh Networks) is funded by the European Commission under the ICT theme ICT-2007.1.1 - The network of the future. CARMEN will study and specify a wireless mesh network supporting carrier grade triple-play services for mobile/fixed network operators. Future operator networks will be comprised of a common core network and several access networks, and the CARMEN access network will complement other access technologies by providing a low cost and fast deployment mesh network access technology. The project proposes the integration of heterogeneous wireless technologies in a multi-hop fashion to provide scalable and efficient ubiquitous quad-play carrier services.</description>
     </item>
     
   </channel>
