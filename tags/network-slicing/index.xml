@@ -18,8 +18,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>/project/transformer/</guid>
-      <description>5G-Transformer defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:
- Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes). Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.</description>
+      <description>5G-TRANSFORMER is an H2020 PPP project co-funded by the European Commission under the ICT theme (H2020-ICT-2016-2). 5G-TRANSFORMER aims to transform today’s mobile transport    network    into    an    SDN/NFV-based Mobile    Transport    and    Computing    Platform (MTP),    which    brings the  &amp;ldquo;Network  Slicing&amp;rdquo; paradigm   into   mobile   transport   networks   by provisioning and managing MTP slices tailored to the specific needs   of   vertical   industries.</description>
     </item>
     
   </channel>

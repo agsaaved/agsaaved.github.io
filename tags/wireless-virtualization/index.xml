@@ -18,8 +18,7 @@
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0200</pubDate>
       
       <guid>/project/flavia/</guid>
-      <description>Wireless networks importance for the Future Internet is raising at a fast pace as mobile devices increasingly become its entry point. However, today’s wireless networks are unable to rapidly adapt to evolving contexts and service needs due to their rigid architectural design.
-FLAVIA fosters a paradigm shift towards the Future Wireless Internet: from pre-designed link services to programmable link processors. The key concept is to expose flexible programmable interfaces enabling service customization and performance optimization through software-based exploitation of low-level operations and control primitives, e.</description>
+      <description>FLAVIA is a project funded by the European Commission under FP7 Call 5, Objective 1.1: The Network of the Future. FLAVIA fosters a paradigm shift towards the Future Wireless Internet: from pre-designed link services to programmable link processors. The key concept is to expose flexible programmable interfaces enabling service customization and performance optimization through software-based exploitation of low-level operations and control primitives, e.g., transmission timing, frame customization and processing, spectrum and channel management, power control, etc.</description>
     </item>
     
   </channel>
