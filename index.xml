@@ -10,11 +10,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>/talk/20201020_tnsm/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20201020_tnsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ARENA: A Data-driven Radio Access Networks Analysis of Football Events</title>
       <link>/publication/2020_zanzi_tnsm_arena/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
       
       <guid>/publication/2020_zanzi_tnsm_arena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20200720_twc/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20200720_twc/</guid>
       <description></description>
     </item>
     
@@ -127,26 +145,6 @@
       
       <guid>/publication/2018_salvat_conext/</guid>
       <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20181001_tmc/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/20181001_tmc/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20181001_ton/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/20181001_ton/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
