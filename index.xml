@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ARENA: A Data-driven Radio Access Networks Analysis of Football Events</title>
+      <link>/publication/2020_zanzi_tnsm_arena/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2020_zanzi_tnsm_arena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LACO: A Latency-Driven Network Slicing Orchestration in Beyond-5G Networks</title>
+      <link>/publication/2020_zanzi_twx_laco/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2020_zanzi_twx_laco/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RISMA: Reconfigurable Intelligent Surfaces Enabling Beamforming for IoT Massive Access</title>
@@ -129,26 +147,6 @@
       
       <guid>/talk/20181001_ton/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Joint Optimization of Edge Computing Architectures and Radio Access Networks</title>
-      <link>/publication/2018_garcia-saavedra_jsac_fluidran/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2018_garcia-saavedra_jsac_fluidran/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LaSR: A Supple Multi-Connectivity Scheduler for Multi-RAT OFDMA  Systems</title>
-      <link>/publication/2018_diez_tmc_lasr/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2018_diez_tmc_lasr/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
