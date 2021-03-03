@@ -6,8 +6,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/talk/20210301_infocom/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/20210301_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RAN</title>
+      <link>/publication/2021_ayala_infocom_bayesian/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2021_ayala_infocom_bayesian/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RAN</title>
+      <link>/publication/2021_ayala_icc_bayesian/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2021_ayala_icc_bayesian/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RAN</title>
+      <link>/talk/20210201_icc/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/20210201_icc/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -105,42 +144,6 @@
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>/talk/20200710_vrain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20191025_mobicom/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/20191025_mobicom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrating Fronthaul and Backhaul Networks: Transport Challenges and Feasibility Results</title>
-      <link>/publication/2019_gonzalez-diaz_tmc_crosshaul/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2019_gonzalez-diaz_tmc_crosshaul/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20191024_tmc/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/20191024_tmc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs</title>
-      <link>/publication/2019_ayala_mobicom/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2019_ayala_mobicom/</guid>
       <description></description>
     </item>
     
