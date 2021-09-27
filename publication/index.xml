@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Nuberu: Reliable RAN Virtualization in Shared Platforms</title>
+      <link>/publication/2021_ggarcia_mobicom_nuberu/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2021_ggarcia_mobicom_nuberu/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
       <title>Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RAN</title>
       <link>/publication/2021_ayala_infocom_bayesian/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
@@ -54,6 +63,15 @@
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
       
       <guid>/publication/2020_zanzi_tnsm_arena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DQN Dynamic Pricing and Revenue driven Service Federation Strategy</title>
+      <link>/publication/2021_jmartin_tnsm_federation/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2021_jmartin_tnsm_federation/</guid>
       <description></description>
     </item>
     
