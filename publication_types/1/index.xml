@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Nuberu: Reliable RAN Virtualization in Shared Platforms</title>
-      <link>/publication/2021_ggarcia_mobicom_nuberu/</link>
-      <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2021_ggarcia_mobicom_nuberu/</guid>
-      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
     
     <item>
       <title>Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RAN</title>
