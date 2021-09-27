@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DQN Dynamic Pricing and Revenue driven Service Federation Strategy</title>
+      <link>/publication/2021_jmartin_tnsm_federation/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2021_jmartin_tnsm_federation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O-RAN: Disrupting the Virtualized RAN Ecosystem</title>
+      <link>/publication/2021_garciasaavedra_magazine_oran/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2021_garciasaavedra_magazine_oran/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>vrAIn: Deep Learning based Orchestration for Computing and Radio Resources in vRAN</title>
