@@ -20,16 +20,6 @@
     </item>
     
     <item>
-      <title>Nuberu: Reliable RAN Virtualization in Shared Platforms</title>
-      <link>/publication/2021_ggarcia_mobicom_nuberu/</link>
-      <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2021_ggarcia_mobicom_nuberu/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/talk/20210301_infocom/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
@@ -146,6 +136,15 @@
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>/publication/2020_mursia_jsac_ris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20200720_jsac/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20200720_jsac/</guid>
       <description></description>
     </item>
     
