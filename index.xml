@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Orchestrating Energy-Efficient vRANs: Bayesian Learning and Experimental Results</title>
+      <link>/publication/2021_ayala_tmc_bayesian/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2021_ayala_tmc_bayesian/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Network intelligence in 6G: challenges and opportunities</title>
@@ -15,16 +25,6 @@
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/2021_banchs_mobiarch/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nuberu: Reliable RAN Virtualization in Shared Platforms</title>
-      <link>/publication/2021_ggarcia_mobicom_nuberu/</link>
-      <pubDate>Mon, 27 Sep 2021 01:00:00 +0200</pubDate>
-      
-      <guid>/publication/2021_ggarcia_mobicom_nuberu/</guid>
       <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
