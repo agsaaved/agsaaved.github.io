@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>EdgeBOL: Automating Energy-savings for Mobile Edge AI</title>
+      <link>/publication/2021_ayala_conext_edgebol/</link>
+      <pubDate>Fri, 10 Dec 2021 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2021_ayala_conext_edgebol/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Nuberu: Reliable RAN Virtualization in Shared Platforms</title>
+      <link>/publication/2021_ggarcia_mobicom_nuberu/</link>
+      <pubDate>Thu, 09 Dec 2021 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2021_ggarcia_mobicom_nuberu/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
       <title>Orchestrating Energy-Efficient vRANs: Bayesian Learning and Experimental Results</title>
       <link>/publication/2021_ayala_tmc_bayesian/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0100</pubDate>
