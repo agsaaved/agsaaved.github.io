@@ -6,8 +6,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Dec 2021 01:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EdgeBOL: Automating Energy-savings for Mobile Edge AI</title>
+      <link>/publication/2021_ayala_conext_edgebol/</link>
+      <pubDate>Fri, 10 Dec 2021 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2021_ayala_conext_edgebol/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nuberu: Reliable RAN Virtualization in Shared Platforms</title>
+      <link>/publication/2021_ggarcia_mobicom_nuberu/</link>
+      <pubDate>Thu, 09 Dec 2021 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2021_ggarcia_mobicom_nuberu/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Orchestrating Energy-Efficient vRANs: Bayesian Learning and Experimental Results</title>
@@ -44,6 +64,16 @@
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>/talk/20211001_mobicom/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20211210_conext/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20211210_conext/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -120,33 +150,6 @@
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>/publication/2020_fahri_twc_splits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20201120_twc/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20201120_twc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20201020_tnsm/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/20201020_tnsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ARENA: A Data-driven Radio Access Networks Analysis of Football Events</title>
-      <link>/publication/2020_zanzi_tnsm_arena/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2020_zanzi_tnsm_arena/</guid>
       <description></description>
     </item>
     
