@@ -6,13 +6,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 10 Dec 2021 01:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VERA: Resource Orchestration for Virtualized Services at the Edge</title>
+      <link>/publication/2022_shardatripathi_icc_vera/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2022_shardatripathi_icc_vera/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>EdgeBOL: Automating Energy-savings for Mobile Edge AI</title>
       <link>/publication/2021_ayala_conext_edgebol/</link>
-      <pubDate>Fri, 10 Dec 2021 01:00:00 +0100</pubDate>
+      <pubDate>Wed, 08 Dec 2021 01:00:00 +0100</pubDate>
       
       <guid>/publication/2021_ayala_conext_edgebol/</guid>
       <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -22,7 +32,7 @@
     <item>
       <title>Nuberu: Reliable RAN Virtualization in Shared Platforms</title>
       <link>/publication/2021_ggarcia_mobicom_nuberu/</link>
-      <pubDate>Thu, 09 Dec 2021 01:00:00 +0100</pubDate>
+      <pubDate>Tue, 07 Dec 2021 01:00:00 +0100</pubDate>
       
       <guid>/publication/2021_ggarcia_mobicom_nuberu/</guid>
       <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -141,15 +151,6 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
       
       <guid>/publication/2021_ayala_tmc_vrain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal Deployment Framework for Multi-Cloud Virtualized Radio Access Networks</title>
-      <link>/publication/2020_fahri_twc_splits/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2020_fahri_twc_splits/</guid>
       <description></description>
     </item>
     
