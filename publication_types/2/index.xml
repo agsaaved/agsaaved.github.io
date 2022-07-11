@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RadiOrchestra: Proactive Management of Millimeter-wave Self-backhauled Small Cells via Joint Optimization of Beamforming, User Association, Rate Selection, and Admission Control</title>
+      <link>/publication/2022_abanto_twc_radiorchestra/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2022_abanto_twc_radiorchestra/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
     
     <item>
       <title>Orchestrating Energy-Efficient vRANs: Bayesian Learning and Experimental Results</title>
