@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fair and Scalable Orchestration of Network and Compute Resources for Virtual Edge Services</title>
+      <link>/publication/2023_tripathi_tmc_vera2/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2023_tripathi_tmc_vera2/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
     
     <item>
       <title>RadiOrchestra: Proactive Management of Millimeter-wave Self-backhauled Small Cells via Joint Optimization of Beamforming, User Association, Rate Selection, and Admission Control</title>

@@ -6,8 +6,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fair and Scalable Orchestration of Network and Compute Resources for Virtual Edge Services</title>
+      <link>/publication/2023_tripathi_tmc_vera2/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2023_tripathi_tmc_vera2/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces</title>
+      <link>/publication/2022_rossanese_wintech_ris/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2022_rossanese_wintech_ris/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20221010_wintech/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20221010_wintech/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>RadiOrchestra: Proactive Management of Millimeter-wave Self-backhauled Small Cells via Joint Optimization of Beamforming, User Association, Rate Selection, and Admission Control</title>
@@ -124,35 +154,6 @@
       <guid>/publication/2021_ayala_infocom_bayesian/</guid>
       <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RAN</title>
-      <link>/talk/20210201_icc/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20210201_icc/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Experimental Evaluation of Power Consumption in Virtualized Base Stations</title>
-      <link>/publication/2021_ayala_icc_bayesian/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2021_ayala_icc_bayesian/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20210101_tmc/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20210101_tmc/</guid>
-      <description></description>
     </item>
     
   </channel>
