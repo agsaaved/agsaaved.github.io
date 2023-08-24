@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Radio Access Networks (O-RAN) Experimentation Platform: Design and Datasets</title>
+      <link>/publication/2023_salvat_magazine/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2023_salvat_magazine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EdgeBOL: A Bayesian Learning Approach for the Joint Orchestration of vRANs and Mobile Edge AI</title>
+      <link>/publication/2023_ayala_ton_edgebol/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2023_ayala_ton_edgebol/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
     
     <item>
       <title>Fair and Scalable Orchestration of Network and Compute Resources for Virtual Edge Services</title>
