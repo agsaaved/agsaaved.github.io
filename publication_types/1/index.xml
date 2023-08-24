@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Orchestration Procedures for the Network Intelligence Stratum in 6G Networks</title>
+      <link>/publication/2023_livia_eucnc/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2023_livia_eucnc/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
     
     <item>
       <title>Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces</title>
@@ -18,6 +27,15 @@
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
       
       <guid>/publication/2022_rossanese_wintech_ris/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Network Intelligence for Virtualized RAN Orchestration: The DAEMON Approach</title>
+      <link>/publication/2022_gramaglia_eucnc/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2022_gramaglia_eucnc/</guid>
       <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

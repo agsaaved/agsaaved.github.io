@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>Orchestration Procedures for the Network Intelligence Stratum in 6G Networks</title>
+      <link>/publication/2023_livia_eucnc/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2023_livia_eucnc/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Open Radio Access Networks (O-RAN) Experimentation Platform: Design and Datasets</title>
+      <link>/publication/2023_salvat_magazine/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2023_salvat_magazine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EdgeBOL: A Bayesian Learning Approach for the Joint Orchestration of vRANs and Mobile Edge AI</title>
+      <link>/publication/2023_ayala_ton_edgebol/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2023_ayala_ton_edgebol/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
       <title>Fair and Scalable Orchestration of Network and Compute Resources for Virtual Edge Services</title>
       <link>/publication/2023_tripathi_tmc_vera2/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0100</pubDate>
@@ -36,6 +63,15 @@
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0200</pubDate>
       
       <guid>/publication/2022_abanto_twc_radiorchestra/</guid>
+      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Network Intelligence for Virtualized RAN Orchestration: The DAEMON Approach</title>
+      <link>/publication/2022_gramaglia_eucnc/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2022_gramaglia_eucnc/</guid>
       <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
