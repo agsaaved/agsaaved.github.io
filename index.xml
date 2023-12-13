@@ -6,8 +6,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/talk/20231212_aaai/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/20231212_aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/four_infocom/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/four_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven Analysis of the Cost-Performance Trade-off of Reconfigurable Intelligent Surfaces in a Production Network</title>
+      <link>/publication/2023_rossanese_conext_ris/</link>
+      <pubDate>Fri, 08 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2023_rossanese_conext_ris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven Analysis of the Cost-Performance Trade-off of Reconfigurable Intelligent Surfaces in a Production Network</title>
+      <link>/talk/2024_ayala_aaai/</link>
+      <pubDate>Fri, 08 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/talk/2024_ayala_aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Leakage-based Method for Mitigation of Faulty Reconfigurable Intelligent Surfaces</title>
+      <link>/publication/2023_nairy_globecom/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2023_nairy_globecom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AIRIC: Orchestration of Virtualized Radio Access Networks with Noisy Neighbours</title>
@@ -104,56 +149,6 @@
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>/publication/2022_gramaglia_eucnc/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VERA: Resource Orchestration for Virtualized Services at the Edge</title>
-      <link>/publication/2022_shardatripathi_icc_vera/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2022_shardatripathi_icc_vera/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EdgeBOL: Automating Energy-savings for Mobile Edge AI</title>
-      <link>/publication/2021_ayala_conext_edgebol/</link>
-      <pubDate>Wed, 08 Dec 2021 01:00:00 +0100</pubDate>
-      
-      <guid>/publication/2021_ayala_conext_edgebol/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nuberu: Reliable RAN Virtualization in Shared Platforms</title>
-      <link>/publication/2021_ggarcia_mobicom_nuberu/</link>
-      <pubDate>Tue, 07 Dec 2021 01:00:00 +0100</pubDate>
-      
-      <guid>/publication/2021_ggarcia_mobicom_nuberu/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Orchestrating Energy-Efficient vRANs: Bayesian Learning and Experimental Results</title>
-      <link>/publication/2021_ayala_tmc_bayesian/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2021_ayala_tmc_bayesian/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Network intelligence in 6G: challenges and opportunities</title>
-      <link>/publication/2021_banchs_mobiarch/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2021_banchs_mobiarch/</guid>
       <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

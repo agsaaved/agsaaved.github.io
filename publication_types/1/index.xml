@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 01:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data-driven Analysis of the Cost-Performance Trade-off of Reconfigurable Intelligent Surfaces in a Production Network</title>
+      <link>/publication/2023_rossanese_conext_ris/</link>
+      <pubDate>Fri, 08 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2023_rossanese_conext_ris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven Analysis of the Cost-Performance Trade-off of Reconfigurable Intelligent Surfaces in a Production Network</title>
+      <link>/talk/2024_ayala_aaai/</link>
+      <pubDate>Fri, 08 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/talk/2024_ayala_aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Leakage-based Method for Mitigation of Faulty Reconfigurable Intelligent Surfaces</title>
+      <link>/publication/2023_nairy_globecom/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2023_nairy_globecom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Orchestration Procedures for the Network Intelligence Stratum in 6G Networks</title>
