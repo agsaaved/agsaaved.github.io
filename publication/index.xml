@@ -13,6 +13,51 @@
     
     
     <item>
+      <title>Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs</title>
+      <link>/publication/2024_ayala_infocom/</link>
+      <pubDate>Mon, 18 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_ayala_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORANUS: Latency-tailored Orchestration via Stochastic Network Calculus in 6G O-RAN</title>
+      <link>/publication/2024_hinojosa_infocom/</link>
+      <pubDate>Mon, 18 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_hinojosa_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OREO: O-RAN intElligence Orchestration of xApp-based network services</title>
+      <link>/publication/2024_mungari_infocom/</link>
+      <pubDate>Mon, 18 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_mungari_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk-Aware Continuous Control with Neural Contextual Bandits</title>
+      <link>/publication/2024_ayala_aaai/</link>
+      <pubDate>Mon, 18 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_ayala_aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs</title>
+      <link>/publication/2024_loschiavo_infocom/</link>
+      <pubDate>Mon, 18 Dec 2023 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_loschiavo_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data-driven Analysis of the Cost-Performance Trade-off of Reconfigurable Intelligent Surfaces in a Production Network</title>
       <link>/publication/2023_rossanese_conext_ris/</link>
       <pubDate>Fri, 08 Dec 2023 01:00:00 +0100</pubDate>
