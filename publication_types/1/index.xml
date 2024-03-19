@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 08 Dec 2023 01:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 01:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Risk-Aware Continuous Control with Neural Contextual Bandits</title>
+      <link>/publication/2024_ayala_aaai/</link>
+      <pubDate>Tue, 20 Feb 2024 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_ayala_aaai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data-driven Analysis of the Cost-Performance Trade-off of Reconfigurable Intelligent Surfaces in a Production Network</title>
