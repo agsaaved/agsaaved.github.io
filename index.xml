@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 01:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Risk-Aware Continuous Control with Neural Contextual Bandits</title>
+      <link>/publication/2024_ayala_aaai/</link>
+      <pubDate>Tue, 20 Feb 2024 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_ayala_aaai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -140,16 +149,6 @@
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>/publication/2022_gramaglia_eucnc/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VERA: Resource Orchestration for Virtualized Services at the Edge</title>
-      <link>/publication/2022_shardatripathi_icc_vera/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2022_shardatripathi_icc_vera/</guid>
       <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
