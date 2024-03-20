@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Indoor Millimeter Wave Localization using Multiple Self-Supervised Tiny Neural Networks</title>
+      <link>/publication/2024_shastri_comlet/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_shastri_comlet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AIRIC: Orchestration of Virtualized Radio Access Networks with Noisy Neighbours</title>
@@ -234,7 +243,7 @@
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/publication/2016_valls_commlet/</guid>
-      <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
