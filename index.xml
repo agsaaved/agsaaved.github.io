@@ -20,15 +20,6 @@
     
     <item>
       <title></title>
-      <link>/publication/20240304_mobicom/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/20240304_mobicom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/talk/20240303_sigmetrics/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
       
@@ -145,6 +136,16 @@
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0100</pubDate>
       
       <guid>/publication/2023_tripathi_tmc_vera2/</guid>
+      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces</title>
+      <link>/publication/2022_rossanese_wintech_ris/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2022_rossanese_wintech_ris/</guid>
       <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
