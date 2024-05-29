@@ -6,8 +6,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 01:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs</title>
+      <link>/publication/2024_loschiavo_infocom/</link>
+      <pubDate>Tue, 21 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_loschiavo_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs</title>
+      <link>/publication/2024_ayala_infocom/</link>
+      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_ayala_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORANUS: Latency-tailored Orchestration via Stochastic Network Calculus in 6G O-RAN</title>
+      <link>/publication/2024_hinojosa_infocom/</link>
+      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_hinojosa_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OREO: O-RAN intElligence Orchestration of xApp-based network services</title>
+      <link>/publication/2024_mungari_infocom/</link>
+      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_mungari_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MemorAI: Energy-Efficient Last-Level Cache Memory Optimization for Virtualized RANs</title>
+      <link>/publication/2024_ethan_icmlcn/</link>
+      <pubDate>Sun, 05 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_ethan_icmlcn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Indoor Millimeter Wave Localization using Multiple Self-Supervised Tiny Neural Networks</title>
@@ -98,55 +143,6 @@
       
       <guid>/talk/20231204_conext/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Orchestration Procedures for the Network Intelligence Stratum in 6G Networks</title>
-      <link>/publication/2023_livia_eucnc/</link>
-      <pubDate>Thu, 08 Jun 2023 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2023_livia_eucnc/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Radio Access Networks (O-RAN) Experimentation Platform: Design and Datasets</title>
-      <link>/publication/2023_salvat_magazine/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2023_salvat_magazine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EdgeBOL: A Bayesian Learning Approach for the Joint Orchestration of vRANs and Mobile Edge AI</title>
-      <link>/publication/2023_ayala_ton_edgebol/</link>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2023_ayala_ton_edgebol/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fair and Scalable Orchestration of Network and Compute Resources for Virtual Edge Services</title>
-      <link>/publication/2023_tripathi_tmc_vera2/</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2023_tripathi_tmc_vera2/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces</title>
-      <link>/publication/2022_rossanese_wintech_ris/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2022_rossanese_wintech_ris/</guid>
-      <description>&lt;p&gt;# More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

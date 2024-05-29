@@ -13,6 +13,51 @@
     
     
     <item>
+      <title>YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs</title>
+      <link>/publication/2024_loschiavo_infocom/</link>
+      <pubDate>Tue, 21 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_loschiavo_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs</title>
+      <link>/publication/2024_ayala_infocom/</link>
+      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_ayala_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORANUS: Latency-tailored Orchestration via Stochastic Network Calculus in 6G O-RAN</title>
+      <link>/publication/2024_hinojosa_infocom/</link>
+      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_hinojosa_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OREO: O-RAN intElligence Orchestration of xApp-based network services</title>
+      <link>/publication/2024_mungari_infocom/</link>
+      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_mungari_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MemorAI: Energy-Efficient Last-Level Cache Memory Optimization for Virtualized RANs</title>
+      <link>/publication/2024_ethan_icmlcn/</link>
+      <pubDate>Sun, 05 May 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_ethan_icmlcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Indoor Millimeter Wave Localization using Multiple Self-Supervised Tiny Neural Networks</title>
       <link>/publication/2024_shastri_comlet/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0100</pubDate>
