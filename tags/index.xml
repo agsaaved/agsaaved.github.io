@@ -7,15 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>6G</title>
+      <link>/tags/6g/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/6g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compute Continuum</title>
+      <link>/tags/compute-continuum/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/compute-continuum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-touch Exposure</title>
+      <link>/tags/zero-touch-exposure/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/zero-touch-exposure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B5G</title>
+      <link>/tags/b5g/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/b5g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>5G</title>
       <link>/tags/5g/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/5g/</guid>
       <description></description>
@@ -24,7 +69,7 @@
     <item>
       <title>network slicing</title>
       <link>/tags/network-slicing/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/network-slicing/</guid>
       <description></description>

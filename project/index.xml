@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ORIGAMI</title>
+      <link>/project/origami/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/project/origami/</guid>
+      <description>The advent of 6G communications technology presents a unique opportunity to introduce innovative solutions, technologies, and methodologies aimed at alleviating the economic and ecological pressures of the industry. The EU-funded ORIGAMI project seeks to capitalise on this opportunity by revolutionising mobile network architecture and advancing it towards global standardisation, enhanced sustainability, accessibility, and affordability. The project aims to address eight key barriers essential to the future of 6G by introducing a series of network intelligent (NI) solutions powered by three pivotal architectural innovations: global service-based architecture, compute continuum layer, and zero-trust exposure layer. These innovations are poised to stimulate further advancements and development within the industry. Ultimately, the project will demonstrate its solutions in eight locations.</description>
+    </item>
+    
+    <item>
+      <title>DAEMON</title>
+      <link>/project/daemon/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/daemon/</guid>
+      <description>While artificial intelligence (AI) models are commonly regarded as the cornerstone of network intelligence (NI) design, AI is not the most suitable tool for every NI task. The EU-funded DAEMON project will create a pragmatic approach to NI design. It will carry out a systematic analysis of which NI tasks are appropriately solved with AI models, providing a solid set of guidelines for the use of machine learning in network functions. Building on the insights of this analysis, DAEMON will design NI algorithms to drive a core set of Beyond-5G (B5G) network functionalities. The NI-assisted functionalities will be finally deployed into an original end-to-end NI-native architecture for B5G that enables their full coordination.</description>
+    </item>
+    
+    <item>
+      <title>5Growth</title>
+      <link>/project/5growth/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/project/5growth/</guid>
+      <description>The vision of the 5Growth project is to empower verticals industries such as Industry 4.0, Transportation, and Energy with an AI-driven Automated and Sharable 5G End-to-End Solution that will allow these industries to achieve simultaneously their respective key performance targets. Towards this vision, 5Growth will automate the process for supporting diverse industry verticals through (i) a vertical portal in charge of interfacing verticals with the 5G End-to-End platforms, receiving their service requests and building the respective network slices on top, (ii) closed-loop automation and SLA control for vertical services lifecycle management and (iii) AI-driven end-to-end network solutions to jointly optimize Access, Transport, Core and Cloud, Edge and Fog resources, across multiple technologies and domains.</description>
+    </item>
     
     <item>
       <title>5G-TRANSFORMER</title>
