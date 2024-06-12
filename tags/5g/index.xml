@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/5g/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5Growth</title>
+      <link>/project/5growth/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/project/5growth/</guid>
+      <description>The vision of the 5Growth project is to empower verticals industries such as Industry 4.0, Transportation, and Energy with an AI-driven Automated and Sharable 5G End-to-End Solution that will allow these industries to achieve simultaneously their respective key performance targets. Towards this vision, 5Growth will automate the process for supporting diverse industry verticals through (i) a vertical portal in charge of interfacing verticals with the 5G End-to-End platforms, receiving their service requests and building the respective network slices on top, (ii) closed-loop automation and SLA control for vertical services lifecycle management and (iii) AI-driven end-to-end network solutions to jointly optimize Access, Transport, Core and Cloud, Edge and Fog resources, across multiple technologies and domains.</description>
+    </item>
     
     <item>
       <title>5G-TRANSFORMER</title>

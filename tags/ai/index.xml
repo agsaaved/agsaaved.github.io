@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Andres Garcia-Saavedra</title>
+    <link>/tags/ai/</link>
+    <description>Recent content in AI on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ORIGAMI</title>
+      <link>/project/origami/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/project/origami/</guid>
+      <description>The advent of 6G communications technology presents a unique opportunity to introduce innovative solutions, technologies, and methodologies aimed at alleviating the economic and ecological pressures of the industry. The EU-funded ORIGAMI project seeks to capitalise on this opportunity by revolutionising mobile network architecture and advancing it towards global standardisation, enhanced sustainability, accessibility, and affordability. The project aims to address eight key barriers essential to the future of 6G by introducing a series of network intelligent (NI) solutions powered by three pivotal architectural innovations: global service-based architecture, compute continuum layer, and zero-trust exposure layer. These innovations are poised to stimulate further advancements and development within the industry. Ultimately, the project will demonstrate its solutions in eight locations.</description>
+    </item>
+    
+    <item>
+      <title>DAEMON</title>
+      <link>/project/daemon/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/daemon/</guid>
+      <description>While artificial intelligence (AI) models are commonly regarded as the cornerstone of network intelligence (NI) design, AI is not the most suitable tool for every NI task. The EU-funded DAEMON project will create a pragmatic approach to NI design. It will carry out a systematic analysis of which NI tasks are appropriately solved with AI models, providing a solid set of guidelines for the use of machine learning in network functions. Building on the insights of this analysis, DAEMON will design NI algorithms to drive a core set of Beyond-5G (B5G) network functionalities. The NI-assisted functionalities will be finally deployed into an original end-to-end NI-native architecture for B5G that enables their full coordination.</description>
+    </item>
+    
+  </channel>
+</rss>

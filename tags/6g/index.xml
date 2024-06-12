@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6G on Andres Garcia-Saavedra</title>
+    <link>/tags/6g/</link>
+    <description>Recent content in 6G on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/6g/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ORIGAMI</title>
+      <link>/project/origami/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/project/origami/</guid>
+      <description>The advent of 6G communications technology presents a unique opportunity to introduce innovative solutions, technologies, and methodologies aimed at alleviating the economic and ecological pressures of the industry. The EU-funded ORIGAMI project seeks to capitalise on this opportunity by revolutionising mobile network architecture and advancing it towards global standardisation, enhanced sustainability, accessibility, and affordability. The project aims to address eight key barriers essential to the future of 6G by introducing a series of network intelligent (NI) solutions powered by three pivotal architectural innovations: global service-based architecture, compute continuum layer, and zero-trust exposure layer. These innovations are poised to stimulate further advancements and development within the industry. Ultimately, the project will demonstrate its solutions in eight locations.</description>
+    </item>
+    
+  </channel>
+</rss>
