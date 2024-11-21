@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 10 Jun 2024 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 01:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CloudRIC: Open Radio Access Network (O-RAN) Virtualization with Shared Heterogeneous Computing</title>
+      <link>/publication/2024_loschiavo_mobicom_cloudric/</link>
+      <pubDate>Wed, 30 Oct 2024 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_loschiavo_mobicom_cloudric/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fair Resource Allocation in Virtualized O-RAN Platforms</title>
@@ -140,15 +149,6 @@
       <pubDate>Fri, 08 Dec 2023 01:00:00 +0100</pubDate>
       
       <guid>/publication/2023_rossanese_conext_ris/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Leakage-based Method for Mitigation of Faulty Reconfigurable Intelligent Surfaces</title>
-      <link>/publication/2023_nairy_globecom/</link>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2023_nairy_globecom/</guid>
       <description></description>
     </item>
     

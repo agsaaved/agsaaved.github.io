@@ -5,7 +5,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2024-06-10T01:00:00+02:00</lastmod>
+      <lastmod>2024-10-30T01:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -15,7 +15,26 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2024-06-10T01:00:00+02:00</lastmod>
+      <lastmod>2024-10-30T01:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2024_loschiavo_mobicom_cloudric/</loc>
+      <lastmod>2024-10-30T01:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2024-10-30T01:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -26,16 +45,6 @@
     
       <loc>/publication/2024_fatih_sigmetrics/</loc>
       <lastmod>2024-06-10T01:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2024-06-10T01:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
