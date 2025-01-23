@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>O-RAN Intelligence Orchestration Framework for Quality-Driven Xapp Deployment and Sharing</title>
+      <link>/publication/2025_mungari_tmc_oreo/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2025_mungari_tmc_oreo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Indoor Millimeter Wave Localization using Multiple Self-Supervised Tiny Neural Networks</title>
