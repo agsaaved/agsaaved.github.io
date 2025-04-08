@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/talk/20250408_mobisys/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20250408_mobisys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20250407_sigmetrics/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/20250407_sigmetrics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>O-RAN Intelligence Orchestration Framework for Quality-Driven Xapp Deployment and Sharing</title>
@@ -15,6 +33,15 @@
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0100</pubDate>
       
       <guid>/publication/2025_mungari_tmc_oreo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/20251206_two_infocom/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/20251206_two_infocom/</guid>
       <description></description>
     </item>
     
@@ -114,41 +141,6 @@
       <pubDate>Tue, 20 Feb 2024 01:00:00 +0100</pubDate>
       
       <guid>/publication/2024_ayala_aaai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ORIGAMI</title>
-      <link>/project/origami/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
-      
-      <guid>/project/origami/</guid>
-      <description>&lt;p&gt;While artificial intelligence (AI) models are commonly regarded as the cornerstone of network intelligence (NI) design, AI is not the most suitable tool for every NI task. The EU-funded DAEMON project will create a pragmatic approach to NI design. It will carry out a systematic analysis of which NI tasks are appropriately solved with AI models, providing a solid set of guidelines for the use of machine learning in network functions. Building on the insights of this analysis, DAEMON will design NI algorithms to drive a core set of Beyond-5G (B5G) network functionalities. The NI-assisted functionalities will be finally deployed into an original end-to-end NI-native architecture for B5G that enables their full coordination.&lt;/p&gt;
-
-&lt;p&gt;For more information click &lt;a href=&#34;https://cordis.europa.eu/project/id/101139270&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Date: 01/01/2024 &amp;ndash; End Date: 31/12/2026&lt;/li&gt;
-&lt;li&gt;European Commision (EC) contribution:  3.947.458,00  €&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20231212_aaai/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20231212_aaai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20251206_two_infocom/</link>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20251206_two_infocom/</guid>
       <description></description>
     </item>
     
