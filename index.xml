@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 01:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FairRIC: Real-time Fair Allocation in O-RAN with Shared Computing</title>
+      <link>/publication/2025_aslan_infocom/</link>
+      <pubDate>Mon, 19 May 2025 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2025_aslan_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kairos: Energy-Efficient Radio Unit Control for O-RAN via Advanced Sleep Modes </title>
+      <link>/publication/2025_salvat_infocom/</link>
+      <pubDate>Mon, 19 May 2025 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2025_salvat_infocom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -123,24 +141,6 @@
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
       
       <guid>/talk/20240303_sigmetrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talk/20240304_mobicom/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/20240304_mobicom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk-Aware Continuous Control with Neural Contextual Bandits</title>
-      <link>/publication/2024_ayala_aaai/</link>
-      <pubDate>Tue, 20 Feb 2024 01:00:00 +0100</pubDate>
-      
-      <guid>/publication/2024_ayala_aaai/</guid>
       <description></description>
     </item>
     
