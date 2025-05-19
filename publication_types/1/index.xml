@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 30 Oct 2024 01:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 01:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FairRIC: Real-time Fair Allocation in O-RAN with Shared Computing</title>
+      <link>/publication/2025_aslan_infocom/</link>
+      <pubDate>Mon, 19 May 2025 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2025_aslan_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kairos: Energy-Efficient Radio Unit Control for O-RAN via Advanced Sleep Modes </title>
+      <link>/publication/2025_salvat_infocom/</link>
+      <pubDate>Mon, 19 May 2025 01:00:00 +0200</pubDate>
+      
+      <guid>/publication/2025_salvat_infocom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CloudRIC: Open Radio Access Network (O-RAN) Virtualization with Shared Heterogeneous Computing</title>
