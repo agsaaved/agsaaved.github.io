@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Jun 2025 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/talk/20251208_spiff_infocom/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/20251208_spiff_infocom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
       
       <guid>/publication/2024_hinojosa_infocom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OREO: O-RAN intElligence Orchestration of xApp-based network services</title>
-      <link>/publication/2024_mungari_infocom/</link>
-      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
-      
-      <guid>/publication/2024_mungari_infocom/</guid>
       <description></description>
     </item>
     
