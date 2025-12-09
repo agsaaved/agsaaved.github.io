@@ -83,9 +83,6 @@
 
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@agsaaved">
-  <meta property="twitter:creator" content="@agsaaved">
-  
   <meta property="og:site_name" content="Andres Garcia-Saavedra">
   <meta property="og:url" content="/">
   <meta property="og:title" content="Andres Garcia-Saavedra">
@@ -270,13 +267,15 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person"
+  itemref="person-email">
   <div class="col-xs-12 col-md-4">
     <div id="profile">
 
       
-      <div class="portrait" style="background-image: url('/img/andres_garcia_saavedra.jpg');"></div>
-      <meta itemprop="image" content="/img/andres_garcia_saavedra.jpg">
+      <div class="portrait" style="background-image: url('/img/andres_garcia_saavedra.jpg');">
+      </div>
+      <meta itemprop="image" content="/%20/img/andres_garcia_saavedra.jpg">
       
 
       <div class="portrait-title">
@@ -289,8 +288,8 @@
         
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           
-          <span itemprop="name">NEC Laboratories Europe</span>
-          
+            <span itemprop="name">NEC Laboratories Europe</span>
+            
         </h3>
         
       </div>
@@ -308,8 +307,8 @@
         
         
         <li>
-          <a itemprop="sameAs" href="//twitter.com/agsaaved" target="_blank" rel="noopener">
-            <i class="fa fa-twitter big-icon"></i>
+          <a itemprop="sameAs" href="https://www.linkedin.com/in/andr%C3%A9s-saavedra-2a601114/" target="_blank" rel="noopener">
+            <i class="fa fa-linkedin big-icon"></i>
           </a>
         </li>
         
@@ -321,6 +320,50 @@
         </li>
         
       </ul>
+
+      
+      <div style="margin-top: 20px;">
+        
+        <div class="row" style="text-align: center; margin-bottom: 10px;">
+          <div class="col-xs-4">
+            <div id="scholar-citations" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
+            <div style="color: #666; font-weight: bold; font-size: 0.8rem;">Citations</div>
+          </div>
+          <div class="col-xs-4">
+            <div id="scholar-hindex" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
+            <div style="color: #666; font-weight: bold; font-size: 0.8rem;">h-index</div>
+          </div>
+          <div class="col-xs-4">
+            <div id="scholar-i10index" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
+            <div style="color: #666; font-weight: bold; font-size: 0.8rem;">i10-index</div>
+          </div>
+        </div>
+
+        
+        <div class="row">
+          <div class="col-xs-12">
+            <img src="/scholar/citations_chart.png" alt="Citations Chart"
+              style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            <div style="text-align: right; font-size: 0.8rem; color: #999; margin-top: 5px;">
+              Last updated: <span id="scholar-updated">-</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          fetch('/scholar/scholar_stats.json')
+            .then(response => response.json())
+            .then(data => {
+              document.getElementById('scholar-citations').textContent = data.total_citations;
+              document.getElementById('scholar-hindex').textContent = data.h_index;
+              document.getElementById('scholar-i10index').textContent = data.i10_index;
+              document.getElementById('scholar-updated').textContent = data.last_updated;
+            })
+            .catch(error => console.error('Error loading scholar stats:', error));
+        });
+      </script>
 
     </div>
   </div>
@@ -390,7 +433,7 @@
               <p class="institution">Trinity College Dublin, Ireland</p>
             </div>
           </li>
-                      
+          
           
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
@@ -423,7 +466,6 @@
     </div>
   </div>
 </div>
-
     </div>
   </section>
   
