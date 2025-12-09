@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Jun 2025 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks</title>
+      <link>/publication/2026_palena_infocom_spiff/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2026_palena_infocom_spiff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces</title>
