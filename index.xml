@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks</title>
+      <link>/publication/2026_palena_infocom_spiff/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2026_palena_infocom_spiff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
       
       <guid>/publication/2024_ayala_infocom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ORANUS: Latency-tailored Orchestration via Stochastic Network Calculus in 6G O-RAN</title>
-      <link>/publication/2024_hinojosa_infocom/</link>
-      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
-      
-      <guid>/publication/2024_hinojosa_infocom/</guid>
       <description></description>
     </item>
     
