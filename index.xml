@@ -46,6 +46,15 @@
     </item>
     
     <item>
+      <title>6G Standardization Potential of the Origami Novel Architectures and Use Cases</title>
+      <link>/publication/2025_chatzieleftheriou_eucnc_origami/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2025_chatzieleftheriou_eucnc_origami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AegisRAN: A Fair and Energy-Efficient Computing Resource Allocation Framework for vRANs</title>
       <link>/publication/2025_hidalgo_tmc_aegisran/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0200</pubDate>
@@ -100,6 +109,15 @@
     </item>
     
     <item>
+      <title>TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs</title>
+      <link>/publication/2025_yilma_ccr_telecomrag/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2025_yilma_ccr_telecomrag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/talk/20251206_two_infocom/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0100</pubDate>
@@ -109,38 +127,20 @@
     </item>
     
     <item>
+      <title>Radio Resource Management Design for RSMA: Optimization of Beamforming, User Admission, and Discrete/Continuous Rates With Imperfect SIC</title>
+      <link>/publication/2024_abantoleon_tmc_rsma/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_abantoleon_tmc_rsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CloudRIC: Open Radio Access Network (O-RAN) Virtualization with Shared Heterogeneous Computing</title>
       <link>/publication/2024_loschiavo_mobicom_cloudric/</link>
       <pubDate>Wed, 30 Oct 2024 01:00:00 +0100</pubDate>
       
       <guid>/publication/2024_loschiavo_mobicom_cloudric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fair Resource Allocation in Virtualized O-RAN Platforms</title>
-      <link>/publication/2024_fatih_sigmetrics/</link>
-      <pubDate>Mon, 10 Jun 2024 01:00:00 +0200</pubDate>
-      
-      <guid>/publication/2024_fatih_sigmetrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs</title>
-      <link>/publication/2024_loschiavo_infocom/</link>
-      <pubDate>Tue, 21 May 2024 01:00:00 +0200</pubDate>
-      
-      <guid>/publication/2024_loschiavo_infocom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs</title>
-      <link>/publication/2024_ayala_infocom/</link>
-      <pubDate>Mon, 20 May 2024 01:00:00 +0200</pubDate>
-      
-      <guid>/publication/2024_ayala_infocom/</guid>
       <description></description>
     </item>
     

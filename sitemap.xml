@@ -70,6 +70,15 @@
     
     <url>
     
+      <loc>/publication/2025_chatzieleftheriou_eucnc_origami/</loc>
+      <lastmod>2025-06-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2025-05-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -134,8 +143,26 @@
     
     <url>
     
+      <loc>/publication/2025_yilma_ccr_telecomrag/</loc>
+      <lastmod>2025-01-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/20251206_two_infocom/</loc>
       <lastmod>2024-12-10T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2024_abantoleon_tmc_rsma/</loc>
+      <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -152,8 +179,35 @@
     
     <url>
     
+      <loc>/publication/2024_soto_comnet/</loc>
+      <lastmod>2024-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2024_fatih_sigmetrics/</loc>
       <lastmod>2024-06-10T01:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2024_chatzieleftheriou_eucnc_daemon/</loc>
+      <lastmod>2024-06-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2024_chatzieleftheriou_eucnc_towards/</loc>
+      <lastmod>2024-06-03T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -233,6 +287,24 @@
     
     <url>
     
+      <loc>/publication/2024_rossanese_ris_comcom/</loc>
+      <lastmod>2024-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2024_rossanese_internetcomputing_open/</loc>
+      <lastmod>2024-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2024_ayala_aaai/</loc>
       <lastmod>2024-02-20T01:00:00+01:00</lastmod>
     </url>
@@ -255,6 +327,15 @@
       <loc>/tags/ai/</loc>
       <lastmod>2024-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2024_baguer_openjournal_attacking/</loc>
+      <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -365,6 +446,15 @@
     
     <url>
     
+      <loc>/publication/2023_municio_commstd/</loc>
+      <lastmod>2023-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2023_livia_eucnc/</loc>
       <lastmod>2023-06-08T00:00:00+02:00</lastmod>
     </url>
@@ -374,7 +464,26 @@
     
     <url>
     
+      <loc>/publication_types/5/</loc>
+      <lastmod>2023-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2023_salvat_magazine/</loc>
+      <lastmod>2023-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2023_bulakci_book_6g/</loc>
       <lastmod>2023-06-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -394,6 +503,15 @@
     
       <loc>/publication/2023_tripathi_tmc_vera2/</loc>
       <lastmod>2023-03-10T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2022_camelo_globecomworkshop/</loc>
+      <lastmod>2022-12-04T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -446,6 +564,15 @@
     
     <url>
     
+      <loc>/publication/2022_camelo_ccnc_requirements/</loc>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2021_ayala_conext_edgebol/</loc>
       <lastmod>2021-12-08T01:00:00+01:00</lastmod>
     </url>
@@ -466,6 +593,25 @@
     
       <loc>/publication/2021_ayala_tmc_bayesian/</loc>
       <lastmod>2021-11-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/6/</loc>
+      <lastmod>2021-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2021_martinperez_bookchapter_5g/</loc>
+      <lastmod>2021-10-15T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -518,7 +664,43 @@
     
     <url>
     
+      <loc>/publication/2021_guimaraes_commsmagazine/</loc>
+      <lastmod>2021-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2021_cunha_eucnc/</loc>
+      <lastmod>2021-06-08T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2021_devleeschauwer_eucnc_scaling/</loc>
+      <lastmod>2021-06-08T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/20210301_infocom/</loc>
+      <lastmod>2021-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2021_xili_commsmagazine/</loc>
       <lastmod>2021-03-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -609,6 +791,15 @@
     
     <url>
     
+      <loc>/publication/2020_baranda_nfvsdn/</loc>
+      <lastmod>2020-11-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/20201020_tnsm/</loc>
       <lastmod>2020-10-20T00:00:00+02:00</lastmod>
     </url>
@@ -665,6 +856,51 @@
     
       <loc>/talk/20200710_vrain/</loc>
       <lastmod>2020-07-10T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2020_gramaglia_ifip/</loc>
+      <lastmod>2020-06-22T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2020_papagianni_eucnc/</loc>
+      <lastmod>2020-06-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2020_antevski_icc/</loc>
+      <lastmod>2020-06-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2020_murti_icc/</loc>
+      <lastmod>2020-06-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2020_bega_commsmagazine/</loc>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -755,6 +991,15 @@
     
     <url>
     
+      <loc>/publication/2019_zanzi_infocomwkshop/</loc>
+      <lastmod>2019-04-29T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2018_mendes_comcom_vran/</loc>
       <lastmod>2018-11-16T00:00:00+01:00</lastmod>
     </url>
@@ -836,6 +1081,24 @@
     
     <url>
     
+      <loc>/publication/2018_sambo_nfvsdn/</loc>
+      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2018_costaperez_bookchapter_5g/</loc>
+      <lastmod>2018-05-30T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2018_garcia-saavedra_infocom_fluidran/</loc>
       <lastmod>2018-04-15T00:00:00+02:00</lastmod>
     </url>
@@ -863,6 +1126,24 @@
     
     <url>
     
+      <loc>/publication/2017_baranda_nfvsdn/</loc>
+      <lastmod>2017-11-06T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2017_mendes_wintech/</loc>
+      <lastmod>2017-10-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2018_ccano_ton_lteu/</loc>
       <lastmod>2017-08-11T00:00:00+02:00</lastmod>
     </url>
@@ -872,8 +1153,35 @@
     
     <url>
     
+      <loc>/publication/2017_xili_commsmagazine/</loc>
+      <lastmod>2017-08-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/transformer/</loc>
       <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2017_mangues_eucnc/</loc>
+      <lastmod>2017-06-12T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2017_xili_iccwkshop/</loc>
+      <lastmod>2017-05-21T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -1016,6 +1324,15 @@
     
     <url>
     
+      <loc>/publication/2016_deiss_eucnc/</loc>
+      <lastmod>2016-06-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2016_valls_commlet/</loc>
       <lastmod>2016-04-21T00:00:00+02:00</lastmod>
     </url>
@@ -1117,6 +1434,15 @@
     
     <url>
     
+      <loc>/publication/2013_alcober_icton/</loc>
+      <lastmod>2013-06-23T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2012_banchs_ton/</loc>
       <lastmod>2012-12-13T00:00:00+01:00</lastmod>
     </url>
@@ -1162,6 +1488,15 @@
     
     <url>
     
+      <loc>/publication/2011_lessmann_futurenetwork/</loc>
+      <lastmod>2011-06-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/flavia/</loc>
       <lastmod>2010-07-01T00:00:00+02:00</lastmod>
     </url>
@@ -1174,6 +1509,15 @@
       <loc>/tags/wireless-virtualization/</loc>
       <lastmod>2010-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2010_serrano_ew/</loc>
+      <lastmod>2010-04-12T00:00:00+02:00</lastmod>
     </url>
     
   
