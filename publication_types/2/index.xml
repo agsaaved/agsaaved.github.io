@@ -31,11 +31,65 @@
     </item>
     
     <item>
+      <title>TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs</title>
+      <link>/publication/2025_yilma_ccr_telecomrag/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2025_yilma_ccr_telecomrag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Resource Management Design for RSMA: Optimization of Beamforming, User Admission, and Discrete/Continuous Rates With Imperfect SIC</title>
+      <link>/publication/2024_abantoleon_tmc_rsma/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_abantoleon_tmc_rsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing the Network Intelligence Stratum for 6G networks</title>
+      <link>/publication/2024_soto_comnet/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_soto_comnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Indoor Millimeter Wave Localization using Multiple Self-Supervised Tiny Neural Networks</title>
       <link>/publication/2024_shastri_comlet/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0100</pubDate>
       
       <guid>/publication/2024_shastri_comlet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and validation of scalable reconfigurable intelligent surfaces</title>
+      <link>/publication/2024_rossanese_ris_comcom/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_rossanese_ris_comcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Experimental Measurements of Sub-6GHz Reconfigurable Intelligent Surfaces</title>
+      <link>/publication/2024_rossanese_internetcomputing_open/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_rossanese_internetcomputing_open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacking O-RAN Interfaces: Threat Modeling, Analysis and Practical Experimentation</title>
+      <link>/publication/2024_baguer_openjournal_attacking/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2024_baguer_openjournal_attacking/</guid>
       <description></description>
     </item>
     
@@ -46,6 +100,15 @@
       
       <guid>/publication/2023_salvat_jsac_airic/</guid>
       <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>O-RAN: Analysis of Latency-Critical Interfaces and Overview of Time Sensitive Networking Solutions</title>
+      <link>/publication/2023_municio_commstd/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2023_municio_commstd/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -112,6 +175,24 @@
     </item>
     
     <item>
+      <title>Public and Non-Public Network Integration for 5Growth Industry 4.0 Use Cases</title>
+      <link>/publication/2021_guimaraes_commsmagazine/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2021_guimaraes_commsmagazine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5Growth: An End-to-End Service Platform for Automated Deployment and Management of Vertical Services over 5G Networks</title>
+      <link>/publication/2021_xili_commsmagazine/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2021_xili_commsmagazine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>vrAIn: Deep Learning based Orchestration for Computing and Radio Resources in vRAN</title>
       <link>/publication/2021_ayala_tmc_vrain/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
@@ -153,6 +234,15 @@
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>/publication/2020_mursia_jsac_ris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Slicing Meets Artificial Intelligence: An AI-Based Framework for Slice Management</title>
+      <link>/publication/2020_bega_commsmagazine/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2020_bega_commsmagazine/</guid>
       <description></description>
     </item>
     
@@ -235,6 +325,15 @@
       
       <guid>/publication/2018_ccano_ton_lteu/</guid>
       <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>5G-Crosshaul Network Slicing: Enabling Multi-Tenancy in Mobile Transport Networks</title>
+      <link>/publication/2017_xili_commsmagazine/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2017_xili_commsmagazine/</guid>
+      <description></description>
     </item>
     
     <item>

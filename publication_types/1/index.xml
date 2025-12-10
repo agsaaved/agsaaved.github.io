@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>6G Standardization Potential of the Origami Novel Architectures and Use Cases</title>
+      <link>/publication/2025_chatzieleftheriou_eucnc_origami/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2025_chatzieleftheriou_eucnc_origami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FairRIC: Real-time Fair Allocation in O-RAN with Shared Computing</title>
       <link>/publication/2025_aslan_infocom/</link>
       <pubDate>Mon, 19 May 2025 01:00:00 +0200</pubDate>
@@ -72,6 +81,24 @@
       <pubDate>Mon, 10 Jun 2024 01:00:00 +0200</pubDate>
       
       <guid>/publication/2024_fatih_sigmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Intelligence in Action: the DAEMON Perspective</title>
+      <link>/publication/2024_chatzieleftheriou_eucnc_daemon/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_chatzieleftheriou_eucnc_daemon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards 6G: Architectural Innovations and Challenges in the ORIGAMI Framework</title>
+      <link>/publication/2024_chatzieleftheriou_eucnc_towards/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2024_chatzieleftheriou_eucnc_towards/</guid>
       <description></description>
     </item>
     
@@ -157,6 +184,15 @@
     </item>
     
     <item>
+      <title>DAEMON: A Network Intelligence Plane for 6G Networks</title>
+      <link>/publication/2022_camelo_globecomworkshop/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2022_camelo_globecomworkshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces</title>
       <link>/publication/2022_rossanese_wintech_ris/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
@@ -181,6 +217,15 @@
       
       <guid>/publication/2022_shardatripathi_icc_vera/</guid>
       <description># More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Requirements and Specifications for the Orchestration of Network Intelligence in 6G</title>
+      <link>/publication/2022_camelo_ccnc_requirements/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2022_camelo_ccnc_requirements/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -211,6 +256,24 @@
     </item>
     
     <item>
+      <title>5 Growth: Secure and Reliable Network Slicing for Verticals</title>
+      <link>/publication/2021_cunha_eucnc/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2021_cunha_eucnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5Growth Data-Driven AI-Based Scaling</title>
+      <link>/publication/2021_devleeschauwer_eucnc_scaling/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2021_devleeschauwer_eucnc_scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian Online Learning for Energy-Aware Resource Orchestration in Virtualized RAN</title>
       <link>/publication/2021_ayala_infocom_bayesian/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
@@ -238,11 +301,65 @@
     </item>
     
     <item>
+      <title>On the Integration of AI/ML-based scaling operations in the 5Growth platform</title>
+      <link>/publication/2020_baranda_nfvsdn/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2020_baranda_nfvsdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The case for serverless mobile networking</title>
+      <link>/publication/2020_gramaglia_ifip/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2020_gramaglia_ifip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5Growth: AI-driven 5G for Automation in Vertical Industries</title>
+      <link>/publication/2020_papagianni_eucnc/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2020_papagianni_eucnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Q-learning strategy for federation of 5G services</title>
+      <link>/publication/2020_antevski_icc/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2020_antevski_icc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Optimization of Multi-Cloud Virtualized Radio Access Networks</title>
+      <link>/publication/2020_murti_icc/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2020_murti_icc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs</title>
       <link>/publication/2019_ayala_mobicom/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0200</pubDate>
       
       <guid>/publication/2019_ayala_mobicom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latency-driven Network Slices Orchestration</title>
+      <link>/publication/2019_zanzi_infocomwkshop/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2019_zanzi_infocomwkshop/</guid>
       <description></description>
     </item>
     
@@ -256,12 +373,57 @@
     </item>
     
     <item>
+      <title>Mobile Transport and Computing Platform for 5G Verticals: Resource Abstraction and Implementation</title>
+      <link>/publication/2018_sambo_nfvsdn/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2018_sambo_nfvsdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FluidRAN: Optimized vRAN/MEC Orchestration</title>
       <link>/publication/2018_garcia-saavedra_infocom_fluidran/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/2018_garcia-saavedra_infocom_fluidran/</guid>
       <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>Resource management in a hierarchically controlled multi-domain wireless/optical integrated fronthaul and backhaul network</title>
+      <link>/publication/2017_baranda_nfvsdn/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017_baranda_nfvsdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular Access Multi-Tenancy through Small Cell Virtualization and Common RF Front-End Sharing</title>
+      <link>/publication/2017_mendes_wintech/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2017_mendes_wintech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental evaluation of hierarchical control over multi-domain wireless/optical networks</title>
+      <link>/publication/2017_mangues_eucnc/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2017_mangues_eucnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Resource and Energy Management for 5G Integrated Backhaul/Fronthaul (5G-Crosshaul)</title>
+      <link>/publication/2017_xili_iccwkshop/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2017_xili_iccwkshop/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -280,6 +442,24 @@
       
       <guid>/publication/2016_gomez-miguelez_wintech/</guid>
       <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>Packet forwarding for heterogeneous technologies for integrated fronthaul/backhaul</title>
+      <link>/publication/2016_deiss_eucnc/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2016_deiss_eucnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet future architectures for network and media independent services and protocols</title>
+      <link>/publication/2013_alcober_icton/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2013_alcober_icton/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -307,6 +487,24 @@
       
       <guid>/publication/2011_garcia-saavedra_wowmom_energy-efficient/</guid>
       <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
+    </item>
+    
+    <item>
+      <title>On the scalability of carrier-grade mesh network architectures</title>
+      <link>/publication/2011_lessmann_futurenetwork/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2011_lessmann_futurenetwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the energy efficiency of IEEE 802.11 WLANs</title>
+      <link>/publication/2010_serrano_ew/</link>
+      <pubDate>Mon, 12 Apr 2010 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2010_serrano_ew/</guid>
+      <description></description>
     </item>
     
   </channel>
