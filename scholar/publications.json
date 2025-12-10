@@ -1,0 +1,1034 @@
+[
+  {
+    "title": "Marcelo Abranches (University of Colorado, USA) Leandro Almeida (Federal Institute of Para\u00edba, Brazil) Jorge Baranda (Centre Tecnol\u00f2gic de Telecomunicacions de Catalunya (CTTC \u2026",
+    "year": "N/A",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "MetaBags: Bagged Meta-Decision Trees for Regression",
+    "year": "N/A",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "BERT cannot directly be used as a sequence generation model. This is because its biggest advantage, the bidirectionality, prevents it from being directly used for sequence \u2026",
+    "year": "N/A",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "MetaBags: Bagged Meta-Decision Trees for Regression",
+    "year": "N/A",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Accepted at Empirical Methods for Natural Language Processing (EMNLP) 2019",
+    "year": "N/A",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "BERT cannot directly be used as a sequence generation model. This is because its biggest advantage, the bidirectionality, prevents it from being directly used for sequence \u2026",
+    "year": "N/A",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
+    "year": "2025",
+    "citations": 25,
+    "authors": "N/A"
+  },
+  {
+    "title": "O-RAN intelligence orchestration framework for quality-driven Xapp deployment and sharing",
+    "year": "2025",
+    "citations": 7,
+    "authors": "N/A"
+  },
+  {
+    "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
+    "year": "2025",
+    "citations": 6,
+    "authors": "N/A"
+  },
+  {
+    "title": "Virtualized RAN slicing with bandwidth parts",
+    "year": "2025",
+    "citations": 2,
+    "authors": "N/A"
+  },
+  {
+    "title": "Autonomous virtual radio access network control",
+    "year": "2025",
+    "citations": 2,
+    "authors": "N/A"
+  },
+  {
+    "title": "Reconfigurable intelligent surface, ris, with sensing capabilities and method for operating the same",
+    "year": "2025",
+    "citations": 2,
+    "authors": "N/A"
+  },
+  {
+    "title": "In-band wireless control of reconfigurable intelligent surfaces",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Non-real time cloudric: energy-efficient control of vran resources in shared o-ran clouds",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Method and system for intelligent data collection and management for open ran intelligent controllers",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "6G Standardization Potential of the ORIGAMI Novel Architectures and Use Cases",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Quantum Computing in the RAN with Qu4Fec: Closing Gaps Towards Quantum-based FEC Processors",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Kairos: Energy-Efficient Radio Unit Control for O-RAN via Advanced Sleep Modes",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "AegisRAN: A Fair and Energy-Efficient Computing Resource Allocation Framework for vRANs",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "FairRIC: Real-time Fair Allocation in O-RAN with Shared Computing",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "FairRIC: Real-Time Fair Allocation in O-RAN with Shared Computing",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "AegisRAN: A Fair and Energy-Efficient Computing Resource Allocation Framework for vRANs",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Fully-passive and fast-programmable smart surface",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Centralized acceleration abstraction layer for ran virtualization",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Kairos: Energy-Efficient Radio Unit Control for O-RAN via Advanced Sleep Modes",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "The \u201cO\u201d on Radio Access Networks",
+    "year": "2025",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
+    "year": "2024",
+    "citations": 29,
+    "authors": "N/A"
+  },
+  {
+    "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
+    "year": "2024",
+    "citations": 20,
+    "authors": "N/A"
+  },
+  {
+    "title": "Fair resource allocation in virtualized o-ran platforms",
+    "year": "2024",
+    "citations": 19,
+    "authors": "N/A"
+  },
+  {
+    "title": "Oranus: Latency-tailored orchestration via stochastic network calculus in 6g o-ran",
+    "year": "2024",
+    "citations": 12,
+    "authors": "N/A"
+  },
+  {
+    "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
+    "year": "2024",
+    "citations": 12,
+    "authors": "N/A"
+  },
+  {
+    "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
+    "year": "2024",
+    "citations": 9,
+    "authors": "N/A"
+  },
+  {
+    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
+    "year": "2024",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
+    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
+    "year": "2024",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
+    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
+    "year": "2024",
+    "citations": 7,
+    "authors": "N/A"
+  },
+  {
+    "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
+    "year": "2024",
+    "citations": 7,
+    "authors": "N/A"
+  },
+  {
+    "title": "Designing the network intelligence stratum for 6g networks",
+    "year": "2024",
+    "citations": 6,
+    "authors": "N/A"
+  },
+  {
+    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
+    "year": "2024",
+    "citations": 5,
+    "authors": "N/A"
+  },
+  {
+    "title": "Risk-aware continuous control with neural contextual bandits",
+    "year": "2024",
+    "citations": 5,
+    "authors": "N/A"
+  },
+  {
+    "title": "Indoor Millimeter Wave Localization Using Multiple Self-Supervised Tiny Neural Networks",
+    "year": "2024",
+    "citations": 4,
+    "authors": "N/A"
+  },
+  {
+    "title": "MemorAI: Energy-efficient last-level cache memory optimization for virtualized RANs",
+    "year": "2024",
+    "citations": 3,
+    "authors": "N/A"
+  },
+  {
+    "title": "Virtualized radio access point, vrap, and method of operating the same",
+    "year": "2024",
+    "citations": 2,
+    "authors": "N/A"
+  },
+  {
+    "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
+    "year": "2024",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "Network intelligence in action: the daemon perspective",
+    "year": "2024",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "Virtualized radio access point, vrap, and method of operating the same",
+    "year": "2024",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "MemorAI: Energy-Efficient Last-Level Cache Memory Optimization for Virtualized RANs",
+    "year": "2024",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Latency and energy characterization of 5G LDPC FEC Decoding on CPU and GPU",
+    "year": "2024",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Datasets used in https://doi. org/10.1145/3636534.3649381",
+    "year": "2024",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "6G Smart Networks and Services Industry Association (6G-IA)",
+    "year": "2024",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
+    "year": "2023",
+    "citations": 33,
+    "authors": "N/A"
+  },
+  {
+    "title": "The 6G Architecture Landscape: European Perspective",
+    "year": "2023",
+    "citations": 25,
+    "authors": "N/A"
+  },
+  {
+    "title": "O-ran: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
+    "year": "2023",
+    "citations": 22,
+    "authors": "N/A"
+  },
+  {
+    "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
+    "year": "2023",
+    "citations": 21,
+    "authors": "N/A"
+  },
+  {
+    "title": "EdgeBOL: A Bayesian learning approach for the joint orchestration of vRANs and mobile edge AI",
+    "year": "2023",
+    "citations": 18,
+    "authors": "N/A"
+  },
+  {
+    "title": "System and method for network automation in slice-based network using reinforcement learning",
+    "year": "2023",
+    "citations": 16,
+    "authors": "N/A"
+  },
+  {
+    "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
+    "year": "2023",
+    "citations": 16,
+    "authors": "N/A"
+  },
+  {
+    "title": "Data-driven analysis of the cost-performance trade-off of reconfigurable intelligent surfaces in a production network",
+    "year": "2023",
+    "citations": 13,
+    "authors": "N/A"
+  },
+  {
+    "title": "Orchestration procedures for the network intelligence stratum in 6g networks",
+    "year": "2023",
+    "citations": 11,
+    "authors": "N/A"
+  },
+  {
+    "title": "The 6g architecture landscape: European perspective",
+    "year": "2023",
+    "citations": 7,
+    "authors": "N/A"
+  },
+  {
+    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
+    "year": "2023",
+    "citations": 6,
+    "authors": "N/A"
+  },
+  {
+    "title": "A leakage-based method for mitigation of faulty reconfigurable intelligent surfaces",
+    "year": "2023",
+    "citations": 5,
+    "authors": "N/A"
+  },
+  {
+    "title": "Virtual radio access network control",
+    "year": "2023",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "AIRIC: Orchestration of Virtualized Radio Access Networks with Noisy Neighbours",
+    "year": "2023",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "A Leakage-based Method for Mitigation of Faulty Reconfigurable Intelligent Surfaces",
+    "year": "2023",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "RadiOrchestra",
+    "year": "2023",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Towards Natively Intelligent Networks",
+    "year": "2023",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
+    "year": "2022",
+    "citations": 69,
+    "authors": "N/A"
+  },
+  {
+    "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
+    "year": "2022",
+    "citations": 29,
+    "authors": "N/A"
+  },
+  {
+    "title": "Radiorchestra: Proactive management of millimeter-wave self-backhauled small cells via joint optimization of beamforming, user association, rate selection, and admission control",
+    "year": "2022",
+    "citations": 26,
+    "authors": "N/A"
+  },
+  {
+    "title": "Network intelligence for virtualized ran orchestration: The daemon approach",
+    "year": "2022",
+    "citations": 23,
+    "authors": "N/A"
+  },
+  {
+    "title": "Anomaly detection and troubleshooting system for a network using machine learning and/or artificial intelligence",
+    "year": "2022",
+    "citations": 20,
+    "authors": "N/A"
+  },
+  {
+    "title": "Daemon: A network intelligence plane for 6g networks",
+    "year": "2022",
+    "citations": 16,
+    "authors": "N/A"
+  },
+  {
+    "title": "Reconfigurable intelligent surface-based systems and methods for managing multiple wired connections in wireless data centers",
+    "year": "2022",
+    "citations": 7,
+    "authors": "N/A"
+  },
+  {
+    "title": "VERA: Resource orchestration for virtualized services at the edge",
+    "year": "2022",
+    "citations": 4,
+    "authors": "N/A"
+  },
+  {
+    "title": "Methods and systems for detecting anomalies in cloud services based on mining time-evolving graphs",
+    "year": "2022",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Orchestrating Energy-Efficient vRANs",
+    "year": "2022",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
+    "year": "2021",
+    "citations": 256,
+    "authors": "N/A"
+  },
+  {
+    "title": "5Growth: An end-to-end service platform for automated deployment and management of vertical services over 5G networks",
+    "year": "2021",
+    "citations": 92,
+    "authors": "N/A"
+  },
+  {
+    "title": "Nuberu: Reliable RAN virtualization in shared platforms",
+    "year": "2021",
+    "citations": 57,
+    "authors": "N/A"
+  },
+  {
+    "title": "Network intelligence in 6G: Challenges and opportunities",
+    "year": "2021",
+    "citations": 56,
+    "authors": "N/A"
+  },
+  {
+    "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
+    "year": "2021",
+    "citations": 46,
+    "authors": "N/A"
+  },
+  {
+    "title": "Public and non-public network integration for 5Growth industry 4.0 use cases",
+    "year": "2021",
+    "citations": 33,
+    "authors": "N/A"
+  },
+  {
+    "title": "Experimental evaluation of power consumption in virtualized base stations",
+    "year": "2021",
+    "citations": 32,
+    "authors": "N/A"
+  },
+  {
+    "title": "EdgeBOL: Automating energy-savings for mobile edge AI",
+    "year": "2021",
+    "citations": 25,
+    "authors": "N/A"
+  },
+  {
+    "title": "5 Growth: Secure and reliable network slicing for verticals",
+    "year": "2021",
+    "citations": 24,
+    "authors": "N/A"
+  },
+  {
+    "title": "Orchestrating energy-efficient vRANs: Bayesian learning and experimental results",
+    "year": "2021",
+    "citations": 22,
+    "authors": "N/A"
+  },
+  {
+    "title": "5Growth data-driven AI-based scaling",
+    "year": "2021",
+    "citations": 9,
+    "authors": "N/A"
+  },
+  {
+    "title": "Dqn dynamic pricing and revenue driven service federation strategy",
+    "year": "2021",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
+    "title": "Multi-connectivity scheduler for a multi-rat system",
+    "year": "2021",
+    "citations": 6,
+    "authors": "N/A"
+  },
+  {
+    "title": "Demonstrating a Bayesian Online Learning for Energy-Aware Resource Orchestration in vRANs",
+    "year": "2021",
+    "citations": 5,
+    "authors": "N/A"
+  },
+  {
+    "title": "Self\u2010Managed 5G Networks                     1",
+    "year": "2021",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "Network intelligence in 6G: challenges and opportunities",
+    "year": "2021",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "5G-PPP Technology Board: AI and ML\u2013Enablers for Beyond 5G Networks",
+    "year": "2021",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Method for providing operating information for a network",
+    "year": "2021",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "INTERNET OF THINGS AND SENSOR NETWORKS",
+    "year": "2021",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Public and non-public network integration for 5Growth Industry 4.0 use cases",
+    "year": "2021",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "RISMA: Reconfigurable intelligent surfaces enabling beamforming for IoT massive access",
+    "year": "2020",
+    "citations": 103,
+    "authors": "N/A"
+  },
+  {
+    "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
+    "year": "2020",
+    "citations": 87,
+    "authors": "N/A"
+  },
+  {
+    "title": "LACO: A latency-driven network slicing orchestration in beyond-5G networks",
+    "year": "2020",
+    "citations": 65,
+    "authors": "N/A"
+  },
+  {
+    "title": "vrAIn: Deep learning based orchestration for computing and radio resources in vRANs",
+    "year": "2020",
+    "citations": 63,
+    "authors": "N/A"
+  },
+  {
+    "title": "On the Integration of AI/ML-based scaling operations in the 5Growth platform",
+    "year": "2020",
+    "citations": 57,
+    "authors": "N/A"
+  },
+  {
+    "title": "An optimal deployment framework for multi-cloud virtualized radio access networks",
+    "year": "2020",
+    "citations": 50,
+    "authors": "N/A"
+  },
+  {
+    "title": "5Growth: AI-driven 5G for Automation in Vertical Industries",
+    "year": "2020",
+    "citations": 49,
+    "authors": "N/A"
+  },
+  {
+    "title": "The case for serverless mobile networking",
+    "year": "2020",
+    "citations": 26,
+    "authors": "N/A"
+  },
+  {
+    "title": "On the optimization of multi-cloud virtualized radio access networks",
+    "year": "2020",
+    "citations": 19,
+    "authors": "N/A"
+  },
+  {
+    "title": "Method for in-network, dynamic radio access network functional split configuration by radio access network data plane forwarding nodes",
+    "year": "2020",
+    "citations": 17,
+    "authors": "N/A"
+  },
+  {
+    "title": "A Q-learning strategy for federation of 5G services",
+    "year": "2020",
+    "citations": 13,
+    "authors": "N/A"
+  },
+  {
+    "title": "Arena: A data-driven radio access networks analysis of football events",
+    "year": "2020",
+    "citations": 5,
+    "authors": "N/A"
+  },
+  {
+    "title": "System and method for improving transmission in wireless networks",
+    "year": "2020",
+    "citations": 4,
+    "authors": "N/A"
+  },
+  {
+    "title": "LACO: A Latency-Driven Network Slicing Orchestration in Beyond-5G Networks (In Press)",
+    "year": "2020",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "RISMA: Reconfigurable Intelligent Surfaces Enabling Beamforming for IoT Massive Access (In Press)",
+    "year": "2020",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Data Science and Artificial Intelligence",
+    "year": "2020",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "DATA SCIENCE AND ARTIFICIAL INTELLIGENCE",
+    "year": "2020",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Method for operating a plurality of wireless networks",
+    "year": "2020",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "On the Optimization of Multi-Cloud Virtualized Radio Access Networks",
+    "year": "2020",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "2020 IEEE CONFERENCE ON NETWORK FUNCTION VIRTUALIZATION AND SOFTWARE DEFINED NETWORKS, NFV-SDN 2020-PROCEEDINGS",
+    "year": "2020",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "vrAIn: A deep learning approach tailoring computing and radio resources in virtualized RANs",
+    "year": "2019",
+    "citations": 102,
+    "authors": "N/A"
+  },
+  {
+    "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
+    "year": "2019",
+    "citations": 89,
+    "authors": "N/A"
+  },
+  {
+    "title": "Integrating fronthaul and backhaul networks: Transport challenges and feasibility results",
+    "year": "2019",
+    "citations": 26,
+    "authors": "N/A"
+  },
+  {
+    "title": "Latency-driven network slices orchestration",
+    "year": "2019",
+    "citations": 2,
+    "authors": "N/A"
+  },
+  {
+    "title": "vrAIn Proof-of-Concept--A Deep Learning Approach for Virtualized RAN Resource Control",
+    "year": "2019",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "Fluidran: Optimized vran/mec orchestration",
+    "year": "2018",
+    "citations": 139,
+    "authors": "N/A"
+  },
+  {
+    "title": "Overbooking network slices through yield-driven end-to-end orchestration",
+    "year": "2018",
+    "citations": 135,
+    "authors": "N/A"
+  },
+  {
+    "title": "Joint optimization of edge computing architectures and radio access networks",
+    "year": "2018",
+    "citations": 108,
+    "authors": "N/A"
+  },
+  {
+    "title": "WizHaul: On the centralization degree of cloud RAN next generation fronthaul",
+    "year": "2018",
+    "citations": 98,
+    "authors": "N/A"
+  },
+  {
+    "title": "OVNES: Demonstrating 5G network slicing overbooking on real deployments",
+    "year": "2018",
+    "citations": 37,
+    "authors": "N/A"
+  },
+  {
+    "title": "ORLA/OLAA: Orthogonal coexistence of LAA and WiFi in unlicensed spectrum",
+    "year": "2018",
+    "citations": 28,
+    "authors": "N/A"
+  },
+  {
+    "title": "LaSR: A supple multi-connectivity scheduler for multi-RAT OFDMA systems",
+    "year": "2018",
+    "citations": 28,
+    "authors": "N/A"
+  },
+  {
+    "title": "Overbooking network slices end-to-end: Implementation and demonstration",
+    "year": "2018",
+    "citations": 12,
+    "authors": "N/A"
+  },
+  {
+    "title": "On the energy efficiency of rate and transmission power control in 802.11",
+    "year": "2018",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
+    "title": "Network slicing for 5G networks",
+    "year": "2018",
+    "citations": 5,
+    "authors": "N/A"
+  },
+  {
+    "title": "Mobile transport and computing platform for 5g verticals: Resource abstraction and implementation",
+    "year": "2018",
+    "citations": 4,
+    "authors": "N/A"
+  },
+  {
+    "title": "WizHaul: an automated solution for vRAN deployments optimization",
+    "year": "2018",
+    "citations": 4,
+    "authors": "N/A"
+  },
+  {
+    "title": "On the energy efficiency of rate and transmission power control in 802.11",
+    "year": "2018",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "5G-crosshaul: An SDN/NFV integrated fronthaul/backhaul transport network architecture",
+    "year": "2017",
+    "citations": 136,
+    "authors": "N/A"
+  },
+  {
+    "title": "Fair coexistence of scheduled and random access wireless networks: Unlicensed LTE/WiFi",
+    "year": "2017",
+    "citations": 102,
+    "authors": "N/A"
+  },
+  {
+    "title": "5G-crosshaul network slicing: Enabling multi-tenancy in mobile transport networks",
+    "year": "2017",
+    "citations": 98,
+    "authors": "N/A"
+  },
+  {
+    "title": "Low delay random linear coding and scheduling over multiple interfaces",
+    "year": "2017",
+    "citations": 69,
+    "authors": "N/A"
+  },
+  {
+    "title": "Cellular access multi-tenancy through small cell virtualization and common RF front-end sharing",
+    "year": "2017",
+    "citations": 33,
+    "authors": "N/A"
+  },
+  {
+    "title": "Novel Resource and Energy Management for 5G integrated backhaul/fronthaul (5G-Crosshaul)",
+    "year": "2017",
+    "citations": 28,
+    "authors": "N/A"
+  },
+  {
+    "title": "Resource management in a hierarchically controlled multi-domain wireless/optical integrated fronthaul and backhaul network",
+    "year": "2017",
+    "citations": 3,
+    "authors": "N/A"
+  },
+  {
+    "title": "Experimental evaluation of hierarchical control over multi-domain wireless/optical networks",
+    "year": "2017",
+    "citations": 2,
+    "authors": "N/A"
+  },
+  {
+    "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
+    "year": "2016",
+    "citations": 485,
+    "authors": "N/A"
+  },
+  {
+    "title": "Maximising LTE Capacity in Unlicensed Bands (LTE-U/LAA) while Fairly Coexisting with 802.11 WLANs",
+    "year": "2016",
+    "citations": 60,
+    "authors": "N/A"
+  },
+  {
+    "title": "Rigorous and practical proportional-fair allocation for multi-rate Wi-Fi",
+    "year": "2016",
+    "citations": 27,
+    "authors": "N/A"
+  },
+  {
+    "title": "Thwarting Selfish Behavior in 802.11 WLANs",
+    "year": "2016",
+    "citations": 13,
+    "authors": "N/A"
+  },
+  {
+    "title": "Revisiting 802.11 Rate Adaptation from Energy Consumption\u2019s Perspective",
+    "year": "2016",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
+    "title": "Revisiting 802.11 Rate Adaptation from Energy Consumption's Perspective",
+    "year": "2016",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
+    "title": "Packet forwarding for heterogeneous technologies for integrated fronthaul/backhaul",
+    "year": "2016",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
+    "title": "5G-Crosshaul: An SDN/NFV Integrated Fronthaul/Backhaul Architecture for 5G Networks",
+    "year": "2016",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "Azcorra, A. y Banchs, A.(2016). Revisiting 802.11 Rate Adaptation from Energy Consumption\u2019s Perspective. In",
+    "year": "2016",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Thwarting selfish behavior in 802.11 WLANs",
+    "year": "2016",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Adaptive mechanism for distributed opportunistic scheduling",
+    "year": "2015",
+    "citations": 5,
+    "authors": "N/A"
+  },
+  {
+    "title": "Per-frame energy consumption in 802.11 devices and its implication on modeling and design",
+    "year": "2015",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Per-frame Energy Consumption in 802.11 Devices and its Implication on Modeling and Design",
+    "year": "2014",
+    "citations": 119,
+    "authors": "N/A"
+  },
+  {
+    "title": "SOLOR: Self-Optimizing WLANs with Legacy-Friendly Opportunistic Relays",
+    "year": "2014",
+    "citations": 18,
+    "authors": "N/A"
+  },
+  {
+    "title": "Energy-efficient Optimization for Distributed Opportunistic Scheduling",
+    "year": "2014",
+    "citations": 14,
+    "authors": "N/A"
+  },
+  {
+    "title": "Investigating bit error patterns for radar pulse detection in IEEE 802.11",
+    "year": "2014",
+    "citations": 4,
+    "authors": "N/A"
+  },
+  {
+    "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
+    "year": "2013",
+    "citations": 778,
+    "authors": "N/A"
+  },
+  {
+    "title": "Internet future architectures for network and media independent services and protocols",
+    "year": "2013",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
+    "title": "Analysis and optimal configuration of distributed opportunistic scheduling techniques in wireless networks",
+    "year": "2013",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Energy consumption anatomy of 802.11 devices and its implication on modeling and design",
+    "year": "2012",
+    "citations": 134,
+    "authors": "N/A"
+  },
+  {
+    "title": "Distributed Opportunistic Scheduling: A Control Theoretic Approach",
+    "year": "2012",
+    "citations": 30,
+    "authors": "N/A"
+  },
+  {
+    "title": "Balancing energy efficiency and throughput fairness in IEEE 802.11 WLANs",
+    "year": "2012",
+    "citations": 27,
+    "authors": "N/A"
+  },
+  {
+    "title": "Energy-efficient fair channel access for IEEE 802.11 WLANs",
+    "year": "2011",
+    "citations": 35,
+    "authors": "N/A"
+  },
+  {
+    "title": "A Game Theoretic Approach to Distributed Opportunistic Scheduling",
+    "year": "2011",
+    "citations": 15,
+    "authors": "N/A"
+  },
+  {
+    "title": "On the scalability of carrier-grade mesh network architectures",
+    "year": "2011",
+    "citations": 4,
+    "authors": "N/A"
+  },
+  {
+    "title": "Greening IEEE 802.11 channel access",
+    "year": "2011",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "On the energy efficiency of IEEE 802.11 WLANs",
+    "year": "2010",
+    "citations": 39,
+    "authors": "N/A"
+  },
+  {
+    "title": "CARMEN: resource management and abstraction in wireless heterogeneous mesh networks",
+    "year": "2010",
+    "citations": 2,
+    "authors": "N/A"
+  }
+]
