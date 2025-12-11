@@ -56,38 +56,9 @@
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
   
   <link rel="stylesheet" href="/styles.css">
-
   
-  <style>
-  .rank-group {
-    display: inline-flex;
-    flex-direction: column;
-    vertical-align: middle;
-    margin-left: 4px;
-    gap: 1px;
-  }
-  .rank-label {
-    display: inline-block;
-    background-color: #337ab7;  
-    color: white;
-    padding: 0px 3px;
-    border-radius: 3px;
-    font-size: 0.6em;
-    vertical-align: middle;
-    font-weight: 600;
-    line-height: normal;
-    text-transform: none;  
-  }
-  .rank-csr { background-color: #d9534f; }  
-  .rank-astar { background-color: #337ab7; }  
-  .rank-a { background-color: #5bc0de; }  
-  .rank-jcr { background-color: #5cb85c; }  
-  .rank-other { background-color: #999999; }  
-   
-  span:not(.rank-group) > .rank-label {
-    margin-left: 4px;
-  }
-  </style>
+  <link rel="stylesheet" href="/css/custom.css">
+  
 
   
     <script>
@@ -131,6 +102,65 @@
 
   
   
+<style>
+    .rank-group {
+        display: inline-flex;
+        flex-direction: column;
+        vertical-align: middle;
+        margin-left: 4px;
+        gap: 1px;
+    }
+
+    .rank-label {
+        display: inline-block;
+        background-color: #337ab7;
+         
+        color: white;
+        padding: 0px 3px;
+        border-radius: 3px;
+        font-size: 0.6em;
+        vertical-align: middle;
+        font-weight: 600;
+        line-height: normal;
+        text-transform: none;
+         
+    }
+
+    .rank-csr {
+        background-color: #d9534f;
+    }
+
+     
+    .rank-astar {
+        background-color: #337ab7;
+    }
+
+     
+    .rank-a {
+        background-color: #5bc0de;
+    }
+
+     
+    .rank-jcr {
+        background-color: #5cb85c;
+    }
+
+     
+    .rank-other {
+        background-color: #999999;
+    }
+
+     
+    span.rank-label.rank-award {
+        background-color: #ffc107 !important;
+        color: #333 !important;
+    }
+
+     
+    span:not(.rank-group)>.rank-label {
+        margin-left: 4px;
+    }
+</style>
 
   <title>5 Growth: Secure and Reliable Network Slicing for Verticals | Andres Garcia-Saavedra</title>
 
@@ -250,25 +280,6 @@
           <a href="/#teaching">
             
             <span>Teaching</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/#contact">
-            
-            <span>Contact</span>
             
           </a>
         </li>
@@ -417,22 +428,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline js-cite-modal"
+        data-filename="/files/citations/2021_cunha_eucnc.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline" href="https://doi.org/10.1109/EuCNC/6GSummit51104.2021.9482536" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

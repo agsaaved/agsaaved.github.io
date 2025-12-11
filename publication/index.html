@@ -45,38 +45,9 @@
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
   
   <link rel="stylesheet" href="/styles.css">
-
   
-  <style>
-  .rank-group {
-    display: inline-flex;
-    flex-direction: column;
-    vertical-align: middle;
-    margin-left: 4px;
-    gap: 1px;
-  }
-  .rank-label {
-    display: inline-block;
-    background-color: #337ab7;  
-    color: white;
-    padding: 0px 3px;
-    border-radius: 3px;
-    font-size: 0.6em;
-    vertical-align: middle;
-    font-weight: 600;
-    line-height: normal;
-    text-transform: none;  
-  }
-  .rank-csr { background-color: #d9534f; }  
-  .rank-astar { background-color: #337ab7; }  
-  .rank-a { background-color: #5bc0de; }  
-  .rank-jcr { background-color: #5cb85c; }  
-  .rank-other { background-color: #999999; }  
-   
-  span:not(.rank-group) > .rank-label {
-    margin-left: 4px;
-  }
-  </style>
+  <link rel="stylesheet" href="/css/custom.css">
+  
 
   
     <script>
@@ -118,6 +89,65 @@
 
   
   
+<style>
+    .rank-group {
+        display: inline-flex;
+        flex-direction: column;
+        vertical-align: middle;
+        margin-left: 4px;
+        gap: 1px;
+    }
+
+    .rank-label {
+        display: inline-block;
+        background-color: #337ab7;
+         
+        color: white;
+        padding: 0px 3px;
+        border-radius: 3px;
+        font-size: 0.6em;
+        vertical-align: middle;
+        font-weight: 600;
+        line-height: normal;
+        text-transform: none;
+         
+    }
+
+    .rank-csr {
+        background-color: #d9534f;
+    }
+
+     
+    .rank-astar {
+        background-color: #337ab7;
+    }
+
+     
+    .rank-a {
+        background-color: #5bc0de;
+    }
+
+     
+    .rank-jcr {
+        background-color: #5cb85c;
+    }
+
+     
+    .rank-other {
+        background-color: #999999;
+    }
+
+     
+    span.rank-label.rank-award {
+        background-color: #ffc107 !important;
+        color: #333 !important;
+    }
+
+     
+    span:not(.rank-group)>.rank-label {
+        margin-left: 4px;
+    }
+</style>
 
   <title>Publications | Andres Garcia-Saavedra</title>
 
@@ -237,25 +267,6 @@
           <a href="/#teaching">
             
             <span>Teaching</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/#contact">
-            
-            <span>Contact</span>
             
           </a>
         </li>
@@ -738,16 +749,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-astar" style="">CORE A*</span>
-
-
-.
+<span class="rank-label rank-astar" style="">CORE A*</span>.
   <p>
 
 
@@ -755,6 +757,11 @@
 
 
 
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2026_palena_infocom_spiff.bib">
+  Cite
+</button>
 
 
 
@@ -802,26 +809,23 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2025_pavan_mobisys.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2025_pavan_mobisys.bib">
+  Cite
+</button>
 
 
 
@@ -833,8 +837,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3711875.3729154" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -872,26 +877,23 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2025_nikos_sigmetrics.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2025_apostolakis_sigmetrics.bib">
+  Cite
+</button>
 
 
 
@@ -903,8 +905,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3727128" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -939,7 +942,6 @@
 
 
 
-
 .
   <p>
 
@@ -950,22 +952,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2025_chatzieleftheriou_eucnc_origami.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC/6GSummit63408.2025.11037119" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -1002,29 +1009,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/10981505" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2025_hidalgo_tmc_aegisran.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2025_hidalgo_tmc_aegisran.bib">
+  Cite
+</button>
 
 
 
@@ -1033,6 +1034,12 @@
 
 
 
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/10981505" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -1070,20 +1077,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-astar" style="">CORE A*</span>
-
-
-.
+<span class="rank-label rank-astar" style="">CORE A*</span>.
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2025_salvat_infocom_kairos.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2025_salvat_infocom.bib">
+  Cite
+</button>
 
 
 
@@ -1095,8 +1105,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFOCOM55648.2025.11044736" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -1134,20 +1145,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-astar" style="">CORE A*</span>
-
-
-.
+<span class="rank-label rank-astar" style="">CORE A*</span>.
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2025_aslan_infocom.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2025_aslan_infocom.bib">
+  Cite
+</button>
 
 
 
@@ -1159,8 +1173,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFOCOM55648.2025.11044643" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -1195,7 +1210,6 @@
 
 
 
-
 .
   <p>
 
@@ -1206,22 +1220,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2025_yilma_ccr_telecomrag.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3711992.3711996" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -1258,16 +1277,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -1277,22 +1287,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2025_mungari_tmc_oreo.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TMC.2025.3527707" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -1329,16 +1344,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -1348,22 +1354,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_abantoleon_tmc_rsma.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TMC.2024.3396389" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -1401,22 +1412,7 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
   <p>
 
 
@@ -1429,6 +1425,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_loschiavo_mobicom_cloudric.bib">
+  Cite
+</button>
 
 
 
@@ -1438,6 +1438,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3636534.3649381" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -1474,16 +1479,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -1493,22 +1489,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_soto_comnet.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1016/j.comnet.2024.110780" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -1550,28 +1551,7 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-    
-    
-    
-    
-    <span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;"><i class='fa fa-star'></i> Best Student Paper Award</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span><span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;"><i class='fa fa-star'></i> Best Student Paper Award</span></span>.
   <p>
 
 
@@ -1584,6 +1564,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_fatih_sigmetrics.bib">
+  Cite
+</button>
 
 
 
@@ -1593,6 +1577,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3639043" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -1627,7 +1616,6 @@
 
 
 
-
 .
   <p>
 
@@ -1638,22 +1626,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_chatzieleftheriou_eucnc_towards.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC/6GSummit60053.2024.10597105" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -1688,7 +1681,6 @@
 
 
 
-
 .
   <p>
 
@@ -1699,22 +1691,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_chatzieleftheriou_eucnc_daemon.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC/6GSummit60053.2024.10597088" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -1752,16 +1749,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-astar" style="">CORE A*</span>
-
-
-.
+<span class="rank-label rank-astar" style="">CORE A*</span>.
   <p>
 
 
@@ -1774,6 +1762,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_loschiavo_infocom.bib">
+  Cite
+</button>
 
 
 
@@ -1783,6 +1775,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFOCOM52122.2024.10621380" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -1820,16 +1817,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-astar" style="">CORE A*</span>
-
-
-.
+<span class="rank-label rank-astar" style="">CORE A*</span>.
   <p>
 
 
@@ -1842,6 +1830,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_mungari_infocom.bib">
+  Cite
+</button>
 
 
 
@@ -1851,6 +1843,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFOCOM52122.2024.10621166" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -1888,16 +1885,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-astar" style="">CORE A*</span>
-
-
-.
+<span class="rank-label rank-astar" style="">CORE A*</span>.
   <p>
 
 
@@ -1910,6 +1898,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_hinojosa_infocom.bib">
+  Cite
+</button>
 
 
 
@@ -1919,6 +1911,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFOCOM52122.2024.10621356" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -1956,16 +1953,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-astar" style="">CORE A*</span>
-
-
-.
+<span class="rank-label rank-astar" style="">CORE A*</span>.
   <p>
 
 
@@ -1978,6 +1966,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_ayala_infocom.bib">
+  Cite
+</button>
 
 
 
@@ -1987,6 +1979,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFOCOM52122.2024.10621197" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2025,22 +2022,23 @@
 
 
 
-
-
-
-
-
-
-
-
-<span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;"><i class='fa fa-star'></i> Best Paper Award</span>
-
-
-.
+<span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;"><i class='fa fa-star'></i> Best Paper Award</span>.
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="https://zenodo.org/doi/10.5281/zenodo.10686622" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_ethan_icmlcn.bib">
+  Cite
+</button>
 
 
 
@@ -2052,8 +2050,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/ICMLCN59089.2024.10624821" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2088,21 +2087,23 @@
 
 
 
-
 .
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/10466634/" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2024_shastri_comlet.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_shastri_comlet.bib">
+  Cite
+</button>
 
 
 
@@ -2111,6 +2112,12 @@
 
 
 
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/10466634/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2147,16 +2154,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -2166,22 +2164,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_rossanese_internetcomputing_open.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/MIC.2024.3376772" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -2218,16 +2221,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -2237,22 +2231,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_rossanese_ris_comcom.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1016/j.comnet.2024.110208" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -2290,22 +2289,7 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
   <p>
 
 
@@ -2317,6 +2301,11 @@
 
 
 
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_ayala_aaai.bib">
+  Cite
+</button>
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/jaayala/risk%20aware%20contextual%20bandit" target="_blank" rel="noopener">
@@ -2331,6 +2320,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1609/aaai.v38i19.30083" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2367,16 +2360,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -2386,22 +2370,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2024_baguer_openjournal_attacking.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/OJCOMS.2024.3431681" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -2438,20 +2427,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-a" style="">CORE A</span>
-
-
-.
+<span class="rank-label rank-a" style="">CORE A</span>.
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2023_rossanese_conext_ris.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_rossanese_conext_ris.bib">
+  Cite
+</button>
 
 
 
@@ -2463,8 +2455,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3629134" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2499,12 +2492,23 @@
 
 
 
-
 .
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2023_nairy_globecom.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_nairy_globecom.bib">
+  Cite
+</button>
 
 
 
@@ -2516,8 +2520,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/GLOBECOM54140.2023.10437177" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2554,20 +2559,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2023_salvat_jsac_airic.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_salvat_jsac_airic.bib">
+  Cite
+</button>
 
 
 
@@ -2579,8 +2587,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/JSAC.2023.3339749" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2615,7 +2624,6 @@
 
 
 
-
 .
   <p>
 
@@ -2626,22 +2634,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_municio_commstd.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/MCOMSTD.0001.2200041" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -2676,12 +2689,23 @@
 
 
 
-
 .
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2023_livia_eucnc.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_livia_eucnc.bib">
+  Cite
+</button>
 
 
 
@@ -2693,8 +2717,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC/6GSummit58263.2023.10188297" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2729,29 +2754,33 @@
 
 
 
-
 .
   <p>
 
 
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_bulakci_book_6g.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://library.oapen.org/handle/20.500.12657/87169" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -2788,29 +2817,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/10144499" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2023_salvat_magazine.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_salvat_magazine.bib">
+  Cite
+</button>
 
 
 
@@ -2819,6 +2842,12 @@
 
 
 
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/10144499" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2855,29 +2884,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/10107658" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2023_ayala_ton_edgebol.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_ayala_ton_edgebol.bib">
+  Cite
+</button>
 
 
 
@@ -2886,6 +2909,12 @@
 
 
 
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/10107658" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2922,29 +2951,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TMC.2023.3254999" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2023_tripathi_tmc_vera2.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2023_tripathi_tmc_vera2.bib">
+  Cite
+</button>
 
 
 
@@ -2953,6 +2976,12 @@
 
 
 
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TMC.2023.3254999" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -2987,7 +3016,6 @@
 
 
 
-
 .
   <p>
 
@@ -2998,22 +3026,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2022_camelo_globecomworkshop.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/GCWkshps56602.2022.10008662" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -3048,21 +3081,23 @@
 
 
 
-
 .
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/abs/10.1145/3556564.3558236" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2022_rossanese_wintech_ris.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2022_rossanese_wintech_ris.bib">
+  Cite
+</button>
 
 
 
@@ -3071,6 +3106,12 @@
 
 
 
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/abs/10.1145/3556564.3558236" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -3107,27 +3148,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TWC.2022.3191744" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2022_abanto_twc_radiorchestra.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
 
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2022_abanto_twc_radiorchestra.bib">
+  Cite
+</button>
 
 
 
@@ -3172,12 +3209,23 @@
 
 
 
-
 .
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2022_gramaglia_eucnc.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2022_gramaglia_eucnc.bib">
+  Cite
+</button>
 
 
 
@@ -3189,8 +3237,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC/6GSummit54941.2022.9815816" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -3225,12 +3274,23 @@
 
 
 
-
 .
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2022_shardatripathi_icc_vera.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2022_shardatripathi_icc_vera.bib">
+  Cite
+</button>
 
 
 
@@ -3242,8 +3302,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/ICC45855.2022.9838935" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -3278,7 +3339,6 @@
 
 
 
-
 .
   <p>
 
@@ -3289,22 +3349,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2022_camelo_ccnc_requirements.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/CCNC49033.2022.9700729" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -3341,16 +3406,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-a" style="">CORE A</span>
-
-
-.
+<span class="rank-label rank-a" style="">CORE A</span>.
   <p>
 
 
@@ -3360,12 +3416,13 @@
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/10.1145/3485983.3494849" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_ayala_conext_edgebol.bib">
+  Cite
+</button>
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/jaayala/contextual_bayesian_optimization" target="_blank" rel="noopener">
@@ -3384,6 +3441,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/10.1145/3485983.3494849" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -3421,22 +3482,7 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
   <p>
 
 
@@ -3446,12 +3492,13 @@
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/abs/10.1145/3447993.3483266" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_ggarcia_mobicom_nuberu.bib">
+  Cite
+</button>
 
 
 
@@ -3466,6 +3513,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/abs/10.1145/3447993.3483266" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -3502,16 +3553,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -3521,12 +3563,13 @@
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9594669" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_ayala_tmc_bayesian.bib">
+  Cite
+</button>
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/jaayala/contextual_bayesian_optimization" target="_blank" rel="noopener">
@@ -3541,6 +3584,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9594669" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -3575,29 +3622,33 @@
 
 
 
-
 .
   <p>
 
 
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_martinperez_bookchapter_5g.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://onlinelibrary.wiley.com/doi/10.1002/9781119675525.ch4" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -3632,7 +3683,6 @@
 
 
 
-
 .
   <p>
 
@@ -3643,22 +3693,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_banchs_mobiarch.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/10.1145/3477091.3482761" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -3695,20 +3750,23 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2021_jmartin_tnsm_federation.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_jmartin_tnsm_federation.bib">
+  Cite
+</button>
 
 
 
@@ -3720,8 +3778,9 @@
 
 
 
-
-
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TNSM.2021.3117589" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -3756,21 +3815,23 @@
 
 
 
-
 .
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/9579445" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2021_garciasaavedra_magazine_oran.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_garciasaavedra_magazine_oran.bib">
+  Cite
+</button>
 
 
 
@@ -3779,6 +3840,12 @@
 
 
 
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/9579445" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -3815,16 +3882,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -3834,22 +3892,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_guimaraes_commsmagazine.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/MCOM.001.2000853" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -3884,7 +3947,6 @@
 
 
 
-
 .
   <p>
 
@@ -3895,22 +3957,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_devleeschauwer_eucnc_scaling.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC/6GSummit51104.2021.9482476" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -3945,7 +4012,6 @@
 
 
 
-
 .
   <p>
 
@@ -3956,22 +4022,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_cunha_eucnc.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC/6GSummit51104.2021.9482536" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4009,16 +4080,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-astar" style="">CORE A*</span>
-
-
-.
+<span class="rank-label rank-astar" style="">CORE A*</span>.
   <p>
 
 
@@ -4030,6 +4092,11 @@
 
 
 
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_ayala_infocom_bayesian.bib">
+  Cite
+</button>
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/jaayala/contextual_bayesian_optimization" target="_blank" rel="noopener">
@@ -4044,6 +4111,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFOCOM42981.2021.9488845" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -4080,16 +4151,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -4099,22 +4161,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_xili_commsmagazine.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/MCOM.001.2000730" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4149,7 +4216,6 @@
 
 
 
-
 .
   <p>
 
@@ -4162,6 +4228,11 @@
 
 
 
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_ayala_icc_bayesian.bib">
+  Cite
+</button>
 
 
 
@@ -4176,6 +4247,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/ICC42927.2021.9500323" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -4212,16 +4287,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -4233,6 +4299,11 @@
 
 
 
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2021_ayala_tmc_vrain.bib">
+  Cite
+</button>
 
 
 
@@ -4247,6 +4318,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TMC.2020.3043100" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -4283,16 +4358,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -4305,6 +4371,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_fahri_twc_splits.bib">
+  Cite
+</button>
 
 
 
@@ -4314,6 +4384,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TWC.2020.3040791" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -4348,7 +4423,6 @@
 
 
 
-
 .
   <p>
 
@@ -4359,22 +4433,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_baranda_nfvsdn.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/NFV-SDN50289.2020.9289863" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4411,16 +4490,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -4433,6 +4503,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_zanzi_tnsm_arena.bib">
+  Cite
+</button>
 
 
 
@@ -4442,6 +4516,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TNSM.2020.3032829" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -4478,16 +4557,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -4500,6 +4570,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_zanzi_twx_laco.bib">
+  Cite
+</button>
 
 
 
@@ -4509,6 +4583,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TWC.2020.3027963" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -4545,16 +4624,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -4564,22 +4634,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_mursia_jsac_ris.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/9174831/" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4614,7 +4689,6 @@
 
 
 
-
 .
   <p>
 
@@ -4625,22 +4699,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_gramaglia_ifip.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/9142784" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4675,7 +4754,6 @@
 
 
 
-
 .
   <p>
 
@@ -4686,22 +4764,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_papagianni_eucnc.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC48522.2020.9200919" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4736,7 +4819,6 @@
 
 
 
-
 .
   <p>
 
@@ -4747,22 +4829,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_murti_icc.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/ICC40277.2020.9149318" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4797,7 +4884,6 @@
 
 
 
-
 .
   <p>
 
@@ -4808,22 +4894,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_antevski_icc.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/ICC40277.2020.9149082" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4860,16 +4951,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -4879,22 +4961,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2020_bega_commsmagazine.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/MCOM.001.1900653" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -4931,16 +5018,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -4950,22 +5028,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2019_gonzalez-diaz_tmc_crosshaul.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/8880533" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -5003,22 +5086,7 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
   <p>
 
 
@@ -5030,6 +5098,11 @@
 
 
 
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2019_ayala_mobicom.bib">
+  Cite
+</button>
 
 
 
@@ -5044,6 +5117,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3300061.3345431" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -5080,16 +5157,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -5099,22 +5167,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2019_gutierrez-estevez_wircomm.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/MWC.2019.1800498" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -5149,7 +5222,6 @@
 
 
 
-
 .
   <p>
 
@@ -5160,22 +5232,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2019_zanzi_infocomwkshop.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFCOMW.2019.8845216" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -5210,7 +5287,6 @@
 
 
 
-
 .
   <p>
 
@@ -5221,22 +5297,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2018_mendes_comcom_vran.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1016/j.comcom.2018.10.010" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -5273,16 +5354,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-a" style="">CORE A</span>
-
-
-.
+<span class="rank-label rank-a" style="">CORE A</span>.
   <p>
 
 
@@ -5295,6 +5367,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2018_salvat_conext.bib">
+  Cite
+</button>
 
 
 
@@ -5304,6 +5380,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3281411.3281435" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -5340,16 +5421,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -5362,6 +5434,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2018_garcia-saavedra_ton_lteu.bib">
+  Cite
+</button>
 
 
 
@@ -5371,6 +5447,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TNET.2018.2876590" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -5407,16 +5488,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -5429,6 +5501,10 @@
 
 
 
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2018_diez_tmc_lasr.bib">
+  Cite
+</button>
 
 
 
@@ -5438,6 +5514,11 @@
 
 
 
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TMC.2018.2876847" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -5474,16 +5555,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -5493,22 +5565,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2018_garcia-saavedra_jsac_fluidran.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/8489916/" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -5543,7 +5620,6 @@
 
 
 
-
 .
   <p>
 
@@ -5554,22 +5630,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2018_sambo_nfvsdn.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/NFV-SDN.2018.8725613" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -5604,29 +5685,33 @@
 
 
 
-
 .
   <p>
 
 
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2018_costaperez_bookchapter_5g.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1002/9781119333142.ch9" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -5666,22 +5751,7 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
   <p>
 
 
@@ -5708,6 +5778,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/INFOCOM.2018.8486243" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -5742,7 +5816,6 @@
 
 
 
-
 .
   <p>
 
@@ -5752,10 +5825,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.sciencedirect.com/science/article/pii/S0140366417303729" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -5774,6 +5843,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.sciencedirect.com/science/article/pii/S0140366417303729" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -5810,16 +5883,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -5828,10 +5892,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/8283832/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -5850,6 +5910,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/8283832/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -5884,7 +5948,6 @@
 
 
 
-
 .
   <p>
 
@@ -5895,22 +5958,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2017_baranda_nfvsdn.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/NFV-SDN.2017.8169848" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -5949,18 +6017,7 @@
 
 
 
-
-
-
-
-
-
-
-
-<span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;"><i class='fa fa-star'></i> Best Runner-Up Award</span>
-
-
-.
+<span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;"><i class='fa fa-star'></i> Best Runner-Up Award</span>.
   <p>
 
 
@@ -5970,22 +6027,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2017_mendes_wintech.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3131473.3131474" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -6022,16 +6084,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -6040,10 +6093,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/8007247/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6062,6 +6111,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/8007247/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6098,16 +6151,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -6117,22 +6161,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2017_xili_commsmagazine.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/MCOM.2017.1600921" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -6167,7 +6216,6 @@
 
 
 
-
 .
   <p>
 
@@ -6178,22 +6226,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2017_mangues_eucnc.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC.2017.7980665" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -6228,7 +6281,6 @@
 
 
 
-
 .
   <p>
 
@@ -6239,22 +6291,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2017_xili_iccwkshop.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/ICCW.2017.7962753" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -6291,16 +6348,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -6309,10 +6357,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/7885118/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6331,6 +6375,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/7885118/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6367,16 +6415,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -6385,10 +6424,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/7864788/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6407,6 +6442,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/7864788/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6443,16 +6482,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-a" style="">CORE A</span>
-
-
-.
+<span class="rank-label rank-a" style="">CORE A</span>.
   <p>
 
 
@@ -6461,10 +6491,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2989149" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6483,6 +6509,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2989149" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6521,18 +6551,7 @@
 
 
 
-
-
-
-
-
-
-
-
-<span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;"><i class='fa fa-star'></i> Best Paper Award</span>
-
-
-.
+<span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;"><i class='fa fa-star'></i> Best Paper Award</span>.
   <p>
 
 
@@ -6541,10 +6560,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2980163" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6563,6 +6578,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2980163" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6597,7 +6616,6 @@
 
 
 
-
 .
   <p>
 
@@ -6608,22 +6626,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2016_deiss_eucnc.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EuCNC.2016.7561019" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -6658,7 +6681,6 @@
 
 
 
-
 .
   <p>
 
@@ -6668,10 +6690,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/7457619/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6690,6 +6708,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/7457619/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6724,7 +6746,6 @@
 
 
 
-
 .
   <p>
 
@@ -6734,10 +6755,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.sciencedirect.com/science/article/pii/S1570870515001262" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6756,6 +6773,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.sciencedirect.com/science/article/pii/S1570870515001262" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6792,16 +6813,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -6810,10 +6822,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/7050360/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6832,6 +6840,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/7050360/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6868,16 +6880,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -6886,10 +6889,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6819864/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6908,6 +6907,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6819864/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -6944,16 +6947,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -6962,10 +6956,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6969125/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -6984,6 +6974,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6969125/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7020,16 +7014,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -7038,10 +7023,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6823179/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -7060,6 +7041,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6823179/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7094,7 +7079,6 @@
 
 
 
-
 .
   <p>
 
@@ -7104,10 +7088,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6782471/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -7126,6 +7106,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6782471/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7162,24 +7146,15 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6549288/" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-primary btn-outline btn-xs" href="/files/papers/2012_camps_wircommag.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
+
 
 
 
@@ -7198,6 +7173,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6549288/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7232,7 +7211,6 @@
 
 
 
-
 .
   <p>
 
@@ -7243,22 +7221,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2013_alcober_icton.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/ICTON.2013.6602680" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -7295,16 +7278,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-a" style="">CORE A</span>
-
-
-.
+<span class="rank-label rank-a" style="">CORE A</span>.
   <p>
 
 
@@ -7313,10 +7287,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2413197" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -7335,6 +7305,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2413197" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7371,16 +7345,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -7389,10 +7354,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6381496/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -7411,6 +7372,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6381496/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7447,16 +7412,7 @@
 
 
 
-
-
-
-
-
-
-<span class="rank-label rank-jcr" style="">JCR Q1</span>
-
-
-.
+<span class="rank-label rank-jcr" style="">JCR Q1</span>.
   <p>
 
 
@@ -7465,10 +7421,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.sciencedirect.com/science/article/pii/S1574119212000466" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -7487,6 +7439,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.sciencedirect.com/science/article/pii/S1574119212000466" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7521,7 +7477,6 @@
 
 
 
-
 .
   <p>
 
@@ -7531,10 +7486,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/5986436/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -7553,6 +7504,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/5986436/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7592,22 +7547,7 @@
 
 
 
-
-
-
-<span class="rank-group">
-    
-    
-    
-    <span class="rank-label rank-astar" style="">CORE A*</span>
-    
-    
-    
-    <span class="rank-label rank-csr" style="">CSRankings</span>
-    
-</span>
-
-.
+<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
   <p>
 
 
@@ -7616,10 +7556,6 @@
   Preprint
 </a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6195795/" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -7638,6 +7574,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6195795/" target="_blank" rel="noopener">
+  DOI
+</a>
 
 </p>
 </div>
@@ -7672,7 +7612,6 @@
 
 
 
-
 .
   <p>
 
@@ -7683,22 +7622,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2011_lessmann_futurenetwork.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/document/6095195" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
@@ -7733,7 +7677,6 @@
 
 
 
-
 .
   <p>
 
@@ -7744,22 +7687,27 @@
 </a>
 
 
+
+
+
+<button type="button" class="btn btn-primary btn-outline btn-xs js-cite-modal"
+        data-filename="/files/citations/2010_serrano_ew.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/EW.2010.5483505" target="_blank" rel="noopener">
-  PDF
+  DOI
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 </div>
