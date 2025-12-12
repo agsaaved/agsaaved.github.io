@@ -455,7 +455,7 @@
 
 
     <div class="row" style="margin-top: 20px;">
-      <div class="col-md-6">
+      <div class="col-md-6" style="padding-right: 5px; width: 47%;">
         
         
         
@@ -509,7 +509,7 @@
           </a>
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6" style="padding-left: 5px; width: 53%;">
         
         <div id="right-col-content">
           
@@ -520,8 +520,14 @@
                   display: inline-flex;
                   flex-direction: column;
                   vertical-align: middle;
-                  margin-left: 4px;
-                  gap: 1px;
+                  margin-left: 1px;
+                  gap: 0px;
+                }
+
+                .rank-group a {
+                  text-decoration: none;
+                  color: inherit;
+                  display: inline-flex;
                 }
 
                 .rank-label {
@@ -529,7 +535,7 @@
                   background-color: #337ab7;
                    
                   color: white;
-                  padding: 0px 3px;
+                  padding: 0px 2px;
                   border-radius: 3px;
                   font-size: 0.6em;
                   vertical-align: middle;
@@ -565,27 +571,24 @@
 
                  
                 span:not(.rank-group)>.rank-label {
-                  margin-left: 4px;
+                  margin-left: 2px;
                 }
               </style>
-              <div class="highlights-container" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
+              <div class="highlights-container" style="display: flex; flex-wrap: wrap; gap: 2px; margin-bottom: 20px;">
                 
                 <span
-                  style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
-                  <i class="fa fa-certificate" style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
-                  <span><b>33 Inventions</b> <span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;">19 Granted Patents</span></span>
+                  style="background-color: #f8f9fa; padding: 3px 0px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
+                  <span><b><i class="fa fa-certificate"></i> 33 Inventions</b> <span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;">19 Granted Patents</span></span>
                 </span>
                 
                 <span
-                  style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
-                  <i class="fa " style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
-                  <span><b><i class="fa fa-bar-chart"></i> Impact</b>:&nbsp;<span class="rank-label rank-csr">9 CSRankings</span>&nbsp;<span class="rank-label rank-astar">17 CORE A*</span>&nbsp;<span class="rank-label rank-a">5 CORE A</span>&nbsp;<span class="rank-label rank-jcr">39 JCR Q1</span>&nbsp;<span class="rank-label rank-other">44 Other Papers</span><div style="margin-top: 5px;"></div><b><i class="fa fa-microphone"></i> Selected Conferences</b>: <span style="white-space: nowrap;">10 IEEE INFOCOM <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">2 CSRankings</span></span></span>, <span style="white-space: nowrap;">4 ACM CoNEXT <span class="rank-label rank-a">CORE A</span></span>, <span style="white-space: nowrap;">3 ACM MobiCom <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">2 ACM SIGMETRICS <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">1 ACM MobiSys <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">1 AAAI <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span><div style="margin-top: 5px;"></div><b><i class="fa fa-book"></i> Selected Journals</b>: <span style="white-space: nowrap;">10 IEEE TMC <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">8 IEEE/ACM ToN <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">4 IEEE TWC <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">3 IEEE JSAC <span class="rank-label rank-jcr">JCR Q1</span></span></span>
+                  style="background-color: #f8f9fa; padding: 3px 0px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
+                  <span><b><i class="fa fa-bar-chart"></i> Impact</b>:&nbsp;<a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">9 CSRank.</span></a>&nbsp;<a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">17 CORE A*</span></a>&nbsp;<a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-a">5 CORE A</span></a>&nbsp;<a href="https://jcr.clarivate.com/jcr/home" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-jcr">39 JCR Q1</span></a>&nbsp;<span class="rank-label rank-other">44 Other Papers</span><div style="margin-top: 5px;"></div><b><i class="fa fa-microphone"></i> Selected Conferences</b>: <span style="white-space: nowrap;">10 IEEE INFOCOM <span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">2 CSRank.</span></a></span></span>, <span style="white-space: nowrap;">4 ACM CoNEXT <a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-a">CORE A</span></a></span>, <span style="white-space: nowrap;">3 ACM MobiCom <span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">CSRank.</span></a></span></span>, <span style="white-space: nowrap;">2 ACM SIGMETRICS <span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">CSRank.</span></a></span></span>, <span style="white-space: nowrap;">1 ACM MobiSys <span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">CSRank.</span></a></span></span>, <span style="white-space: nowrap;">1 AAAI <span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">CSRank.</span></a></span></span><div style="margin-top: 5px;"></div><b><i class="fa fa-book"></i> Selected Journals</b>: <span style="white-space: nowrap;">10 IEEE TMC <a href="https://jcr.clarivate.com/jcr/home" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-jcr">JCR Q1</span></a></span>, <span style="white-space: nowrap;">8 IEEE/ACM ToN <a href="https://jcr.clarivate.com/jcr/home" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-jcr">JCR Q1</span></a></span>, <span style="white-space: nowrap;">4 IEEE TWC <a href="https://jcr.clarivate.com/jcr/home" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-jcr">JCR Q1</span></a></span>, <span style="white-space: nowrap;">3 IEEE JSAC <a href="https://jcr.clarivate.com/jcr/home" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-jcr">JCR Q1</span></a></span></span>
                 </span>
                 
                 <span
-                  style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
-                  <i class="fa " style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
-                  <span><b><i class="fa fa-users"></i> TPC Member</b>: <span style="white-space: nowrap;">ACM SIGCOMM <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">ACM MobiCom <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">IEEE INFOCOM <span class="rank-label rank-astar">CORE A*</span></span>, <span style="white-space: nowrap;">ACM MobiSys <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">ACM CoNEXT <span class="rank-label rank-a">CORE A</span></span></span>
+                  style="background-color: #f8f9fa; padding: 3px 0px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
+                  <span><b><i class="fa fa-users"></i> TPC Member</b>: <span style="white-space: nowrap;">ACM SIGCOMM <span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">CSRank.</span></a></span></span>, <span style="white-space: nowrap;">ACM MobiCom <span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">CSRank.</span></a></span></span>, <span style="white-space: nowrap;">IEEE INFOCOM <a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a></span>, <span style="white-space: nowrap;">ACM MobiSys <span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-astar">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-csr">CSRank.</span></a></span></span>, <span style="white-space: nowrap;">ACM CoNEXT <a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;"><span class="rank-label rank-a">CORE A</span></a></span></span>
                 </span>
                 
               </div>
@@ -896,7 +899,7 @@
 
 
 
-<span class="rank-label rank-astar" style="">CORE A*</span>.
+<a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;display:inline-flex;"><span class="rank-label rank-astar" style="">CORE A*</span></a>.
   <p>
 
 
@@ -948,7 +951,7 @@
 
 
 
-<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
+<span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;display:inline-flex;"><span class="rank-label rank-astar" style="">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;display:inline-flex;"><span class="rank-label rank-csr" style="">CSRank.</span></a></span>.
   <p>
 
 
@@ -1008,7 +1011,7 @@
 
 
 
-<span class="rank-group"><span class="rank-label rank-astar" style="">CORE A*</span><span class="rank-label rank-csr" style="">CSRankings</span></span>.
+<span class="rank-group"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" style="text-decoration:none;color:inherit;display:inline-flex;"><span class="rank-label rank-astar" style="">CORE A*</span></a><a href="https://csrankings.org/" target="_blank" style="text-decoration:none;color:inherit;display:inline-flex;"><span class="rank-label rank-csr" style="">CSRank.</span></a></span>.
   <p>
 
 
@@ -1124,7 +1127,7 @@
 
 
 
-<span class="rank-label rank-jcr" style="">JCR Q1</span>.
+<a href="https://jcr.clarivate.com/jcr/home" target="_blank" style="text-decoration:none;color:inherit;display:inline-flex;"><span class="rank-label rank-jcr" style="">JCR Q1</span></a>.
   <p>
 
 
