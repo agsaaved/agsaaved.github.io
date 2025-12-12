@@ -416,9 +416,29 @@
               if (document.getElementById('scholar-hindex')) document.getElementById('scholar-hindex').textContent = data.h_index;
               if (document.getElementById('scholar-i10index')) document.getElementById('scholar-i10index').textContent = data.i10_index;
               if (document.getElementById('scholar-updated')) document.getElementById('scholar-updated').textContent = data.last_updated;
+
+              
+              setTimeout(adjustChartHeight, 100);
             })
             .catch(error => console.error('Error loading scholar stats:', error));
         });
+
+        function adjustChartHeight() {
+          const rightCol = document.getElementById('right-col-content');
+          const statsRow = document.getElementById('left-col-stats');
+          const chartContainer = document.getElementById('profile-chart-container');
+
+          if (rightCol && statsRow && chartContainer) {
+            const rightHeight = rightCol.offsetHeight;
+            const statsHeight = statsRow.offsetHeight;
+            
+            
+            const targetHeight = Math.max(200, rightHeight - statsHeight - 20);
+            chartContainer.style.height = targetHeight + 'px';
+          }
+        }
+        window.addEventListener('load', adjustChartHeight);
+        window.addEventListener('resize', adjustChartHeight);
       </script>
 
     </div>
@@ -435,7 +455,7 @@
 
 
     <div class="row" style="margin-top: 20px;">
-      <div class="col-md-5">
+      <div class="col-md-6">
         
         
         
@@ -450,31 +470,33 @@
 
         <div style="margin-top: 20px;">
           
-          <a href="https://scholar.google.es/citations?user=zH4j6GcAAAAJ&amp;hl=en" target="_blank" rel="noopener"
-            style="text-decoration: none; color: inherit; display: block;">
-            <div class="row" style="text-align: center; margin-bottom: 10px;">
-              <div class="col-xs-4">
-                <div id="scholar-citations" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
-                <div style="color: #666; font-weight: bold; font-size: 0.8rem;">Citations</div>
+          <div id="left-col-stats">
+            <a href="https://scholar.google.es/citations?user=zH4j6GcAAAAJ&amp;hl=en" target="_blank" rel="noopener"
+              style="text-decoration: none; color: inherit; display: block;">
+              <div class="row" style="text-align: center; margin-bottom: 10px;">
+                <div class="col-xs-4">
+                  <div id="scholar-citations" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
+                  <div style="color: #666; font-weight: bold; font-size: 0.8rem;">Citations</div>
+                </div>
+                <div class="col-xs-4">
+                  <div id="scholar-hindex" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
+                  <div style="color: #666; font-weight: bold; font-size: 0.8rem;">h-index</div>
+                </div>
+                <div class="col-xs-4">
+                  <div id="scholar-i10index" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
+                  <div style="color: #666; font-weight: bold; font-size: 0.8rem;">i10-index</div>
+                </div>
               </div>
-              <div class="col-xs-4">
-                <div id="scholar-hindex" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
-                <div style="color: #666; font-weight: bold; font-size: 0.8rem;">h-index</div>
-              </div>
-              <div class="col-xs-4">
-                <div id="scholar-i10index" style="font-size: 1.5rem; font-weight: bold; color: #333;">-</div>
-                <div style="color: #666; font-weight: bold; font-size: 0.8rem;">i10-index</div>
-              </div>
-            </div>
-            
-          </a>
+              
+            </a>
+          </div>
 
           
           <a href="https://scholar.google.es/citations?user=zH4j6GcAAAAJ&amp;hl=en" target="_blank" rel="noopener"
             style="text-decoration: none; color: inherit; display: block;">
             <div class="row">
               <div class="col-xs-12">
-                <div style="width: 100%; height: 180px; position: relative;">
+                <div id="profile-chart-container" style="width: 100%; height: 300px; position: relative;">
                   <canvas id="citations-chart"></canvas>
                 </div>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -487,89 +509,90 @@
           </a>
         </div>
       </div>
-
-      <div class="col-md-7">
+      <div class="col-md-6">
         
-        
-        <div class="row" style="margin-top: 20px;">
-          <div class="col-xs-12" style="text-align: left;">
-            <style>
-              .rank-group {
-                display: inline-flex;
-                flex-direction: column;
-                vertical-align: middle;
-                margin-left: 4px;
-                gap: 1px;
-              }
+        <div id="right-col-content">
+          
+          <div class="row" style="margin-top: 20px;">
+            <div class="col-xs-12" style="text-align: left;">
+              <style>
+                .rank-group {
+                  display: inline-flex;
+                  flex-direction: column;
+                  vertical-align: middle;
+                  margin-left: 4px;
+                  gap: 1px;
+                }
 
-              .rank-label {
-                display: inline-block;
-                background-color: #337ab7;
+                .rank-label {
+                  display: inline-block;
+                  background-color: #337ab7;
+                   
+                  color: white;
+                  padding: 0px 3px;
+                  border-radius: 3px;
+                  font-size: 0.6em;
+                  vertical-align: middle;
+                  font-weight: 600;
+                  line-height: normal;
+                }
+
+                .rank-csr {
+                  background-color: #d9534f;
+                }
+
                  
-                color: white;
-                padding: 0px 3px;
-                border-radius: 3px;
-                font-size: 0.6em;
-                vertical-align: middle;
-                font-weight: 600;
-                line-height: normal;
-              }
+                .rank-astar {
+                  background-color: #337ab7;
+                }
 
-              .rank-csr {
-                background-color: #d9534f;
-              }
+                 
+                .rank-a {
+                  background-color: #5bc0de;
+                }
 
-               
-              .rank-astar {
-                background-color: #337ab7;
-              }
+                 
+                .rank-jcr {
+                  background-color: #5cb85c;
+                }
 
-               
-              .rank-a {
-                background-color: #5bc0de;
-              }
+                 
+                .rank-other {
+                  background-color: #999999;
+                }
 
-               
-              .rank-jcr {
-                background-color: #5cb85c;
-              }
+                 
 
-               
-              .rank-other {
-                background-color: #999999;
-              }
-
-               
-
-               
-              span:not(.rank-group)>.rank-label {
-                margin-left: 4px;
-              }
-            </style>
-            <div class="highlights-container" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
-              
-              <span
-                style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
-                <i class="fa fa-certificate" style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
-                <span><b>33 Inventions</b> <span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;">19 Granted Patents</span></span>
-              </span>
-              
-              <span
-                style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
-                <i class="fa " style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
-                <span><b><i class="fa fa-bar-chart"></i> Impact</b>:&nbsp;<span class="rank-label rank-csr">9 CSRankings</span>&nbsp;<span class="rank-label rank-astar">17 CORE A*</span>&nbsp;<span class="rank-label rank-a">5 CORE A</span>&nbsp;<span class="rank-label rank-jcr">39 JCR Q1</span>&nbsp;<span class="rank-label rank-other">44 Other Papers</span><div style="margin-top: 5px;"></div><b><i class="fa fa-microphone"></i> Selected Conferences</b>: <span style="white-space: nowrap;">10 IEEE INFOCOM <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">2 CSRankings</span></span></span>, <span style="white-space: nowrap;">4 ACM CoNEXT <span class="rank-label rank-a">CORE A</span></span>, <span style="white-space: nowrap;">3 ACM MobiCom <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">2 ACM SIGMETRICS <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">1 ACM MobiSys <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">1 AAAI <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span><div style="margin-top: 5px;"></div><b><i class="fa fa-book"></i> Selected Journals</b>: <span style="white-space: nowrap;">10 IEEE TMC <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">8 IEEE/ACM ToN <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">4 IEEE TWC <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">3 IEEE JSAC <span class="rank-label rank-jcr">JCR Q1</span></span></span>
-              </span>
-              
-              <span
-                style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
-                <i class="fa fa-users" style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
-                <span><span style="display: flex; align-items: center;"><b style="flex-shrink: 0; margin-right: 5px;">TPC Member</b><span><span style="white-space: nowrap;">ACM SIGCOMM <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">ACM MobiCom <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">IEEE INFOCOM <span class="rank-label rank-astar">CORE A*</span></span>, <span style="white-space: nowrap;">ACM MobiSys <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">ACM CoNEXT <span class="rank-label rank-a">CORE A</span></span></span></span></span>
-              </span>
-              
+                 
+                span:not(.rank-group)>.rank-label {
+                  margin-left: 4px;
+                }
+              </style>
+              <div class="highlights-container" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
+                
+                <span
+                  style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
+                  <i class="fa fa-certificate" style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
+                  <span><b>33 Inventions</b> <span class="rank-label rank-award" style="background-color: #ffc107 !important; color: #333 !important;">19 Granted Patents</span></span>
+                </span>
+                
+                <span
+                  style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
+                  <i class="fa " style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
+                  <span><b><i class="fa fa-bar-chart"></i> Impact</b>:&nbsp;<span class="rank-label rank-csr">9 CSRankings</span>&nbsp;<span class="rank-label rank-astar">17 CORE A*</span>&nbsp;<span class="rank-label rank-a">5 CORE A</span>&nbsp;<span class="rank-label rank-jcr">39 JCR Q1</span>&nbsp;<span class="rank-label rank-other">44 Other Papers</span><div style="margin-top: 5px;"></div><b><i class="fa fa-microphone"></i> Selected Conferences</b>: <span style="white-space: nowrap;">10 IEEE INFOCOM <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">2 CSRankings</span></span></span>, <span style="white-space: nowrap;">4 ACM CoNEXT <span class="rank-label rank-a">CORE A</span></span>, <span style="white-space: nowrap;">3 ACM MobiCom <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">2 ACM SIGMETRICS <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">1 ACM MobiSys <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">1 AAAI <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span><div style="margin-top: 5px;"></div><b><i class="fa fa-book"></i> Selected Journals</b>: <span style="white-space: nowrap;">10 IEEE TMC <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">8 IEEE/ACM ToN <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">4 IEEE TWC <span class="rank-label rank-jcr">JCR Q1</span></span>, <span style="white-space: nowrap;">3 IEEE JSAC <span class="rank-label rank-jcr">JCR Q1</span></span></span>
+                </span>
+                
+                <span
+                  style="background-color: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; box-shadow: 0 1px 2px rgba(0,0,0,0.05); display: inline-flex; align-items: center; border: 1px solid #e9ecef; line-height: 1.4; max-width: 100%; white-space: normal;">
+                  <i class="fa " style="margin-right: 6px; color: #555; position: relative; top: 1px;"></i>
+                  <span><b><i class="fa fa-users"></i> TPC Member</b>: <span style="white-space: nowrap;">ACM SIGCOMM <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">ACM MobiCom <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">IEEE INFOCOM <span class="rank-label rank-astar">CORE A*</span></span>, <span style="white-space: nowrap;">ACM MobiSys <span class="rank-group"><span class="rank-label rank-astar">CORE A*</span><span class="rank-label rank-csr">CSRankings</span></span></span>, <span style="white-space: nowrap;">ACM CoNEXT <span class="rank-label rank-a">CORE A</span></span></span>
+                </span>
+                
+              </div>
             </div>
           </div>
+          
         </div>
-        
       </div>
     </div>
 
