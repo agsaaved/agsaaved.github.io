@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantic Communication on Andres Garcia-Saavedra</title>
+    <link>/tags/semantic-communication/</link>
+    <description>Recent content in Semantic Communication on Andres Garcia-Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/semantic-communication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks</title>
+      <link>/publication/2026_palena_infocom_spiff/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2026_palena_infocom_spiff/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -24,6 +24,36 @@
     
     <url>
     
+      <loc>/tags/generative-ai/</loc>
+      <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/image-compression/</loc>
+      <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/non-terrestrial-networks/</loc>
+      <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/</loc>
       <lastmod>2026-05-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -36,6 +66,26 @@
     
       <loc>/publication/2026_palena_infocom_spiff/</loc>
       <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/semantic-communication/</loc>
+      <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -363,16 +413,6 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2024-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
       <lastmod>2024-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>

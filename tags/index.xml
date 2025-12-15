@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generative AI</title>
+      <link>/tags/generative-ai/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/generative-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Compression</title>
+      <link>/tags/image-compression/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Terrestrial Networks</title>
+      <link>/tags/non-terrestrial-networks/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/non-terrestrial-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Communication</title>
+      <link>/tags/semantic-communication/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/semantic-communication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>6G</title>
