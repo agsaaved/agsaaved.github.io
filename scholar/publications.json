@@ -36,6 +36,12 @@
     "authors": "N/A"
   },
   {
+    "title": "SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks",
+    "year": "2026",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
     "citations": 25,
@@ -204,13 +210,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
+    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
-    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
+    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
     "year": "2024",
     "citations": 8,
     "authors": "N/A"
@@ -320,7 +326,7 @@
   {
     "title": "O-ran: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 22,
+    "citations": 24,
     "authors": "N/A"
   },
   {
@@ -336,13 +342,13 @@
     "authors": "N/A"
   },
   {
-    "title": "System and method for network automation in slice-based network using reinforcement learning",
+    "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
     "year": "2023",
-    "citations": 16,
+    "citations": 17,
     "authors": "N/A"
   },
   {
-    "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
+    "title": "System and method for network automation in slice-based network using reinforcement learning",
     "year": "2023",
     "citations": 16,
     "authors": "N/A"
@@ -470,7 +476,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 256,
+    "citations": 257,
     "authors": "N/A"
   },
   {
@@ -488,7 +494,7 @@
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 56,
+    "citations": 57,
     "authors": "N/A"
   },
   {
@@ -596,7 +602,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 87,
+    "citations": 88,
     "authors": "N/A"
   },
   {
@@ -716,7 +722,7 @@
   {
     "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
     "year": "2019",
-    "citations": 89,
+    "citations": 88,
     "authors": "N/A"
   },
   {
@@ -746,7 +752,7 @@
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 135,
+    "citations": 136,
     "authors": "N/A"
   },
   {
@@ -764,7 +770,7 @@
   {
     "title": "OVNES: Demonstrating 5G network slicing overbooking on real deployments",
     "year": "2018",
-    "citations": 37,
+    "citations": 38,
     "authors": "N/A"
   },
   {
@@ -830,7 +836,7 @@
   {
     "title": "5G-crosshaul network slicing: Enabling multi-tenancy in mobile transport networks",
     "year": "2017",
-    "citations": 98,
+    "citations": 99,
     "authors": "N/A"
   },
   {
@@ -866,7 +872,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 485,
+    "citations": 486,
     "authors": "N/A"
   },
   {
@@ -950,7 +956,7 @@
   {
     "title": "Energy-efficient Optimization for Distributed Opportunistic Scheduling",
     "year": "2014",
-    "citations": 14,
+    "citations": 13,
     "authors": "N/A"
   },
   {
@@ -962,7 +968,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 778,
+    "citations": 779,
     "authors": "N/A"
   },
   {
