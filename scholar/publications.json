@@ -182,7 +182,7 @@
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 20,
+    "citations": 22,
     "authors": "N/A"
   },
   {
@@ -318,15 +318,15 @@
     "authors": "N/A"
   },
   {
-    "title": "The 6G Architecture Landscape: European Perspective",
+    "title": "O-ran: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
     "citations": 25,
     "authors": "N/A"
   },
   {
-    "title": "O-ran: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
+    "title": "The 6G Architecture Landscape: European Perspective",
     "year": "2023",
-    "citations": 24,
+    "citations": 25,
     "authors": "N/A"
   },
   {
@@ -416,7 +416,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 69,
+    "citations": 70,
     "authors": "N/A"
   },
   {
@@ -482,7 +482,7 @@
   {
     "title": "5Growth: An end-to-end service platform for automated deployment and management of vertical services over 5G networks",
     "year": "2021",
-    "citations": 92,
+    "citations": 93,
     "authors": "N/A"
   },
   {
@@ -500,7 +500,7 @@
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 46,
+    "citations": 47,
     "authors": "N/A"
   },
   {
@@ -512,13 +512,13 @@
   {
     "title": "Experimental evaluation of power consumption in virtualized base stations",
     "year": "2021",
-    "citations": 32,
+    "citations": 33,
     "authors": "N/A"
   },
   {
     "title": "EdgeBOL: Automating energy-savings for mobile edge AI",
     "year": "2021",
-    "citations": 25,
+    "citations": 26,
     "authors": "N/A"
   },
   {
@@ -608,7 +608,7 @@
   {
     "title": "LACO: A latency-driven network slicing orchestration in beyond-5G networks",
     "year": "2020",
-    "citations": 65,
+    "citations": 66,
     "authors": "N/A"
   },
   {
@@ -716,13 +716,13 @@
   {
     "title": "vrAIn: A deep learning approach tailoring computing and radio resources in virtualized RANs",
     "year": "2019",
-    "citations": 102,
+    "citations": 103,
     "authors": "N/A"
   },
   {
     "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
     "year": "2019",
-    "citations": 88,
+    "citations": 89,
     "authors": "N/A"
   },
   {
@@ -770,7 +770,7 @@
   {
     "title": "OVNES: Demonstrating 5G network slicing overbooking on real deployments",
     "year": "2018",
-    "citations": 38,
+    "citations": 39,
     "authors": "N/A"
   },
   {
@@ -830,7 +830,7 @@
   {
     "title": "Fair coexistence of scheduled and random access wireless networks: Unlicensed LTE/WiFi",
     "year": "2017",
-    "citations": 102,
+    "citations": 103,
     "authors": "N/A"
   },
   {
@@ -848,7 +848,7 @@
   {
     "title": "Cellular access multi-tenancy through small cell virtualization and common RF front-end sharing",
     "year": "2017",
-    "citations": 33,
+    "citations": 32,
     "authors": "N/A"
   },
   {
@@ -872,7 +872,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 486,
+    "citations": 489,
     "authors": "N/A"
   },
   {
@@ -968,7 +968,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 779,
+    "citations": 780,
     "authors": "N/A"
   },
   {
