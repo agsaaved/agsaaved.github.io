@@ -44,7 +44,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 25,
+    "citations": 27,
     "authors": "N/A"
   },
   {
@@ -182,7 +182,7 @@
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 22,
+    "citations": 23,
     "authors": "N/A"
   },
   {
@@ -320,13 +320,13 @@
   {
     "title": "O-ran: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 25,
+    "citations": 26,
     "authors": "N/A"
   },
   {
     "title": "The 6G Architecture Landscape: European Perspective",
     "year": "2023",
-    "citations": 25,
+    "citations": 26,
     "authors": "N/A"
   },
   {
@@ -342,15 +342,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
+    "title": "System and method for network automation in slice-based network using reinforcement learning",
     "year": "2023",
     "citations": 17,
     "authors": "N/A"
   },
   {
-    "title": "System and method for network automation in slice-based network using reinforcement learning",
+    "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
     "year": "2023",
-    "citations": 16,
+    "citations": 17,
     "authors": "N/A"
   },
   {
@@ -476,7 +476,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 257,
+    "citations": 259,
     "authors": "N/A"
   },
   {
@@ -608,7 +608,7 @@
   {
     "title": "LACO: A latency-driven network slicing orchestration in beyond-5G networks",
     "year": "2020",
-    "citations": 66,
+    "citations": 65,
     "authors": "N/A"
   },
   {
@@ -716,7 +716,7 @@
   {
     "title": "vrAIn: A deep learning approach tailoring computing and radio resources in virtualized RANs",
     "year": "2019",
-    "citations": 103,
+    "citations": 102,
     "authors": "N/A"
   },
   {
@@ -746,13 +746,13 @@
   {
     "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 139,
+    "citations": 140,
     "authors": "N/A"
   },
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 136,
+    "citations": 139,
     "authors": "N/A"
   },
   {
@@ -770,7 +770,7 @@
   {
     "title": "OVNES: Demonstrating 5G network slicing overbooking on real deployments",
     "year": "2018",
-    "citations": 39,
+    "citations": 41,
     "authors": "N/A"
   },
   {
@@ -788,7 +788,7 @@
   {
     "title": "Overbooking network slices end-to-end: Implementation and demonstration",
     "year": "2018",
-    "citations": 12,
+    "citations": 13,
     "authors": "N/A"
   },
   {
@@ -842,13 +842,13 @@
   {
     "title": "Low delay random linear coding and scheduling over multiple interfaces",
     "year": "2017",
-    "citations": 69,
+    "citations": 70,
     "authors": "N/A"
   },
   {
     "title": "Cellular access multi-tenancy through small cell virtualization and common RF front-end sharing",
     "year": "2017",
-    "citations": 32,
+    "citations": 33,
     "authors": "N/A"
   },
   {
@@ -872,7 +872,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 489,
+    "citations": 490,
     "authors": "N/A"
   },
   {
