@@ -192,13 +192,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Oranus: Latency-tailored orchestration via stochastic network calculus in 6g o-ran",
+    "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 12,
+    "citations": 13,
     "authors": "N/A"
   },
   {
-    "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
+    "title": "Oranus: Latency-tailored orchestration via stochastic network calculus in 6g o-ran",
     "year": "2024",
     "citations": 12,
     "authors": "N/A"
@@ -240,13 +240,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
+    "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
-    "citations": 5,
+    "citations": 6,
     "authors": "N/A"
   },
   {
-    "title": "Risk-aware continuous control with neural contextual bandits",
+    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
     "year": "2024",
     "citations": 5,
     "authors": "N/A"
@@ -314,7 +314,7 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 33,
+    "citations": 34,
     "authors": "N/A"
   },
   {
@@ -326,7 +326,7 @@
   {
     "title": "O-ran: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 26,
+    "citations": 27,
     "authors": "N/A"
   },
   {
@@ -416,7 +416,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 70,
+    "citations": 71,
     "authors": "N/A"
   },
   {
@@ -486,13 +486,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Nuberu: Reliable RAN virtualization in shared platforms",
+    "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 57,
+    "citations": 58,
     "authors": "N/A"
   },
   {
-    "title": "Network intelligence in 6G: Challenges and opportunities",
+    "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
     "citations": 57,
     "authors": "N/A"
@@ -518,7 +518,7 @@
   {
     "title": "EdgeBOL: Automating energy-savings for mobile edge AI",
     "year": "2021",
-    "citations": 26,
+    "citations": 27,
     "authors": "N/A"
   },
   {
@@ -770,7 +770,7 @@
   {
     "title": "OVNES: Demonstrating 5G network slicing overbooking on real deployments",
     "year": "2018",
-    "citations": 41,
+    "citations": 42,
     "authors": "N/A"
   },
   {
@@ -956,7 +956,7 @@
   {
     "title": "Energy-efficient Optimization for Distributed Opportunistic Scheduling",
     "year": "2014",
-    "citations": 13,
+    "citations": 14,
     "authors": "N/A"
   },
   {
