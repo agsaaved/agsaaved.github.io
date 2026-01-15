@@ -42,9 +42,15 @@
     "authors": "N/A"
   },
   {
+    "title": "The \u201cO\u201d on Radio Access Networks",
+    "year": "2026",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 27,
+    "citations": 28,
     "authors": "N/A"
   },
   {
@@ -78,6 +84,12 @@
     "authors": "N/A"
   },
   {
+    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "year": "2025",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
     "title": "In-band wireless control of reconfigurable intelligent surfaces",
     "year": "2025",
     "citations": 0,
@@ -91,12 +103,6 @@
   },
   {
     "title": "Method and system for intelligent data collection and management for open ran intelligent controllers",
-    "year": "2025",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
-    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
     "year": "2025",
     "citations": 0,
     "authors": "N/A"
@@ -168,15 +174,9 @@
     "authors": "N/A"
   },
   {
-    "title": "The \u201cO\u201d on Radio Access Networks",
-    "year": "2025",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -206,7 +206,7 @@
   {
     "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 9,
+    "citations": 10,
     "authors": "N/A"
   },
   {
@@ -402,6 +402,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Towards natively intelligent networks",
+    "year": "2023",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "RadiOrchestra",
     "year": "2023",
     "citations": 0,
@@ -416,7 +422,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 71,
+    "citations": 72,
     "authors": "N/A"
   },
   {
@@ -434,7 +440,7 @@
   {
     "title": "Network intelligence for virtualized ran orchestration: The daemon approach",
     "year": "2022",
-    "citations": 23,
+    "citations": 24,
     "authors": "N/A"
   },
   {
@@ -608,7 +614,7 @@
   {
     "title": "LACO: A latency-driven network slicing orchestration in beyond-5G networks",
     "year": "2020",
-    "citations": 65,
+    "citations": 66,
     "authors": "N/A"
   },
   {
@@ -722,7 +728,7 @@
   {
     "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
     "year": "2019",
-    "citations": 89,
+    "citations": 90,
     "authors": "N/A"
   },
   {
@@ -956,7 +962,7 @@
   {
     "title": "Energy-efficient Optimization for Distributed Opportunistic Scheduling",
     "year": "2014",
-    "citations": 14,
+    "citations": 13,
     "authors": "N/A"
   },
   {
@@ -968,7 +974,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 780,
+    "citations": 781,
     "authors": "N/A"
   },
   {
