@@ -50,13 +50,13 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 28,
+    "citations": 29,
     "authors": "N/A"
   },
   {
     "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
-    "citations": 7,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -176,31 +176,31 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 30,
+    "citations": 32,
     "authors": "N/A"
   },
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 24,
+    "citations": 25,
     "authors": "N/A"
   },
   {
     "title": "Fair resource allocation in virtualized o-ran platforms",
     "year": "2024",
-    "citations": 19,
+    "citations": 21,
     "authors": "N/A"
   },
   {
     "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 13,
+    "citations": 15,
     "authors": "N/A"
   },
   {
     "title": "Oranus: Latency-tailored orchestration via stochastic network calculus in 6g o-ran",
     "year": "2024",
-    "citations": 12,
+    "citations": 13,
     "authors": "N/A"
   },
   {
@@ -212,19 +212,19 @@
   {
     "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
+    "citations": 10,
+    "authors": "N/A"
+  },
+  {
+    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
+    "year": "2024",
     "citations": 9,
     "authors": "N/A"
   },
   {
     "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
     "year": "2024",
-    "citations": 8,
-    "authors": "N/A"
-  },
-  {
-    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
-    "year": "2024",
-    "citations": 7,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -254,13 +254,19 @@
   {
     "title": "Indoor Millimeter Wave Localization Using Multiple Self-Supervised Tiny Neural Networks",
     "year": "2024",
-    "citations": 4,
+    "citations": 5,
     "authors": "N/A"
   },
   {
     "title": "MemorAI: Energy-efficient last-level cache memory optimization for virtualized RANs",
     "year": "2024",
     "citations": 3,
+    "authors": "N/A"
+  },
+  {
+    "title": "Network intelligence in action: the daemon perspective",
+    "year": "2024",
+    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -271,12 +277,6 @@
   },
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
-    "year": "2024",
-    "citations": 1,
-    "authors": "N/A"
-  },
-  {
-    "title": "Network intelligence in action: the daemon perspective",
     "year": "2024",
     "citations": 1,
     "authors": "N/A"
@@ -314,7 +314,7 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 34,
+    "citations": 37,
     "authors": "N/A"
   },
   {
@@ -332,13 +332,13 @@
   {
     "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
     "year": "2023",
-    "citations": 21,
+    "citations": 22,
     "authors": "N/A"
   },
   {
     "title": "EdgeBOL: A Bayesian learning approach for the joint orchestration of vRANs and mobile edge AI",
     "year": "2023",
-    "citations": 18,
+    "citations": 19,
     "authors": "N/A"
   },
   {
@@ -356,7 +356,7 @@
   {
     "title": "Data-driven analysis of the cost-performance trade-off of reconfigurable intelligent surfaces in a production network",
     "year": "2023",
-    "citations": 13,
+    "citations": 14,
     "authors": "N/A"
   },
   {
@@ -366,15 +366,15 @@
     "authors": "N/A"
   },
   {
-    "title": "The 6g architecture landscape: European perspective",
+    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
     "year": "2023",
     "citations": 7,
     "authors": "N/A"
   },
   {
-    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
+    "title": "The 6g architecture landscape: European perspective",
     "year": "2023",
-    "citations": 6,
+    "citations": 7,
     "authors": "N/A"
   },
   {
@@ -482,49 +482,49 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 260,
+    "citations": 263,
     "authors": "N/A"
   },
   {
     "title": "5Growth: An end-to-end service platform for automated deployment and management of vertical services over 5G networks",
     "year": "2021",
-    "citations": 94,
+    "citations": 95,
     "authors": "N/A"
   },
   {
     "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
-    "citations": 58,
+    "citations": 57,
     "authors": "N/A"
   },
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 58,
+    "citations": 57,
     "authors": "N/A"
   },
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 47,
+    "citations": 48,
     "authors": "N/A"
   },
   {
     "title": "Public and non-public network integration for 5Growth industry 4.0 use cases",
     "year": "2021",
-    "citations": 33,
+    "citations": 34,
     "authors": "N/A"
   },
   {
     "title": "Experimental evaluation of power consumption in virtualized base stations",
     "year": "2021",
-    "citations": 33,
+    "citations": 34,
     "authors": "N/A"
   },
   {
     "title": "EdgeBOL: Automating energy-savings for mobile edge AI",
     "year": "2021",
-    "citations": 27,
+    "citations": 28,
     "authors": "N/A"
   },
   {
@@ -608,7 +608,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 89,
+    "citations": 91,
     "authors": "N/A"
   },
   {
@@ -638,7 +638,7 @@
   {
     "title": "5Growth: AI-driven 5G for Automation in Vertical Industries",
     "year": "2020",
-    "citations": 49,
+    "citations": 50,
     "authors": "N/A"
   },
   {
@@ -728,7 +728,7 @@
   {
     "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
     "year": "2019",
-    "citations": 91,
+    "citations": 92,
     "authors": "N/A"
   },
   {
@@ -752,7 +752,7 @@
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 140,
+    "citations": 141,
     "authors": "N/A"
   },
   {
@@ -764,13 +764,13 @@
   {
     "title": "Joint optimization of edge computing architectures and radio access networks",
     "year": "2018",
-    "citations": 108,
+    "citations": 109,
     "authors": "N/A"
   },
   {
     "title": "WizHaul: On the centralization degree of cloud RAN next generation fronthaul",
     "year": "2018",
-    "citations": 98,
+    "citations": 99,
     "authors": "N/A"
   },
   {
@@ -780,13 +780,13 @@
     "authors": "N/A"
   },
   {
-    "title": "ORLA/OLAA: Orthogonal coexistence of LAA and WiFi in unlicensed spectrum",
+    "title": "LaSR: A supple multi-connectivity scheduler for multi-RAT OFDMA systems",
     "year": "2018",
-    "citations": 28,
+    "citations": 29,
     "authors": "N/A"
   },
   {
-    "title": "LaSR: A supple multi-connectivity scheduler for multi-RAT OFDMA systems",
+    "title": "ORLA/OLAA: Orthogonal coexistence of LAA and WiFi in unlicensed spectrum",
     "year": "2018",
     "citations": 28,
     "authors": "N/A"
@@ -878,7 +878,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 490,
+    "citations": 491,
     "authors": "N/A"
   },
   {
@@ -950,7 +950,7 @@
   {
     "title": "Per-frame Energy Consumption in 802.11 Devices and its Implication on Modeling and Design",
     "year": "2014",
-    "citations": 119,
+    "citations": 120,
     "authors": "N/A"
   },
   {
@@ -974,7 +974,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 781,
+    "citations": 782,
     "authors": "N/A"
   },
   {
