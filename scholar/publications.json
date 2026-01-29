@@ -50,7 +50,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -176,7 +176,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 32,
+    "citations": 33,
     "authors": "N/A"
   },
   {
@@ -206,7 +206,7 @@
   {
     "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 10,
+    "citations": 12,
     "authors": "N/A"
   },
   {
@@ -246,13 +246,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
+    "title": "Indoor Millimeter Wave Localization Using Multiple Self-Supervised Tiny Neural Networks",
     "year": "2024",
-    "citations": 5,
+    "citations": 6,
     "authors": "N/A"
   },
   {
-    "title": "Indoor Millimeter Wave Localization Using Multiple Self-Supervised Tiny Neural Networks",
+    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
     "year": "2024",
     "citations": 5,
     "authors": "N/A"
@@ -314,19 +314,19 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 37,
+    "citations": 39,
     "authors": "N/A"
   },
   {
     "title": "The 6G Architecture Landscape: European Perspective",
     "year": "2023",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
     "title": "O-ran: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 27,
+    "citations": 28,
     "authors": "N/A"
   },
   {
@@ -342,13 +342,13 @@
     "authors": "N/A"
   },
   {
-    "title": "System and method for network automation in slice-based network using reinforcement learning",
+    "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
     "year": "2023",
-    "citations": 17,
+    "citations": 18,
     "authors": "N/A"
   },
   {
-    "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
+    "title": "System and method for network automation in slice-based network using reinforcement learning",
     "year": "2023",
     "citations": 17,
     "authors": "N/A"
@@ -422,7 +422,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 72,
+    "citations": 73,
     "authors": "N/A"
   },
   {
@@ -440,7 +440,7 @@
   {
     "title": "Network intelligence for virtualized ran orchestration: The daemon approach",
     "year": "2022",
-    "citations": 24,
+    "citations": 25,
     "authors": "N/A"
   },
   {
@@ -482,7 +482,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 263,
+    "citations": 265,
     "authors": "N/A"
   },
   {
@@ -494,7 +494,7 @@
   {
     "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
-    "citations": 57,
+    "citations": 58,
     "authors": "N/A"
   },
   {
@@ -722,19 +722,19 @@
   {
     "title": "vrAIn: A deep learning approach tailoring computing and radio resources in virtualized RANs",
     "year": "2019",
-    "citations": 103,
+    "citations": 104,
     "authors": "N/A"
   },
   {
     "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
     "year": "2019",
-    "citations": 92,
+    "citations": 93,
     "authors": "N/A"
   },
   {
     "title": "Integrating fronthaul and backhaul networks: Transport challenges and feasibility results",
     "year": "2019",
-    "citations": 26,
+    "citations": 27,
     "authors": "N/A"
   },
   {
@@ -758,7 +758,7 @@
   {
     "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 140,
+    "citations": 141,
     "authors": "N/A"
   },
   {
@@ -770,7 +770,7 @@
   {
     "title": "WizHaul: On the centralization degree of cloud RAN next generation fronthaul",
     "year": "2018",
-    "citations": 99,
+    "citations": 100,
     "authors": "N/A"
   },
   {
@@ -848,7 +848,7 @@
   {
     "title": "Low delay random linear coding and scheduling over multiple interfaces",
     "year": "2017",
-    "citations": 70,
+    "citations": 71,
     "authors": "N/A"
   },
   {
@@ -962,7 +962,7 @@
   {
     "title": "Energy-efficient Optimization for Distributed Opportunistic Scheduling",
     "year": "2014",
-    "citations": 13,
+    "citations": 14,
     "authors": "N/A"
   },
   {
