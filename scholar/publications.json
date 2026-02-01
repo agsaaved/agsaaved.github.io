@@ -90,6 +90,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Fully-passive and fast-programmable smart surface",
+    "year": "2025",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
     "title": "In-band wireless control of reconfigurable intelligent surfaces",
     "year": "2025",
     "citations": 0,
@@ -151,12 +157,6 @@
   },
   {
     "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
-    "year": "2025",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
-    "title": "Fully-passive and fast-programmable smart surface",
     "year": "2025",
     "citations": 0,
     "authors": "N/A"
@@ -314,7 +314,7 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 39,
+    "citations": 41,
     "authors": "N/A"
   },
   {
@@ -326,7 +326,7 @@
   {
     "title": "O-ran: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 28,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -428,7 +428,7 @@
   {
     "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
     "year": "2022",
-    "citations": 28,
+    "citations": 29,
     "authors": "N/A"
   },
   {
@@ -446,7 +446,7 @@
   {
     "title": "Anomaly detection and troubleshooting system for a network using machine learning and/or artificial intelligence",
     "year": "2022",
-    "citations": 20,
+    "citations": 21,
     "authors": "N/A"
   },
   {
@@ -482,7 +482,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 265,
+    "citations": 266,
     "authors": "N/A"
   },
   {
@@ -734,7 +734,7 @@
   {
     "title": "Integrating fronthaul and backhaul networks: Transport challenges and feasibility results",
     "year": "2019",
-    "citations": 27,
+    "citations": 28,
     "authors": "N/A"
   },
   {
@@ -854,7 +854,7 @@
   {
     "title": "Cellular access multi-tenancy through small cell virtualization and common RF front-end sharing",
     "year": "2017",
-    "citations": 33,
+    "citations": 34,
     "authors": "N/A"
   },
   {
@@ -878,7 +878,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 491,
+    "citations": 492,
     "authors": "N/A"
   },
   {
@@ -962,7 +962,7 @@
   {
     "title": "Energy-efficient Optimization for Distributed Opportunistic Scheduling",
     "year": "2014",
-    "citations": 14,
+    "citations": 13,
     "authors": "N/A"
   },
   {
@@ -974,7 +974,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 782,
+    "citations": 783,
     "authors": "N/A"
   },
   {
