@@ -56,7 +56,7 @@
   {
     "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
-    "citations": 9,
+    "citations": 10,
     "authors": "N/A"
   },
   {
@@ -182,7 +182,7 @@
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 25,
+    "citations": 26,
     "authors": "N/A"
   },
   {
@@ -258,15 +258,15 @@
     "authors": "N/A"
   },
   {
-    "title": "MemorAI: Energy-efficient last-level cache memory optimization for virtualized RANs",
+    "title": "Network intelligence in action: the daemon perspective",
     "year": "2024",
     "citations": 3,
     "authors": "N/A"
   },
   {
-    "title": "Network intelligence in action: the daemon perspective",
+    "title": "MemorAI: Energy-efficient last-level cache memory optimization for virtualized RANs",
     "year": "2024",
-    "citations": 2,
+    "citations": 3,
     "authors": "N/A"
   },
   {
@@ -458,7 +458,7 @@
   {
     "title": "Reconfigurable intelligent surface-based systems and methods for managing multiple wired connections in wireless data centers",
     "year": "2022",
-    "citations": 7,
+    "citations": 8,
     "authors": "N/A"
   },
   {
@@ -482,7 +482,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 266,
+    "citations": 267,
     "authors": "N/A"
   },
   {
@@ -500,7 +500,7 @@
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 57,
+    "citations": 58,
     "authors": "N/A"
   },
   {
@@ -668,7 +668,7 @@
   {
     "title": "Arena: A data-driven radio access networks analysis of football events",
     "year": "2020",
-    "citations": 5,
+    "citations": 6,
     "authors": "N/A"
   },
   {
@@ -974,7 +974,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 783,
+    "citations": 784,
     "authors": "N/A"
   },
   {
