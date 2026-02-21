@@ -56,13 +56,13 @@
   {
     "title": "Kairos: Energy-efficient radio unit control for o-ran via advanced sleep modes",
     "year": "2025",
-    "citations": 11,
+    "citations": 12,
     "authors": "N/A"
   },
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 7,
+    "citations": 8,
     "authors": "N/A"
   },
   {
@@ -194,7 +194,7 @@
   {
     "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 15,
+    "citations": 16,
     "authors": "N/A"
   },
   {
@@ -210,27 +210,27 @@
     "authors": "N/A"
   },
   {
+    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
+    "year": "2024",
+    "citations": 10,
+    "authors": "N/A"
+  },
+  {
+    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
+    "year": "2024",
+    "citations": 10,
+    "authors": "N/A"
+  },
+  {
     "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
     "citations": 10,
     "authors": "N/A"
   },
   {
-    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
-    "year": "2024",
-    "citations": 9,
-    "authors": "N/A"
-  },
-  {
-    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
-    "year": "2024",
-    "citations": 9,
-    "authors": "N/A"
-  },
-  {
     "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
     "year": "2024",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -240,15 +240,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Risk-aware continuous control with neural contextual bandits",
+    "title": "Designing the network intelligence stratum for 6g networks",
     "year": "2024",
     "citations": 6,
     "authors": "N/A"
   },
   {
-    "title": "Designing the network intelligence stratum for 6g networks",
+    "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
-    "citations": 5,
+    "citations": 6,
     "authors": "N/A"
   },
   {
@@ -320,7 +320,7 @@
   {
     "title": "The 6G Architecture Landscape: European Perspective",
     "year": "2023",
-    "citations": 32,
+    "citations": 33,
     "authors": "N/A"
   },
   {
@@ -332,7 +332,7 @@
   {
     "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
     "year": "2023",
-    "citations": 24,
+    "citations": 25,
     "authors": "N/A"
   },
   {
@@ -752,7 +752,7 @@
   {
     "title": "Joint optimization of edge computing architectures and radio access networks",
     "year": "2018",
-    "citations": 109,
+    "citations": 110,
     "authors": "N/A"
   },
   {
@@ -866,7 +866,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 496,
+    "citations": 497,
     "authors": "N/A"
   },
   {
