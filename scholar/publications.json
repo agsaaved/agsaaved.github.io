@@ -50,19 +50,25 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
     "title": "Kairos: Energy-efficient radio unit control for o-ran via advanced sleep modes",
     "year": "2025",
-    "citations": 12,
+    "citations": 13,
     "authors": "N/A"
   },
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 8,
+    "citations": 9,
+    "authors": "N/A"
+  },
+  {
+    "title": "Fully-passive and fast-programmable smart surface",
+    "year": "2025",
+    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -79,12 +85,6 @@
   },
   {
     "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
-    "year": "2025",
-    "citations": 1,
-    "authors": "N/A"
-  },
-  {
-    "title": "Fully-passive and fast-programmable smart surface",
     "year": "2025",
     "citations": 1,
     "authors": "N/A"
@@ -194,19 +194,19 @@
   {
     "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 16,
+    "citations": 17,
     "authors": "N/A"
   },
   {
     "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
     "year": "2024",
-    "citations": 13,
+    "citations": 14,
     "authors": "N/A"
   },
   {
     "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 12,
+    "citations": 13,
     "authors": "N/A"
   },
   {
@@ -246,15 +246,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Risk-aware continuous control with neural contextual bandits",
+    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
     "year": "2024",
     "citations": 6,
     "authors": "N/A"
   },
   {
-    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
+    "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
-    "citations": 5,
+    "citations": 6,
     "authors": "N/A"
   },
   {
@@ -326,7 +326,7 @@
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
@@ -374,7 +374,7 @@
   {
     "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
     "year": "2023",
-    "citations": 7,
+    "citations": 8,
     "authors": "N/A"
   },
   {
@@ -440,7 +440,7 @@
   {
     "title": "Anomaly detection and troubleshooting system for a network using machine learning and/or artificial intelligence",
     "year": "2022",
-    "citations": 21,
+    "citations": 22,
     "authors": "N/A"
   },
   {
@@ -470,7 +470,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 267,
+    "citations": 268,
     "authors": "N/A"
   },
   {
@@ -602,7 +602,7 @@
   {
     "title": "vrAIn: Deep learning based orchestration for computing and radio resources in vRANs",
     "year": "2020",
-    "citations": 64,
+    "citations": 65,
     "authors": "N/A"
   },
   {
@@ -620,7 +620,7 @@
   {
     "title": "An optimal deployment framework for multi-cloud virtualized radio access networks",
     "year": "2020",
-    "citations": 50,
+    "citations": 51,
     "authors": "N/A"
   },
   {
@@ -788,7 +788,7 @@
   {
     "title": "On the energy efficiency of rate and transmission power control in 802.11",
     "year": "2018",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -866,7 +866,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 497,
+    "citations": 498,
     "authors": "N/A"
   },
   {
