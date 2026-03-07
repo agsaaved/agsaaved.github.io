@@ -176,7 +176,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 36,
+    "citations": 37,
     "authors": "N/A"
   },
   {
@@ -210,13 +210,13 @@
     "authors": "N/A"
   },
   {
-    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
+    "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
     "year": "2024",
-    "citations": 10,
+    "citations": 12,
     "authors": "N/A"
   },
   {
-    "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
+    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
     "year": "2024",
     "citations": 10,
     "authors": "N/A"
@@ -332,7 +332,7 @@
   {
     "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
     "year": "2023",
-    "citations": 25,
+    "citations": 26,
     "authors": "N/A"
   },
   {
@@ -470,7 +470,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 269,
+    "citations": 270,
     "authors": "N/A"
   },
   {
@@ -482,7 +482,7 @@
   {
     "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
-    "citations": 60,
+    "citations": 61,
     "authors": "N/A"
   },
   {
@@ -866,7 +866,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 498,
+    "citations": 499,
     "authors": "N/A"
   },
   {
