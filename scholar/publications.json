@@ -50,7 +50,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
@@ -68,7 +68,7 @@
   {
     "title": "Fully-passive and fast-programmable smart surface",
     "year": "2025",
-    "citations": 2,
+    "citations": 3,
     "authors": "N/A"
   },
   {
@@ -85,6 +85,12 @@
   },
   {
     "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "year": "2025",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "AegisRAN: A Fair and Energy-Efficient Computing Resource Allocation Framework for vRANs",
     "year": "2025",
     "citations": 1,
     "authors": "N/A"
@@ -150,12 +156,6 @@
     "authors": "N/A"
   },
   {
-    "title": "AegisRAN: A Fair and Energy-Efficient Computing Resource Allocation Framework for vRANs",
-    "year": "2025",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
     "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
     "year": "2025",
     "citations": 0,
@@ -182,7 +182,7 @@
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 28,
+    "citations": 29,
     "authors": "N/A"
   },
   {
@@ -314,7 +314,7 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 40,
+    "citations": 41,
     "authors": "N/A"
   },
   {
@@ -336,13 +336,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Virtual radio access network control",
+    "title": "EdgeBOL: A Bayesian learning approach for the joint orchestration of vRANs and mobile edge AI",
     "year": "2023",
-    "citations": 20,
+    "citations": 21,
     "authors": "N/A"
   },
   {
-    "title": "EdgeBOL: A Bayesian learning approach for the joint orchestration of vRANs and mobile edge AI",
+    "title": "Virtual radio access network control",
     "year": "2023",
     "citations": 20,
     "authors": "N/A"
@@ -422,7 +422,7 @@
   {
     "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
     "year": "2022",
-    "citations": 28,
+    "citations": 29,
     "authors": "N/A"
   },
   {
@@ -434,7 +434,7 @@
   {
     "title": "Network intelligence for virtualized ran orchestration: The daemon approach",
     "year": "2022",
-    "citations": 23,
+    "citations": 24,
     "authors": "N/A"
   },
   {
@@ -452,7 +452,7 @@
   {
     "title": "Reconfigurable intelligent surface-based systems and methods for managing multiple wired connections in wireless data centers",
     "year": "2022",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -470,7 +470,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 270,
+    "citations": 271,
     "authors": "N/A"
   },
   {
@@ -488,7 +488,7 @@
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 56,
+    "citations": 57,
     "authors": "N/A"
   },
   {
@@ -638,7 +638,7 @@
   {
     "title": "On the optimization of multi-cloud virtualized radio access networks",
     "year": "2020",
-    "citations": 19,
+    "citations": 20,
     "authors": "N/A"
   },
   {
@@ -716,7 +716,7 @@
   {
     "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
     "year": "2019",
-    "citations": 96,
+    "citations": 97,
     "authors": "N/A"
   },
   {
@@ -938,7 +938,7 @@
   {
     "title": "Per-frame Energy Consumption in 802.11 Devices and its Implication on Modeling and Design",
     "year": "2014",
-    "citations": 118,
+    "citations": 119,
     "authors": "N/A"
   },
   {
