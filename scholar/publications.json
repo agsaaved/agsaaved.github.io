@@ -206,7 +206,7 @@
   {
     "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 13,
+    "citations": 14,
     "authors": "N/A"
   },
   {
@@ -596,7 +596,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 89,
+    "citations": 90,
     "authors": "N/A"
   },
   {
@@ -768,13 +768,13 @@
     "authors": "N/A"
   },
   {
-    "title": "ORLA/OLAA: Orthogonal coexistence of LAA and WiFi in unlicensed spectrum",
+    "title": "LaSR: A supple multi-connectivity scheduler for multi-RAT OFDMA systems",
     "year": "2018",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
-    "title": "LaSR: A supple multi-connectivity scheduler for multi-RAT OFDMA systems",
+    "title": "ORLA/OLAA: Orthogonal coexistence of LAA and WiFi in unlicensed spectrum",
     "year": "2018",
     "citations": 29,
     "authors": "N/A"
