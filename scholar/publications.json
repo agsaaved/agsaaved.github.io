@@ -176,7 +176,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 38,
+    "citations": 39,
     "authors": "N/A"
   },
   {
@@ -212,17 +212,17 @@
   {
     "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
     "year": "2024",
-    "citations": 12,
-    "authors": "N/A"
-  },
-  {
-    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
-    "year": "2024",
-    "citations": 10,
+    "citations": 13,
     "authors": "N/A"
   },
   {
     "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
+    "year": "2024",
+    "citations": 11,
+    "authors": "N/A"
+  },
+  {
+    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
     "year": "2024",
     "citations": 10,
     "authors": "N/A"
