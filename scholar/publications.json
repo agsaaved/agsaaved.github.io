@@ -314,19 +314,19 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 41,
+    "citations": 42,
     "authors": "N/A"
   },
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 33,
+    "citations": 35,
     "authors": "N/A"
   },
   {
     "title": "The 6G Architecture Landscape: European Perspective",
     "year": "2023",
-    "citations": 33,
+    "citations": 34,
     "authors": "N/A"
   },
   {
@@ -422,7 +422,7 @@
   {
     "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
     "year": "2022",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -470,7 +470,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 272,
+    "citations": 273,
     "authors": "N/A"
   },
   {
@@ -596,7 +596,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 90,
+    "citations": 93,
     "authors": "N/A"
   },
   {
@@ -620,7 +620,7 @@
   {
     "title": "An optimal deployment framework for multi-cloud virtualized radio access networks",
     "year": "2020",
-    "citations": 51,
+    "citations": 52,
     "authors": "N/A"
   },
   {
@@ -738,13 +738,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Overbooking network slices through yield-driven end-to-end orchestration",
+    "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 140,
+    "citations": 141,
     "authors": "N/A"
   },
   {
-    "title": "Fluidran: Optimized vran/mec orchestration",
+    "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
     "citations": 140,
     "authors": "N/A"
@@ -866,7 +866,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 499,
+    "citations": 500,
     "authors": "N/A"
   },
   {
@@ -962,7 +962,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 766,
+    "citations": 767,
     "authors": "N/A"
   },
   {
