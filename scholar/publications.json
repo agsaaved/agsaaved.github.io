@@ -50,7 +50,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 31,
+    "citations": 32,
     "authors": "N/A"
   },
   {
@@ -68,7 +68,7 @@
   {
     "title": "Fully-passive and fast-programmable smart surface",
     "year": "2025",
-    "citations": 3,
+    "citations": 5,
     "authors": "N/A"
   },
   {
@@ -176,7 +176,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 39,
+    "citations": 40,
     "authors": "N/A"
   },
   {
@@ -198,13 +198,13 @@
     "authors": "N/A"
   },
   {
-    "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
+    "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 14,
+    "citations": 15,
     "authors": "N/A"
   },
   {
-    "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
+    "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
     "year": "2024",
     "citations": 14,
     "authors": "N/A"
@@ -332,7 +332,7 @@
   {
     "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
     "year": "2023",
-    "citations": 26,
+    "citations": 27,
     "authors": "N/A"
   },
   {
@@ -380,7 +380,7 @@
   {
     "title": "The 6g architecture landscape: European perspective",
     "year": "2023",
-    "citations": 7,
+    "citations": 8,
     "authors": "N/A"
   },
   {
@@ -470,7 +470,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 273,
+    "citations": 274,
     "authors": "N/A"
   },
   {
@@ -656,7 +656,7 @@
   {
     "title": "Arena: A data-driven radio access networks analysis of football events",
     "year": "2020",
-    "citations": 7,
+    "citations": 8,
     "authors": "N/A"
   },
   {
@@ -758,7 +758,7 @@
   {
     "title": "WizHaul: On the centralization degree of cloud RAN next generation fronthaul",
     "year": "2018",
-    "citations": 101,
+    "citations": 102,
     "authors": "N/A"
   },
   {
