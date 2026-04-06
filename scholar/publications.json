@@ -62,7 +62,7 @@
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 10,
+    "citations": 11,
     "authors": "N/A"
   },
   {
@@ -198,15 +198,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
+    "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
     "year": "2024",
     "citations": 15,
     "authors": "N/A"
   },
   {
-    "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
+    "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 14,
+    "citations": 15,
     "authors": "N/A"
   },
   {
@@ -314,13 +314,13 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 42,
+    "citations": 43,
     "authors": "N/A"
   },
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 35,
+    "citations": 37,
     "authors": "N/A"
   },
   {
@@ -470,7 +470,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 274,
+    "citations": 275,
     "authors": "N/A"
   },
   {
@@ -488,13 +488,19 @@
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 58,
+    "citations": 59,
     "authors": "N/A"
   },
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 50,
+    "citations": 51,
+    "authors": "N/A"
+  },
+  {
+    "title": "Experimental evaluation of power consumption in virtualized base stations",
+    "year": "2021",
+    "citations": 35,
     "authors": "N/A"
   },
   {
@@ -504,27 +510,21 @@
     "authors": "N/A"
   },
   {
-    "title": "Experimental evaluation of power consumption in virtualized base stations",
-    "year": "2021",
-    "citations": 33,
-    "authors": "N/A"
-  },
-  {
     "title": "EdgeBOL: Automating energy-savings for mobile edge AI",
     "year": "2021",
     "citations": 29,
     "authors": "N/A"
   },
   {
-    "title": "5 Growth: Secure and reliable network slicing for verticals",
+    "title": "Orchestrating energy-efficient vRANs: Bayesian learning and experimental results",
     "year": "2021",
     "citations": 24,
     "authors": "N/A"
   },
   {
-    "title": "Orchestrating energy-efficient vRANs: Bayesian learning and experimental results",
+    "title": "5 Growth: Secure and reliable network slicing for verticals",
     "year": "2021",
-    "citations": 23,
+    "citations": 24,
     "authors": "N/A"
   },
   {
@@ -596,7 +596,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 93,
+    "citations": 94,
     "authors": "N/A"
   },
   {
@@ -962,7 +962,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 767,
+    "citations": 768,
     "authors": "N/A"
   },
   {
