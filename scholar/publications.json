@@ -30,13 +30,19 @@
     "authors": "N/A"
   },
   {
-    "title": "Virtualized radio access point, VRAP, and method of operating the same",
+    "title": "SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks",
+    "year": "2026",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "Exploring the Viability of Automated Heuristic Design for 5G LDPC Decoding",
     "year": "2026",
     "citations": 0,
     "authors": "N/A"
   },
   {
-    "title": "SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks",
+    "title": "Virtualized radio access point, VRAP, and method of operating the same",
     "year": "2026",
     "citations": 0,
     "authors": "N/A"
@@ -206,7 +212,7 @@
   {
     "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 15,
+    "citations": 16,
     "authors": "N/A"
   },
   {
@@ -428,7 +434,7 @@
   {
     "title": "Radiorchestra: Proactive management of millimeter-wave self-backhauled small cells via joint optimization of beamforming, user association, rate selection, and admission control",
     "year": "2022",
-    "citations": 26,
+    "citations": 27,
     "authors": "N/A"
   },
   {
@@ -512,7 +518,7 @@
   {
     "title": "EdgeBOL: Automating energy-savings for mobile edge AI",
     "year": "2021",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -830,7 +836,7 @@
   {
     "title": "5G-crosshaul network slicing: Enabling multi-tenancy in mobile transport networks",
     "year": "2017",
-    "citations": 98,
+    "citations": 99,
     "authors": "N/A"
   },
   {
@@ -866,7 +872,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 500,
+    "citations": 501,
     "authors": "N/A"
   },
   {
@@ -962,7 +968,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 769,
+    "citations": 770,
     "authors": "N/A"
   },
   {
