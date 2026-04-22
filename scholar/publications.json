@@ -68,7 +68,7 @@
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 11,
+    "citations": 12,
     "authors": "N/A"
   },
   {
@@ -222,15 +222,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
+    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
     "year": "2024",
     "citations": 11,
     "authors": "N/A"
   },
   {
-    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
+    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
     "year": "2024",
-    "citations": 10,
+    "citations": 11,
     "authors": "N/A"
   },
   {
@@ -320,19 +320,19 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 43,
+    "citations": 44,
     "authors": "N/A"
   },
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 38,
+    "citations": 39,
     "authors": "N/A"
   },
   {
     "title": "The 6G Architecture Landscape: European Perspective",
     "year": "2023",
-    "citations": 34,
+    "citations": 35,
     "authors": "N/A"
   },
   {
@@ -344,7 +344,7 @@
   {
     "title": "EdgeBOL: A Bayesian learning approach for the joint orchestration of vRANs and mobile edge AI",
     "year": "2023",
-    "citations": 22,
+    "citations": 23,
     "authors": "N/A"
   },
   {
@@ -428,13 +428,13 @@
   {
     "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
     "year": "2022",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
     "title": "Radiorchestra: Proactive management of millimeter-wave self-backhauled small cells via joint optimization of beamforming, user association, rate selection, and admission control",
     "year": "2022",
-    "citations": 27,
+    "citations": 28,
     "authors": "N/A"
   },
   {
@@ -476,7 +476,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 275,
+    "citations": 279,
     "authors": "N/A"
   },
   {
@@ -500,7 +500,7 @@
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 51,
+    "citations": 52,
     "authors": "N/A"
   },
   {
@@ -602,25 +602,25 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 93,
+    "citations": 94,
     "authors": "N/A"
   },
   {
     "title": "vrAIn: Deep learning based orchestration for computing and radio resources in vRANs",
     "year": "2020",
-    "citations": 65,
+    "citations": 66,
     "authors": "N/A"
   },
   {
     "title": "LACO: A latency-driven network slicing orchestration in beyond-5G networks",
     "year": "2020",
-    "citations": 64,
+    "citations": 65,
     "authors": "N/A"
   },
   {
     "title": "On the Integration of AI/ML-based scaling operations in the 5Growth platform",
     "year": "2020",
-    "citations": 58,
+    "citations": 59,
     "authors": "N/A"
   },
   {
@@ -722,13 +722,13 @@
   {
     "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
     "year": "2019",
-    "citations": 97,
+    "citations": 98,
     "authors": "N/A"
   },
   {
     "title": "Integrating fronthaul and backhaul networks: Transport challenges and feasibility results",
     "year": "2019",
-    "citations": 28,
+    "citations": 29,
     "authors": "N/A"
   },
   {
@@ -746,7 +746,7 @@
   {
     "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 142,
+    "citations": 143,
     "authors": "N/A"
   },
   {
@@ -764,7 +764,7 @@
   {
     "title": "WizHaul: On the centralization degree of cloud RAN next generation fronthaul",
     "year": "2018",
-    "citations": 102,
+    "citations": 103,
     "authors": "N/A"
   },
   {
@@ -824,19 +824,19 @@
   {
     "title": "5G-crosshaul: An SDN/NFV integrated fronthaul/backhaul transport network architecture",
     "year": "2017",
-    "citations": 137,
+    "citations": 138,
     "authors": "N/A"
   },
   {
     "title": "Fair coexistence of scheduled and random access wireless networks: Unlicensed LTE/WiFi",
     "year": "2017",
-    "citations": 103,
+    "citations": 104,
     "authors": "N/A"
   },
   {
     "title": "5G-crosshaul network slicing: Enabling multi-tenancy in mobile transport networks",
     "year": "2017",
-    "citations": 99,
+    "citations": 100,
     "authors": "N/A"
   },
   {
@@ -872,7 +872,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 501,
+    "citations": 502,
     "authors": "N/A"
   },
   {
