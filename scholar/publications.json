@@ -48,6 +48,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach",
+    "year": "2026",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "The \u201cO\u201d on Radio Access Networks",
     "year": "2026",
     "citations": 0,
@@ -56,7 +62,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 32,
+    "citations": 33,
     "authors": "N/A"
   },
   {
@@ -74,7 +80,7 @@
   {
     "title": "Fully-passive and fast-programmable smart surface",
     "year": "2025",
-    "citations": 7,
+    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -91,6 +97,12 @@
   },
   {
     "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "year": "2025",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "6G Standardization Potential of the ORIGAMI Novel Architectures and Use Cases",
     "year": "2025",
     "citations": 1,
     "authors": "N/A"
@@ -121,12 +133,6 @@
   },
   {
     "title": "Method and system for intelligent data collection and management for open ran intelligent controllers",
-    "year": "2025",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
-    "title": "6G Standardization Potential of the ORIGAMI Novel Architectures and Use Cases",
     "year": "2025",
     "citations": 0,
     "authors": "N/A"
@@ -240,13 +246,19 @@
     "authors": "N/A"
   },
   {
+    "title": "Designing the network intelligence stratum for 6g networks",
+    "year": "2024",
+    "citations": 8,
+    "authors": "N/A"
+  },
+  {
     "title": "Indoor millimeter wave localization using multiple self-supervised tiny neural networks",
     "year": "2024",
     "citations": 8,
     "authors": "N/A"
   },
   {
-    "title": "Designing the network intelligence stratum for 6g networks",
+    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
     "year": "2024",
     "citations": 7,
     "authors": "N/A"
@@ -255,12 +267,6 @@
     "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
     "citations": 7,
-    "authors": "N/A"
-  },
-  {
-    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
-    "year": "2024",
-    "citations": 6,
     "authors": "N/A"
   },
   {
@@ -422,7 +428,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 78,
+    "citations": 80,
     "authors": "N/A"
   },
   {
@@ -446,7 +452,7 @@
   {
     "title": "Anomaly detection and troubleshooting system for a network using machine learning and/or artificial intelligence",
     "year": "2022",
-    "citations": 22,
+    "citations": 21,
     "authors": "N/A"
   },
   {
@@ -458,7 +464,7 @@
   {
     "title": "Reconfigurable intelligent surface-based systems and methods for managing multiple wired connections in wireless data centers",
     "year": "2022",
-    "citations": 10,
+    "citations": 8,
     "authors": "N/A"
   },
   {
@@ -476,7 +482,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 279,
+    "citations": 280,
     "authors": "N/A"
   },
   {
@@ -596,13 +602,13 @@
   {
     "title": "RISMA: Reconfigurable intelligent surfaces enabling beamforming for IoT massive access",
     "year": "2020",
-    "citations": 104,
+    "citations": 105,
     "authors": "N/A"
   },
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 94,
+    "citations": 96,
     "authors": "N/A"
   },
   {
@@ -650,7 +656,7 @@
   {
     "title": "Method for in-network, dynamic radio access network functional split configuration by radio access network data plane forwarding nodes",
     "year": "2020",
-    "citations": 18,
+    "citations": 17,
     "authors": "N/A"
   },
   {
@@ -674,7 +680,7 @@
   {
     "title": "Method for operating a plurality of wireless networks",
     "year": "2020",
-    "citations": 4,
+    "citations": 3,
     "authors": "N/A"
   },
   {
@@ -752,13 +758,13 @@
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 140,
+    "citations": 141,
     "authors": "N/A"
   },
   {
     "title": "Joint optimization of edge computing architectures and radio access networks",
     "year": "2018",
-    "citations": 111,
+    "citations": 112,
     "authors": "N/A"
   },
   {
@@ -836,7 +842,7 @@
   {
     "title": "5G-crosshaul network slicing: Enabling multi-tenancy in mobile transport networks",
     "year": "2017",
-    "citations": 100,
+    "citations": 101,
     "authors": "N/A"
   },
   {
@@ -872,7 +878,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 502,
+    "citations": 504,
     "authors": "N/A"
   },
   {
@@ -968,7 +974,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 770,
+    "citations": 772,
     "authors": "N/A"
   },
   {
@@ -986,7 +992,7 @@
   {
     "title": "Energy consumption anatomy of 802.11 devices and its implication on modeling and design",
     "year": "2012",
-    "citations": 132,
+    "citations": 133,
     "authors": "N/A"
   },
   {
@@ -1004,7 +1010,7 @@
   {
     "title": "Energy-efficient fair channel access for IEEE 802.11 WLANs",
     "year": "2011",
-    "citations": 35,
+    "citations": 36,
     "authors": "N/A"
   },
   {
