@@ -108,6 +108,12 @@
     "authors": "N/A"
   },
   {
+    "title": "FairRIC: Real-Time Fair Allocation in O-RAN with Shared Computing",
+    "year": "2025",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
     "title": "AegisRAN: A Fair and Energy-Efficient Computing Resource Allocation Framework for vRANs",
     "year": "2025",
     "citations": 1,
@@ -162,12 +168,6 @@
     "authors": "N/A"
   },
   {
-    "title": "FairRIC: Real-Time Fair Allocation in O-RAN with Shared Computing",
-    "year": "2025",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
     "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
     "year": "2025",
     "citations": 0,
@@ -200,7 +200,7 @@
   {
     "title": "Fair resource allocation in virtualized o-ran platforms",
     "year": "2024",
-    "citations": 21,
+    "citations": 22,
     "authors": "N/A"
   },
   {
@@ -650,7 +650,7 @@
   {
     "title": "On the optimization of multi-cloud virtualized radio access networks",
     "year": "2020",
-    "citations": 20,
+    "citations": 21,
     "authors": "N/A"
   },
   {
@@ -752,7 +752,7 @@
   {
     "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 143,
+    "citations": 144,
     "authors": "N/A"
   },
   {
