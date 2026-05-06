@@ -1,5 +1,11 @@
 [
   {
+    "title": "Mobile Transport and Computing Platform for 5G Verticals: Resource Abstraction and",
+    "year": "N/A",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "MetaBags: Bagged Meta-Decision Trees for Regression",
     "year": "N/A",
     "citations": 0,
@@ -80,7 +86,7 @@
   {
     "title": "Fully-passive and fast-programmable smart surface",
     "year": "2025",
-    "citations": 2,
+    "citations": 7,
     "authors": "N/A"
   },
   {
@@ -188,7 +194,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 40,
+    "citations": 41,
     "authors": "N/A"
   },
   {
@@ -212,7 +218,7 @@
   {
     "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
     "year": "2024",
-    "citations": 16,
+    "citations": 17,
     "authors": "N/A"
   },
   {
@@ -242,13 +248,13 @@
   {
     "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 10,
+    "citations": 11,
     "authors": "N/A"
   },
   {
     "title": "Designing the network intelligence stratum for 6g networks",
     "year": "2024",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -272,7 +278,7 @@
   {
     "title": "Network intelligence in action: the daemon perspective",
     "year": "2024",
-    "citations": 5,
+    "citations": 6,
     "authors": "N/A"
   },
   {
@@ -288,7 +294,7 @@
     "authors": "N/A"
   },
   {
-    "title": "TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs",
+    "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2024",
     "citations": 1,
     "authors": "N/A"
@@ -380,7 +386,7 @@
   {
     "title": "Orchestration procedures for the network intelligence stratum in 6g networks",
     "year": "2023",
-    "citations": 10,
+    "citations": 11,
     "authors": "N/A"
   },
   {
@@ -434,7 +440,7 @@
   {
     "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
     "year": "2022",
-    "citations": 31,
+    "citations": 32,
     "authors": "N/A"
   },
   {
@@ -446,13 +452,13 @@
   {
     "title": "Network intelligence for virtualized ran orchestration: The daemon approach",
     "year": "2022",
-    "citations": 24,
+    "citations": 25,
     "authors": "N/A"
   },
   {
     "title": "Anomaly detection and troubleshooting system for a network using machine learning and/or artificial intelligence",
     "year": "2022",
-    "citations": 21,
+    "citations": 22,
     "authors": "N/A"
   },
   {
@@ -464,7 +470,7 @@
   {
     "title": "Reconfigurable intelligent surface-based systems and methods for managing multiple wired connections in wireless data centers",
     "year": "2022",
-    "citations": 8,
+    "citations": 10,
     "authors": "N/A"
   },
   {
@@ -494,7 +500,7 @@
   {
     "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
-    "citations": 61,
+    "citations": 62,
     "authors": "N/A"
   },
   {
@@ -548,7 +554,7 @@
   {
     "title": "5Growth data-driven AI-based scaling",
     "year": "2021",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -608,7 +614,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 95,
+    "citations": 96,
     "authors": "N/A"
   },
   {
@@ -656,7 +662,7 @@
   {
     "title": "Method for in-network, dynamic radio access network functional split configuration by radio access network data plane forwarding nodes",
     "year": "2020",
-    "citations": 17,
+    "citations": 18,
     "authors": "N/A"
   },
   {
@@ -680,7 +686,7 @@
   {
     "title": "Method for operating a plurality of wireless networks",
     "year": "2020",
-    "citations": 3,
+    "citations": 4,
     "authors": "N/A"
   },
   {
