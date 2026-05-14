@@ -36,6 +36,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Reconfigurable intelligent surface, RIS, with sensing capabilities and method for operating the same",
+    "year": "2026",
+    "citations": 2,
+    "authors": "N/A"
+  },
+  {
     "title": "SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks",
     "year": "2026",
     "citations": 1,
@@ -91,12 +97,6 @@
   },
   {
     "title": "Autonomous virtual radio access network control",
-    "year": "2025",
-    "citations": 2,
-    "authors": "N/A"
-  },
-  {
-    "title": "Reconfigurable intelligent surface, ris, with sensing capabilities and method for operating the same",
     "year": "2025",
     "citations": 2,
     "authors": "N/A"
@@ -200,7 +200,7 @@
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -230,7 +230,7 @@
   {
     "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
     "year": "2024",
-    "citations": 13,
+    "citations": 14,
     "authors": "N/A"
   },
   {
@@ -332,7 +332,7 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 44,
+    "citations": 45,
     "authors": "N/A"
   },
   {
@@ -434,7 +434,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 80,
+    "citations": 81,
     "authors": "N/A"
   },
   {
@@ -500,7 +500,7 @@
   {
     "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
-    "citations": 62,
+    "citations": 61,
     "authors": "N/A"
   },
   {
@@ -842,7 +842,7 @@
   {
     "title": "Fair coexistence of scheduled and random access wireless networks: Unlicensed LTE/WiFi",
     "year": "2017",
-    "citations": 103,
+    "citations": 104,
     "authors": "N/A"
   },
   {
