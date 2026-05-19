@@ -212,7 +212,7 @@
   {
     "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
     "year": "2024",
-    "citations": 18,
+    "citations": 19,
     "authors": "N/A"
   },
   {
@@ -374,7 +374,7 @@
   {
     "title": "System and method for network automation in slice-based network using reinforcement learning",
     "year": "2023",
-    "citations": 17,
+    "citations": 18,
     "authors": "N/A"
   },
   {
@@ -458,7 +458,7 @@
   {
     "title": "Anomaly detection and troubleshooting system for a network using machine learning and/or artificial intelligence",
     "year": "2022",
-    "citations": 22,
+    "citations": 23,
     "authors": "N/A"
   },
   {
@@ -500,7 +500,7 @@
   {
     "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
-    "citations": 61,
+    "citations": 62,
     "authors": "N/A"
   },
   {
@@ -518,7 +518,7 @@
   {
     "title": "Experimental evaluation of power consumption in virtualized base stations",
     "year": "2021",
-    "citations": 35,
+    "citations": 36,
     "authors": "N/A"
   },
   {
@@ -758,13 +758,13 @@
   {
     "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 144,
+    "citations": 145,
     "authors": "N/A"
   },
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 141,
+    "citations": 142,
     "authors": "N/A"
   },
   {
@@ -842,7 +842,7 @@
   {
     "title": "Fair coexistence of scheduled and random access wireless networks: Unlicensed LTE/WiFi",
     "year": "2017",
-    "citations": 103,
+    "citations": 104,
     "authors": "N/A"
   },
   {
