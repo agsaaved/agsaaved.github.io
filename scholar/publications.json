@@ -194,7 +194,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 42,
+    "citations": 43,
     "authors": "N/A"
   },
   {
@@ -224,13 +224,13 @@
   {
     "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 16,
+    "citations": 17,
     "authors": "N/A"
   },
   {
     "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
     "year": "2024",
-    "citations": 15,
+    "citations": 16,
     "authors": "N/A"
   },
   {
@@ -264,13 +264,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
+    "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
-    "citations": 7,
+    "citations": 8,
     "authors": "N/A"
   },
   {
-    "title": "Risk-aware continuous control with neural contextual bandits",
+    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
     "year": "2024",
     "citations": 7,
     "authors": "N/A"
@@ -332,7 +332,7 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 46,
+    "citations": 47,
     "authors": "N/A"
   },
   {
@@ -488,7 +488,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 283,
+    "citations": 284,
     "authors": "N/A"
   },
   {
@@ -614,7 +614,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 95,
+    "citations": 97,
     "authors": "N/A"
   },
   {
@@ -626,7 +626,7 @@
   {
     "title": "LACO: A latency-driven network slicing orchestration in beyond-5G networks",
     "year": "2020",
-    "citations": 65,
+    "citations": 66,
     "authors": "N/A"
   },
   {
@@ -740,7 +740,7 @@
   {
     "title": "Integrating fronthaul and backhaul networks: Transport challenges and feasibility results",
     "year": "2019",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -980,7 +980,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 773,
+    "citations": 774,
     "authors": "N/A"
   },
   {
