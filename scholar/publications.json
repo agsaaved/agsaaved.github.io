@@ -294,7 +294,7 @@
     "authors": "N/A"
   },
   {
-    "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
+    "title": "TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs",
     "year": "2024",
     "citations": 1,
     "authors": "N/A"
@@ -512,7 +512,7 @@
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 53,
+    "citations": 52,
     "authors": "N/A"
   },
   {
@@ -614,7 +614,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 97,
+    "citations": 98,
     "authors": "N/A"
   },
   {
@@ -764,7 +764,7 @@
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 141,
+    "citations": 142,
     "authors": "N/A"
   },
   {
@@ -884,7 +884,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 507,
+    "citations": 506,
     "authors": "N/A"
   },
   {
