@@ -54,6 +54,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Automated Heuristic Design for Network Operations",
+    "year": "2026",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "Virtualized radio access point, VRAP, and method of operating the same",
     "year": "2026",
     "citations": 0,
@@ -194,7 +200,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 43,
+    "citations": 44,
     "authors": "N/A"
   },
   {
@@ -300,6 +306,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Designing the Network Intelligence Stratum for 6G networks",
+    "year": "2024",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "Virtualized radio access point, vrap, and method of operating the same",
     "year": "2024",
     "citations": 0,
@@ -338,7 +350,7 @@
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 40,
+    "citations": 41,
     "authors": "N/A"
   },
   {
@@ -434,7 +446,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 81,
+    "citations": 82,
     "authors": "N/A"
   },
   {
@@ -764,7 +776,7 @@
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 142,
+    "citations": 141,
     "authors": "N/A"
   },
   {
@@ -884,7 +896,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 506,
+    "citations": 507,
     "authors": "N/A"
   },
   {
@@ -980,7 +992,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 774,
+    "citations": 775,
     "authors": "N/A"
   },
   {
