@@ -86,7 +86,7 @@
   {
     "title": "Kairos: Energy-efficient radio unit control for o-ran via advanced sleep modes",
     "year": "2025",
-    "citations": 14,
+    "citations": 15,
     "authors": "N/A"
   },
   {
@@ -102,15 +102,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Autonomous virtual radio access network control",
+    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
     "year": "2025",
     "citations": 2,
     "authors": "N/A"
   },
   {
-    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "title": "Autonomous virtual radio access network control",
     "year": "2025",
-    "citations": 1,
+    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -300,7 +300,7 @@
     "authors": "N/A"
   },
   {
-    "title": "TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs",
+    "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2024",
     "citations": 1,
     "authors": "N/A"
@@ -362,7 +362,7 @@
   {
     "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
     "year": "2023",
-    "citations": 27,
+    "citations": 28,
     "authors": "N/A"
   },
   {
@@ -776,7 +776,7 @@
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 141,
+    "citations": 142,
     "authors": "N/A"
   },
   {
@@ -878,7 +878,7 @@
   {
     "title": "Novel Resource and Energy Management for 5G integrated backhaul/fronthaul (5G-Crosshaul)",
     "year": "2017",
-    "citations": 27,
+    "citations": 28,
     "authors": "N/A"
   },
   {
