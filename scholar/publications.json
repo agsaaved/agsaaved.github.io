@@ -200,7 +200,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 44,
+    "citations": 45,
     "authors": "N/A"
   },
   {
@@ -350,7 +350,7 @@
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 42,
+    "citations": 43,
     "authors": "N/A"
   },
   {
@@ -458,7 +458,7 @@
   {
     "title": "Radiorchestra: Proactive management of millimeter-wave self-backhauled small cells via joint optimization of beamforming, user association, rate selection, and admission control",
     "year": "2022",
-    "citations": 28,
+    "citations": 29,
     "authors": "N/A"
   },
   {
@@ -626,13 +626,13 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 99,
+    "citations": 98,
     "authors": "N/A"
   },
   {
     "title": "vrAIn: Deep learning based orchestration for computing and radio resources in vRANs",
     "year": "2020",
-    "citations": 68,
+    "citations": 67,
     "authors": "N/A"
   },
   {
@@ -752,7 +752,7 @@
   {
     "title": "Integrating fronthaul and backhaul networks: Transport challenges and feasibility results",
     "year": "2019",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
@@ -992,7 +992,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 773,
+    "citations": 774,
     "authors": "N/A"
   },
   {
