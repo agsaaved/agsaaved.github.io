@@ -240,6 +240,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Designing the network intelligence stratum for 6g networks",
+    "year": "2024",
+    "citations": 11,
+    "authors": "N/A"
+  },
+  {
     "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
     "year": "2024",
     "citations": 11,
@@ -258,9 +264,9 @@
     "authors": "N/A"
   },
   {
-    "title": "Designing the network intelligence stratum for 6g networks",
+    "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
-    "citations": 10,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -271,12 +277,6 @@
   },
   {
     "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
-    "year": "2024",
-    "citations": 8,
-    "authors": "N/A"
-  },
-  {
-    "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
     "citations": 8,
     "authors": "N/A"
@@ -362,7 +362,7 @@
   {
     "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
     "year": "2023",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -476,7 +476,7 @@
   {
     "title": "Daemon: A network intelligence plane for 6g networks",
     "year": "2022",
-    "citations": 18,
+    "citations": 19,
     "authors": "N/A"
   },
   {
@@ -506,7 +506,7 @@
   {
     "title": "5Growth: An end-to-end service platform for automated deployment and management of vertical services over 5G networks",
     "year": "2021",
-    "citations": 104,
+    "citations": 105,
     "authors": "N/A"
   },
   {
@@ -518,7 +518,7 @@
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 59,
+    "citations": 60,
     "authors": "N/A"
   },
   {
@@ -530,7 +530,7 @@
   {
     "title": "Experimental evaluation of power consumption in virtualized base stations",
     "year": "2021",
-    "citations": 36,
+    "citations": 37,
     "authors": "N/A"
   },
   {
@@ -626,7 +626,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 98,
+    "citations": 99,
     "authors": "N/A"
   },
   {
@@ -656,13 +656,13 @@
   {
     "title": "5Growth: AI-driven 5G for Automation in Vertical Industries",
     "year": "2020",
-    "citations": 51,
+    "citations": 52,
     "authors": "N/A"
   },
   {
     "title": "The case for serverless mobile networking",
     "year": "2020",
-    "citations": 26,
+    "citations": 27,
     "authors": "N/A"
   },
   {
@@ -788,7 +788,7 @@
   {
     "title": "WizHaul: On the centralization degree of cloud RAN next generation fronthaul",
     "year": "2018",
-    "citations": 104,
+    "citations": 103,
     "authors": "N/A"
   },
   {
@@ -848,7 +848,7 @@
   {
     "title": "5G-crosshaul: An SDN/NFV integrated fronthaul/backhaul transport network architecture",
     "year": "2017",
-    "citations": 139,
+    "citations": 140,
     "authors": "N/A"
   },
   {
@@ -860,7 +860,7 @@
   {
     "title": "5G-crosshaul network slicing: Enabling multi-tenancy in mobile transport networks",
     "year": "2017",
-    "citations": 102,
+    "citations": 103,
     "authors": "N/A"
   },
   {
