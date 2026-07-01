@@ -80,7 +80,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 37,
+    "citations": 39,
     "authors": "N/A"
   },
   {
@@ -240,6 +240,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
+    "year": "2024",
+    "citations": 12,
+    "authors": "N/A"
+  },
+  {
     "title": "Designing the network intelligence stratum for 6g networks",
     "year": "2024",
     "citations": 11,
@@ -253,12 +259,6 @@
   },
   {
     "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vrans",
-    "year": "2024",
-    "citations": 11,
-    "authors": "N/A"
-  },
-  {
-    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
     "citations": 11,
     "authors": "N/A"
@@ -402,13 +402,13 @@
     "authors": "N/A"
   },
   {
-    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
+    "title": "The 6g architecture landscape: European perspective",
     "year": "2023",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
-    "title": "The 6g architecture landscape: European perspective",
+    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
     "year": "2023",
     "citations": 8,
     "authors": "N/A"
@@ -446,19 +446,19 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 83,
+    "citations": 84,
     "authors": "N/A"
   },
   {
     "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
     "year": "2022",
-    "citations": 33,
+    "citations": 34,
     "authors": "N/A"
   },
   {
     "title": "Radiorchestra: Proactive management of millimeter-wave self-backhauled small cells via joint optimization of beamforming, user association, rate selection, and admission control",
     "year": "2022",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -536,7 +536,7 @@
   {
     "title": "Public and non-public network integration for 5Growth industry 4.0 use cases",
     "year": "2021",
-    "citations": 34,
+    "citations": 33,
     "authors": "N/A"
   },
   {
@@ -770,7 +770,7 @@
   {
     "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 146,
+    "citations": 147,
     "authors": "N/A"
   },
   {
@@ -992,7 +992,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 774,
+    "citations": 773,
     "authors": "N/A"
   },
   {
