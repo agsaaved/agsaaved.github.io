@@ -54,6 +54,24 @@
     "authors": "N/A"
   },
   {
+    "title": "Meta-Learning-Based Service-Aware User Associations: An ORIGAMI Approach",
+    "year": "2026",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "An ORIGAMI Use-Case Validation via 6G-SANDBOX Experimentation",
+    "year": "2026",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach",
+    "year": "2026",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "Automated Heuristic Design for Network Operations",
     "year": "2026",
     "citations": 0,
@@ -61,12 +79,6 @@
   },
   {
     "title": "Virtualized radio access point, VRAP, and method of operating the same",
-    "year": "2026",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
-    "title": "Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach",
     "year": "2026",
     "citations": 0,
     "authors": "N/A"
@@ -80,7 +92,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 39,
+    "citations": 40,
     "authors": "N/A"
   },
   {
@@ -108,15 +120,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Autonomous virtual radio access network control",
+    "title": "6G Standardization Potential of the ORIGAMI Novel Architectures and Use Cases",
     "year": "2025",
     "citations": 2,
     "authors": "N/A"
   },
   {
-    "title": "6G Standardization Potential of the ORIGAMI Novel Architectures and Use Cases",
+    "title": "Autonomous virtual radio access network control",
     "year": "2025",
-    "citations": 1,
+    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -200,13 +212,13 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 45,
+    "citations": 46,
     "authors": "N/A"
   },
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 35,
+    "citations": 36,
     "authors": "N/A"
   },
   {
@@ -266,6 +278,12 @@
   {
     "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
+    "citations": 10,
+    "authors": "N/A"
+  },
+  {
+    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
+    "year": "2024",
     "citations": 9,
     "authors": "N/A"
   },
@@ -273,12 +291,6 @@
     "title": "Indoor millimeter wave localization using multiple self-supervised tiny neural networks",
     "year": "2024",
     "citations": 9,
-    "authors": "N/A"
-  },
-  {
-    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
-    "year": "2024",
-    "citations": 8,
     "authors": "N/A"
   },
   {
@@ -356,7 +368,7 @@
   {
     "title": "The 6G Architecture Landscape: European Perspective",
     "year": "2023",
-    "citations": 35,
+    "citations": 36,
     "authors": "N/A"
   },
   {
@@ -500,7 +512,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 286,
+    "citations": 287,
     "authors": "N/A"
   },
   {
@@ -620,7 +632,7 @@
   {
     "title": "RISMA: Reconfigurable intelligent surfaces enabling beamforming for IoT massive access",
     "year": "2020",
-    "citations": 106,
+    "citations": 107,
     "authors": "N/A"
   },
   {
@@ -992,7 +1004,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 773,
+    "citations": 775,
     "authors": "N/A"
   },
   {
