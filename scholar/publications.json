@@ -92,7 +92,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 40,
+    "citations": 41,
     "authors": "N/A"
   },
   {
@@ -236,7 +236,7 @@
   {
     "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 18,
+    "citations": 19,
     "authors": "N/A"
   },
   {
@@ -252,6 +252,12 @@
     "authors": "N/A"
   },
   {
+    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
+    "year": "2024",
+    "citations": 12,
+    "authors": "N/A"
+  },
+  {
     "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
     "citations": 12,
@@ -259,12 +265,6 @@
   },
   {
     "title": "Designing the network intelligence stratum for 6g networks",
-    "year": "2024",
-    "citations": 11,
-    "authors": "N/A"
-  },
-  {
-    "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
     "year": "2024",
     "citations": 11,
     "authors": "N/A"
@@ -458,13 +458,13 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 84,
+    "citations": 85,
     "authors": "N/A"
   },
   {
     "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
     "year": "2022",
-    "citations": 34,
+    "citations": 35,
     "authors": "N/A"
   },
   {
@@ -530,13 +530,13 @@
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 60,
+    "citations": 61,
     "authors": "N/A"
   },
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 52,
+    "citations": 53,
     "authors": "N/A"
   },
   {
@@ -644,7 +644,7 @@
   {
     "title": "vrAIn: Deep learning based orchestration for computing and radio resources in vRANs",
     "year": "2020",
-    "citations": 67,
+    "citations": 68,
     "authors": "N/A"
   },
   {
