@@ -98,13 +98,13 @@
   {
     "title": "Kairos: Energy-efficient radio unit control for o-ran via advanced sleep modes",
     "year": "2025",
-    "citations": 16,
+    "citations": 17,
     "authors": "N/A"
   },
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 15,
+    "citations": 16,
     "authors": "N/A"
   },
   {
@@ -126,21 +126,21 @@
     "authors": "N/A"
   },
   {
-    "title": "Autonomous virtual radio access network control",
+    "title": "FairRIC: Real-Time Fair Allocation in O-RAN with Shared Computing",
     "year": "2025",
     "citations": 2,
     "authors": "N/A"
   },
   {
-    "title": "FairRIC: Real-Time Fair Allocation in O-RAN with Shared Computing",
+    "title": "AegisRAN: A fair and energy-efficient computing resource allocation framework for vRANs",
     "year": "2025",
-    "citations": 1,
+    "citations": 2,
     "authors": "N/A"
   },
   {
-    "title": "AegisRAN: A fair and energy-efficient computing resource allocation framework for vRANs",
+    "title": "Autonomous virtual radio access network control",
     "year": "2025",
-    "citations": 1,
+    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -212,7 +212,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 46,
+    "citations": 47,
     "authors": "N/A"
   },
   {
@@ -224,7 +224,7 @@
   {
     "title": "Fair resource allocation in virtualized o-ran platforms",
     "year": "2024",
-    "citations": 22,
+    "citations": 23,
     "authors": "N/A"
   },
   {
@@ -368,7 +368,7 @@
   {
     "title": "The 6G Architecture Landscape: European Perspective",
     "year": "2023",
-    "citations": 36,
+    "citations": 37,
     "authors": "N/A"
   },
   {
@@ -542,7 +542,7 @@
   {
     "title": "Experimental evaluation of power consumption in virtualized base stations",
     "year": "2021",
-    "citations": 37,
+    "citations": 36,
     "authors": "N/A"
   },
   {
@@ -558,15 +558,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Orchestrating energy-efficient vRANs: Bayesian learning and experimental results",
+    "title": "5 Growth: Secure and reliable network slicing for verticals",
     "year": "2021",
     "citations": 24,
     "authors": "N/A"
   },
   {
-    "title": "5 Growth: Secure and reliable network slicing for verticals",
+    "title": "Orchestrating energy-efficient vRANs: Bayesian learning and experimental results",
     "year": "2021",
-    "citations": 24,
+    "citations": 23,
     "authors": "N/A"
   },
   {
@@ -908,7 +908,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 509,
+    "citations": 510,
     "authors": "N/A"
   },
   {
