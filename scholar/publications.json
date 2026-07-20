@@ -98,7 +98,7 @@
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 16,
+    "citations": 17,
     "authors": "N/A"
   },
   {
@@ -306,7 +306,7 @@
     "authors": "N/A"
   },
   {
-    "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
+    "title": "TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs",
     "year": "2024",
     "citations": 1,
     "authors": "N/A"
@@ -464,7 +464,7 @@
   {
     "title": "Radiorchestra: Proactive management of millimeter-wave self-backhauled small cells via joint optimization of beamforming, user association, rate selection, and admission control",
     "year": "2022",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
@@ -530,13 +530,13 @@
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 53,
+    "citations": 52,
     "authors": "N/A"
   },
   {
     "title": "Experimental evaluation of power consumption in virtualized base stations",
     "year": "2021",
-    "citations": 36,
+    "citations": 35,
     "authors": "N/A"
   },
   {
@@ -788,7 +788,7 @@
   {
     "title": "Joint optimization of edge computing architectures and radio access networks",
     "year": "2018",
-    "citations": 113,
+    "citations": 114,
     "authors": "N/A"
   },
   {
@@ -860,7 +860,7 @@
   {
     "title": "Fair coexistence of scheduled and random access wireless networks: Unlicensed LTE/WiFi",
     "year": "2017",
-    "citations": 104,
+    "citations": 103,
     "authors": "N/A"
   },
   {
@@ -902,7 +902,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 510,
+    "citations": 511,
     "authors": "N/A"
   },
   {
