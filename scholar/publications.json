@@ -92,7 +92,7 @@
   {
     "title": "Kairos: Energy-efficient radio unit control for o-ran via advanced sleep modes",
     "year": "2025",
-    "citations": 17,
+    "citations": 18,
     "authors": "N/A"
   },
   {
@@ -108,13 +108,13 @@
     "authors": "N/A"
   },
   {
-    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "title": "6G Standardization Potential of the ORIGAMI Novel Architectures and Use Cases",
     "year": "2025",
-    "citations": 2,
+    "citations": 3,
     "authors": "N/A"
   },
   {
-    "title": "6G Standardization Potential of the ORIGAMI Novel Architectures and Use Cases",
+    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
     "year": "2025",
     "citations": 2,
     "authors": "N/A"
@@ -218,19 +218,19 @@
   {
     "title": "Fair resource allocation in virtualized o-ran platforms",
     "year": "2024",
-    "citations": 23,
+    "citations": 25,
     "authors": "N/A"
   },
   {
     "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
     "year": "2024",
-    "citations": 22,
+    "citations": 23,
     "authors": "N/A"
   },
   {
     "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 19,
+    "citations": 20,
     "authors": "N/A"
   },
   {
@@ -248,6 +248,12 @@
   {
     "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
     "year": "2024",
+    "citations": 13,
+    "authors": "N/A"
+  },
+  {
+    "title": "Designing the network intelligence stratum for 6g networks",
+    "year": "2024",
     "citations": 12,
     "authors": "N/A"
   },
@@ -255,12 +261,6 @@
     "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
     "citations": 12,
-    "authors": "N/A"
-  },
-  {
-    "title": "Designing the network intelligence stratum for 6g networks",
-    "year": "2024",
-    "citations": 11,
     "authors": "N/A"
   },
   {
@@ -356,7 +356,7 @@
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 44,
+    "citations": 45,
     "authors": "N/A"
   },
   {
@@ -408,15 +408,15 @@
     "authors": "N/A"
   },
   {
-    "title": "The 6g architecture landscape: European perspective",
+    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
     "year": "2023",
     "citations": 9,
     "authors": "N/A"
   },
   {
-    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
+    "title": "The 6g architecture landscape: European perspective",
     "year": "2023",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -506,7 +506,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 287,
+    "citations": 289,
     "authors": "N/A"
   },
   {
@@ -758,7 +758,7 @@
   {
     "title": "Integrating fronthaul and backhaul networks: Transport challenges and feasibility results",
     "year": "2019",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
@@ -854,7 +854,7 @@
   {
     "title": "5G-crosshaul: An SDN/NFV integrated fronthaul/backhaul transport network architecture",
     "year": "2017",
-    "citations": 139,
+    "citations": 140,
     "authors": "N/A"
   },
   {
@@ -902,7 +902,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 511,
+    "citations": 512,
     "authors": "N/A"
   },
   {
