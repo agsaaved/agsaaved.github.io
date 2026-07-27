@@ -1,5 +1,11 @@
 [
   {
+    "title": "Mobile Transport and Computing Platform for 5G Verticals: Resource Abstraction and",
+    "year": "N/A",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
     "title": "MetaBags: Bagged Meta-Decision Trees for Regression",
     "year": "N/A",
     "citations": 0,
@@ -90,15 +96,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Kairos: Energy-efficient radio unit control for o-ran via advanced sleep modes",
+    "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 18,
+    "citations": 19,
     "authors": "N/A"
   },
   {
-    "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
+    "title": "Kairos: Energy-efficient radio unit control for o-ran via advanced sleep modes",
     "year": "2025",
-    "citations": 17,
+    "citations": 18,
     "authors": "N/A"
   },
   {
@@ -270,15 +276,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Risk-aware continuous control with neural contextual bandits",
+    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
     "year": "2024",
     "citations": 10,
     "authors": "N/A"
   },
   {
-    "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
+    "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
-    "citations": 9,
+    "citations": 10,
     "authors": "N/A"
   },
   {
@@ -656,13 +662,13 @@
   {
     "title": "An optimal deployment framework for multi-cloud virtualized radio access networks",
     "year": "2020",
-    "citations": 55,
+    "citations": 56,
     "authors": "N/A"
   },
   {
     "title": "5Growth: AI-driven 5G for Automation in Vertical Industries",
     "year": "2020",
-    "citations": 52,
+    "citations": 51,
     "authors": "N/A"
   },
   {
@@ -794,7 +800,7 @@
   {
     "title": "WizHaul: On the centralization degree of cloud RAN next generation fronthaul",
     "year": "2018",
-    "citations": 104,
+    "citations": 105,
     "authors": "N/A"
   },
   {
