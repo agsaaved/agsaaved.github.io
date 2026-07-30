@@ -66,12 +66,6 @@
     "authors": "N/A"
   },
   {
-    "title": "Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach",
-    "year": "2026",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
     "title": "Automated Heuristic Design for Network Operations",
     "year": "2026",
     "citations": 0,
@@ -79,6 +73,12 @@
   },
   {
     "title": "Virtualized radio access point, VRAP, and method of operating the same",
+    "year": "2026",
+    "citations": 0,
+    "authors": "N/A"
+  },
+  {
+    "title": "Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach",
     "year": "2026",
     "citations": 0,
     "authors": "N/A"
@@ -114,7 +114,7 @@
     "authors": "N/A"
   },
   {
-    "title": "6G Standardization Potential of the ORIGAMI Novel Architectures and Use Cases",
+    "title": "6g standardization potential of the origami novel architectures and use cases",
     "year": "2025",
     "citations": 3,
     "authors": "N/A"
@@ -134,13 +134,7 @@
   {
     "title": "AegisRAN: A fair and energy-efficient computing resource allocation framework for vRANs",
     "year": "2025",
-    "citations": 2,
-    "authors": "N/A"
-  },
-  {
-    "title": "Autonomous virtual radio access network control",
-    "year": "2025",
-    "citations": 2,
+    "citations": 1,
     "authors": "N/A"
   },
   {
@@ -374,7 +368,7 @@
   {
     "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
     "year": "2023",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
@@ -510,6 +504,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Autonomous virtual radio access network control",
+    "year": "2022",
+    "citations": 2,
+    "authors": "N/A"
+  },
+  {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
     "citations": 289,
@@ -594,12 +594,6 @@
     "authors": "N/A"
   },
   {
-    "title": "Method for providing operating information for a network",
-    "year": "2021",
-    "citations": 5,
-    "authors": "N/A"
-  },
-  {
     "title": "Self\u2010Managed 5G Networks                     1",
     "year": "2021",
     "citations": 1,
@@ -662,7 +656,7 @@
   {
     "title": "An optimal deployment framework for multi-cloud virtualized radio access networks",
     "year": "2020",
-    "citations": 56,
+    "citations": 55,
     "authors": "N/A"
   },
   {
@@ -768,6 +762,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Method for providing operating information for a network",
+    "year": "2019",
+    "citations": 5,
+    "authors": "N/A"
+  },
+  {
     "title": "Latency-driven network slices orchestration",
     "year": "2019",
     "citations": 2,
@@ -866,7 +866,7 @@
   {
     "title": "Fair coexistence of scheduled and random access wireless networks: Unlicensed LTE/WiFi",
     "year": "2017",
-    "citations": 103,
+    "citations": 104,
     "authors": "N/A"
   },
   {
@@ -914,7 +914,7 @@
   {
     "title": "Maximising LTE Capacity in Unlicensed Bands (LTE-U/LAA) while Fairly Coexisting with 802.11 WLANs",
     "year": "2016",
-    "citations": 59,
+    "citations": 60,
     "authors": "N/A"
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 776,
+    "citations": 777,
     "authors": "N/A"
   },
   {
