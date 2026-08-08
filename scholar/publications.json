@@ -104,7 +104,7 @@
   {
     "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
-    "citations": 18,
+    "citations": 19,
     "authors": "N/A"
   },
   {
@@ -348,13 +348,13 @@
     "authors": "N/A"
   },
   {
-    "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
+    "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 47,
+    "citations": 48,
     "authors": "N/A"
   },
   {
-    "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
+    "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
     "citations": 47,
     "authors": "N/A"
@@ -506,7 +506,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 285,
+    "citations": 286,
     "authors": "N/A"
   },
   {
@@ -530,13 +530,13 @@
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 54,
+    "citations": 55,
     "authors": "N/A"
   },
   {
     "title": "Experimental evaluation of power consumption in virtualized base stations",
     "year": "2021",
-    "citations": 36,
+    "citations": 37,
     "authors": "N/A"
   },
   {
@@ -908,7 +908,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 513,
+    "citations": 515,
     "authors": "N/A"
   },
   {
