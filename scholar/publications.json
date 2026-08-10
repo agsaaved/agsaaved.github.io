@@ -38,7 +38,7 @@
   {
     "title": "SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks",
     "year": "2026",
-    "citations": 1,
+    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -348,15 +348,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
+    "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
     "citations": 48,
     "authors": "N/A"
   },
   {
-    "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
+    "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 47,
+    "citations": 48,
     "authors": "N/A"
   },
   {
@@ -506,7 +506,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 286,
+    "citations": 288,
     "authors": "N/A"
   },
   {
@@ -554,7 +554,7 @@
   {
     "title": "5 Growth: Secure and reliable network slicing for verticals",
     "year": "2021",
-    "citations": 24,
+    "citations": 25,
     "authors": "N/A"
   },
   {
@@ -788,7 +788,7 @@
   {
     "title": "Overbooking network slices through yield-driven end-to-end orchestration",
     "year": "2018",
-    "citations": 144,
+    "citations": 145,
     "authors": "N/A"
   },
   {
@@ -824,7 +824,7 @@
   {
     "title": "Overbooking network slices end-to-end: Implementation and demonstration",
     "year": "2018",
-    "citations": 13,
+    "citations": 14,
     "authors": "N/A"
   },
   {
@@ -872,7 +872,7 @@
   {
     "title": "5G-crosshaul network slicing: Enabling multi-tenancy in mobile transport networks",
     "year": "2017",
-    "citations": 102,
+    "citations": 103,
     "authors": "N/A"
   },
   {
@@ -908,7 +908,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 515,
+    "citations": 516,
     "authors": "N/A"
   },
   {
@@ -986,7 +986,7 @@
   {
     "title": "Per-frame Energy Consumption in 802.11 Devices and its Implication on Modeling and Design",
     "year": "2014",
-    "citations": 118,
+    "citations": 119,
     "authors": "N/A"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 757,
+    "citations": 763,
     "authors": "N/A"
   },
   {
