@@ -92,7 +92,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 41,
+    "citations": 42,
     "authors": "N/A"
   },
   {
@@ -206,7 +206,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 46,
+    "citations": 47,
     "authors": "N/A"
   },
   {
@@ -218,7 +218,7 @@
   {
     "title": "Fair resource allocation in virtualized O-RAN platforms",
     "year": "2024",
-    "citations": 28,
+    "citations": 29,
     "authors": "N/A"
   },
   {
@@ -350,13 +350,13 @@
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 48,
+    "citations": 49,
     "authors": "N/A"
   },
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 48,
+    "citations": 49,
     "authors": "N/A"
   },
   {
@@ -446,7 +446,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 86,
+    "citations": 87,
     "authors": "N/A"
   },
   {
@@ -530,7 +530,7 @@
   {
     "title": "Bayesian online learning for energy-aware resource orchestration in virtualized RANs",
     "year": "2021",
-    "citations": 55,
+    "citations": 56,
     "authors": "N/A"
   },
   {
@@ -542,7 +542,7 @@
   {
     "title": "Public and non-public network integration for 5Growth industry 4.0 use cases",
     "year": "2021",
-    "citations": 32,
+    "citations": 34,
     "authors": "N/A"
   },
   {
@@ -908,7 +908,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 516,
+    "citations": 518,
     "authors": "N/A"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 763,
+    "citations": 764,
     "authors": "N/A"
   },
   {
