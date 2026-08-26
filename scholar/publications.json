@@ -206,19 +206,19 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 47,
+    "citations": 48,
     "authors": "N/A"
   },
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 39,
+    "citations": 40,
     "authors": "N/A"
   },
   {
     "title": "Fair resource allocation in virtualized O-RAN platforms",
     "year": "2024",
-    "citations": 30,
+    "citations": 31,
     "authors": "N/A"
   },
   {
@@ -230,7 +230,7 @@
   {
     "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 20,
+    "citations": 21,
     "authors": "N/A"
   },
   {
@@ -752,7 +752,7 @@
   {
     "title": "vrAIn: A deep learning approach tailoring computing and radio resources in virtualized RANs",
     "year": "2019",
-    "citations": 110,
+    "citations": 111,
     "authors": "N/A"
   },
   {
@@ -860,7 +860,7 @@
   {
     "title": "5G-crosshaul: An SDN/NFV integrated fronthaul/backhaul transport network architecture",
     "year": "2017",
-    "citations": 140,
+    "citations": 141,
     "authors": "N/A"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 764,
+    "citations": 766,
     "authors": "N/A"
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "title": "Energy consumption anatomy of 802.11 devices and its implication on modeling and design",
     "year": "2012",
-    "citations": 130,
+    "citations": 132,
     "authors": "N/A"
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "title": "On the energy efficiency of IEEE 802.11 WLANs",
     "year": "2010",
-    "citations": 37,
+    "citations": 38,
     "authors": "N/A"
   },
   {
