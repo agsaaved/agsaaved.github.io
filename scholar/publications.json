@@ -98,13 +98,13 @@
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 20,
+    "citations": 21,
     "authors": "N/A"
   },
   {
     "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
-    "citations": 19,
+    "citations": 20,
     "authors": "N/A"
   },
   {
@@ -120,13 +120,13 @@
     "authors": "N/A"
   },
   {
-    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "title": "FairRIC: Real-time fair allocation in O-RAN with shared computing",
     "year": "2025",
-    "citations": 2,
+    "citations": 3,
     "authors": "N/A"
   },
   {
-    "title": "FairRIC: Real-time fair allocation in O-RAN with shared computing",
+    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
     "year": "2025",
     "citations": 2,
     "authors": "N/A"
@@ -212,19 +212,19 @@
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 40,
+    "citations": 41,
     "authors": "N/A"
   },
   {
     "title": "Fair resource allocation in virtualized O-RAN platforms",
     "year": "2024",
-    "citations": 31,
+    "citations": 33,
     "authors": "N/A"
   },
   {
     "title": "ORANUS: Latency-tailored orchestration via stochastic network calculus in 6G O-RAN",
     "year": "2024",
-    "citations": 24,
+    "citations": 26,
     "authors": "N/A"
   },
   {
@@ -236,7 +236,7 @@
   {
     "title": "Radio resource management design for RSMA: Optimization of beamforming, user admission, and discrete/continuous rates with imperfect SIC",
     "year": "2024",
-    "citations": 17,
+    "citations": 18,
     "authors": "N/A"
   },
   {
@@ -350,7 +350,7 @@
   {
     "title": "O-RAN: Analysis of latency-critical interfaces and overview of time sensitive networking solutions",
     "year": "2023",
-    "citations": 50,
+    "citations": 51,
     "authors": "N/A"
   },
   {
@@ -368,7 +368,7 @@
   {
     "title": "Towards sustainable and trustworthy 6G: challenges, enablers, and architectural design",
     "year": "2023",
-    "citations": 31,
+    "citations": 33,
     "authors": "N/A"
   },
   {
@@ -380,13 +380,13 @@
   {
     "title": "Virtual radio access network control",
     "year": "2023",
-    "citations": 20,
+    "citations": 21,
     "authors": "N/A"
   },
   {
     "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
     "year": "2023",
-    "citations": 19,
+    "citations": 20,
     "authors": "N/A"
   },
   {
@@ -462,15 +462,15 @@
     "authors": "N/A"
   },
   {
-    "title": "Radiorchestra: Proactive management of millimeter-wave self-backhauled small cells via joint optimization of beamforming, user association, rate selection, and admission control",
+    "title": "Anomaly detection and troubleshooting system for a network using machine learning and/or artificial intelligence",
     "year": "2022",
     "citations": 24,
     "authors": "N/A"
   },
   {
-    "title": "Anomaly detection and troubleshooting system for a network using machine learning and/or artificial intelligence",
+    "title": "Radiorchestra: Proactive management of millimeter-wave self-backhauled small cells via joint optimization of beamforming, user association, rate selection, and admission control",
     "year": "2022",
-    "citations": 23,
+    "citations": 24,
     "authors": "N/A"
   },
   {
@@ -506,7 +506,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 289,
+    "citations": 290,
     "authors": "N/A"
   },
   {
@@ -554,7 +554,7 @@
   {
     "title": "5 Growth: Secure and reliable network slicing for verticals",
     "year": "2021",
-    "citations": 25,
+    "citations": 26,
     "authors": "N/A"
   },
   {
@@ -644,7 +644,7 @@
   {
     "title": "vrAIn: Deep learning based orchestration for computing and radio resources in vRANs",
     "year": "2020",
-    "citations": 70,
+    "citations": 71,
     "authors": "N/A"
   },
   {
@@ -686,7 +686,7 @@
   {
     "title": "Method for in-network, dynamic radio access network functional split configuration by radio access network data plane forwarding nodes",
     "year": "2020",
-    "citations": 19,
+    "citations": 20,
     "authors": "N/A"
   },
   {
@@ -908,7 +908,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 518,
+    "citations": 519,
     "authors": "N/A"
   },
   {
