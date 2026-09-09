@@ -96,15 +96,15 @@
     "authors": "N/A"
   },
   {
-    "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
+    "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
-    "citations": 21,
+    "citations": 22,
     "authors": "N/A"
   },
   {
-    "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
+    "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 20,
+    "citations": 22,
     "authors": "N/A"
   },
   {
@@ -206,13 +206,13 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 48,
+    "citations": 49,
     "authors": "N/A"
   },
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 41,
+    "citations": 42,
     "authors": "N/A"
   },
   {
@@ -446,7 +446,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 88,
+    "citations": 90,
     "authors": "N/A"
   },
   {
@@ -506,7 +506,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 290,
+    "citations": 291,
     "authors": "N/A"
   },
   {
@@ -516,13 +516,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Nuberu: Reliable RAN virtualization in shared platforms",
+    "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 62,
+    "citations": 63,
     "authors": "N/A"
   },
   {
-    "title": "Network intelligence in 6G: Challenges and opportunities",
+    "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
     "citations": 62,
     "authors": "N/A"
@@ -572,7 +572,7 @@
   {
     "title": "Dqn dynamic pricing and revenue driven service federation strategy",
     "year": "2021",
-    "citations": 11,
+    "citations": 12,
     "authors": "N/A"
   },
   {
@@ -638,13 +638,13 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 103,
+    "citations": 105,
     "authors": "N/A"
   },
   {
     "title": "vrAIn: Deep learning based orchestration for computing and radio resources in vRANs",
     "year": "2020",
-    "citations": 71,
+    "citations": 72,
     "authors": "N/A"
   },
   {
@@ -782,7 +782,7 @@
   {
     "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 147,
+    "citations": 148,
     "authors": "N/A"
   },
   {
@@ -800,7 +800,7 @@
   {
     "title": "WizHaul: On the centralization degree of cloud RAN next generation fronthaul",
     "year": "2018",
-    "citations": 105,
+    "citations": 106,
     "authors": "N/A"
   },
   {
@@ -908,7 +908,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 521,
+    "citations": 522,
     "authors": "N/A"
   },
   {
@@ -986,7 +986,7 @@
   {
     "title": "Per-frame Energy Consumption in 802.11 Devices and its Implication on Modeling and Design",
     "year": "2014",
-    "citations": 119,
+    "citations": 121,
     "authors": "N/A"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 766,
+    "citations": 768,
     "authors": "N/A"
   },
   {
