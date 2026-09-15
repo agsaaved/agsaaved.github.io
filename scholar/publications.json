@@ -38,7 +38,7 @@
   {
     "title": "SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks",
     "year": "2026",
-    "citations": 2,
+    "citations": 3,
     "authors": "N/A"
   },
   {
@@ -92,7 +92,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 42,
+    "citations": 43,
     "authors": "N/A"
   },
   {
@@ -135,6 +135,12 @@
     "title": "AegisRAN: A fair and energy-efficient computing resource allocation framework for vRANs",
     "year": "2025",
     "citations": 2,
+    "authors": "N/A"
+  },
+  {
+    "title": "Kairos: Energy-Efficient Radio Unit Control for O-RAN via Advanced Sleep Modes",
+    "year": "2025",
+    "citations": 1,
     "authors": "N/A"
   },
   {
@@ -193,12 +199,6 @@
   },
   {
     "title": "Centralized acceleration abstraction layer for ran virtualization",
-    "year": "2025",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
-    "title": "Kairos: Energy-Efficient Radio Unit Control for O-RAN via Advanced Sleep Modes",
     "year": "2025",
     "citations": 0,
     "authors": "N/A"
@@ -264,6 +264,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Risk-aware continuous control with neural contextual bandits",
+    "year": "2024",
+    "citations": 12,
+    "authors": "N/A"
+  },
+  {
     "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vRANs",
     "year": "2024",
     "citations": 11,
@@ -271,12 +277,6 @@
   },
   {
     "title": "Towards 6g: Architectural innovations and challenges in the origami framework",
-    "year": "2024",
-    "citations": 10,
-    "authors": "N/A"
-  },
-  {
-    "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
     "citations": 10,
     "authors": "N/A"
@@ -644,7 +644,7 @@
   {
     "title": "vrAIn: Deep learning based orchestration for computing and radio resources in vRANs",
     "year": "2020",
-    "citations": 72,
+    "citations": 74,
     "authors": "N/A"
   },
   {
@@ -878,7 +878,7 @@
   {
     "title": "Low delay random linear coding and scheduling over multiple interfaces",
     "year": "2017",
-    "citations": 72,
+    "citations": 73,
     "authors": "N/A"
   },
   {
