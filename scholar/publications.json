@@ -44,6 +44,18 @@
   {
     "title": "Exploring the Viability of Automated Heuristic Design for 5G LDPC Decoding",
     "year": "2026",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "Automated Heuristic Design for Network Operations",
+    "year": "2026",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "TRACE: Tackling Real-World Resource Assignment Problems via Agentic Heuristic Design",
+    "year": "2026",
     "citations": 0,
     "authors": "N/A"
   },
@@ -61,12 +73,6 @@
   },
   {
     "title": "Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach",
-    "year": "2026",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
-    "title": "Automated Heuristic Design for Network Operations",
     "year": "2026",
     "citations": 0,
     "authors": "N/A"
@@ -206,19 +212,19 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 49,
+    "citations": 50,
     "authors": "N/A"
   },
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 44,
+    "citations": 45,
     "authors": "N/A"
   },
   {
     "title": "Fair resource allocation in virtualized O-RAN platforms",
     "year": "2024",
-    "citations": 35,
+    "citations": 36,
     "authors": "N/A"
   },
   {
@@ -230,7 +236,13 @@
   {
     "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 21,
+    "citations": 23,
+    "authors": "N/A"
+  },
+  {
+    "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
+    "year": "2024",
+    "citations": 18,
     "authors": "N/A"
   },
   {
@@ -240,19 +252,13 @@
     "authors": "N/A"
   },
   {
-    "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
+    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 16,
+    "citations": 14,
     "authors": "N/A"
   },
   {
     "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
-    "year": "2024",
-    "citations": 13,
-    "authors": "N/A"
-  },
-  {
-    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
     "citations": 13,
     "authors": "N/A"
@@ -518,7 +524,7 @@
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
-    "citations": 64,
+    "citations": 65,
     "authors": "N/A"
   },
   {
@@ -638,7 +644,7 @@
   {
     "title": "Network slicing meets artificial intelligence: An AI-based framework for slice management",
     "year": "2020",
-    "citations": 105,
+    "citations": 106,
     "authors": "N/A"
   },
   {
@@ -782,7 +788,7 @@
   {
     "title": "Fluidran: Optimized vran/mec orchestration",
     "year": "2018",
-    "citations": 148,
+    "citations": 149,
     "authors": "N/A"
   },
   {
@@ -866,7 +872,7 @@
   {
     "title": "Fair coexistence of scheduled and random access wireless networks: Unlicensed LTE/WiFi",
     "year": "2017",
-    "citations": 106,
+    "citations": 107,
     "authors": "N/A"
   },
   {
