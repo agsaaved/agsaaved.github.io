@@ -36,6 +36,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Fully-passive and fast-programmable smart surface",
+    "year": "2026",
+    "citations": 9,
+    "authors": "N/A"
+  },
+  {
     "title": "SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks",
     "year": "2026",
     "citations": 3,
@@ -43,6 +49,12 @@
   },
   {
     "title": "Exploring the Viability of Automated Heuristic Design for 5G LDPC Decoding",
+    "year": "2026",
+    "citations": 1,
+    "authors": "N/A"
+  },
+  {
+    "title": "Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach",
     "year": "2026",
     "citations": 1,
     "authors": "N/A"
@@ -72,12 +84,6 @@
     "authors": "N/A"
   },
   {
-    "title": "Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach",
-    "year": "2026",
-    "citations": 0,
-    "authors": "N/A"
-  },
-  {
     "title": "Reconfigurable intelligent surface, RIS, with sensing capabilities and method for operating the same",
     "year": "2026",
     "citations": 0,
@@ -98,25 +104,19 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 44,
+    "citations": 45,
     "authors": "N/A"
   },
   {
     "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
-    "citations": 22,
+    "citations": 23,
     "authors": "N/A"
   },
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
     "citations": 22,
-    "authors": "N/A"
-  },
-  {
-    "title": "Fully-passive and fast-programmable smart surface",
-    "year": "2025",
-    "citations": 7,
     "authors": "N/A"
   },
   {
@@ -146,7 +146,7 @@
   {
     "title": "Kairos: Energy-Efficient Radio Unit Control for O-RAN via Advanced Sleep Modes",
     "year": "2025",
-    "citations": 1,
+    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -212,13 +212,13 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 50,
+    "citations": 53,
     "authors": "N/A"
   },
   {
     "title": "Attacking O-RAN interfaces: Threat modeling, analysis and practical experimentation",
     "year": "2024",
-    "citations": 45,
+    "citations": 46,
     "authors": "N/A"
   },
   {
@@ -236,13 +236,13 @@
   {
     "title": "Open experimental measurements of sub-6ghz reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 23,
+    "citations": 24,
     "authors": "N/A"
   },
   {
     "title": "Yinyangran: Resource multiplexing in gpu-accelerated virtualized rans",
     "year": "2024",
-    "citations": 18,
+    "citations": 22,
     "authors": "N/A"
   },
   {
@@ -252,7 +252,7 @@
     "authors": "N/A"
   },
   {
-    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
+    "title": "Designing the network intelligence stratum for 6G networks",
     "year": "2024",
     "citations": 14,
     "authors": "N/A"
@@ -260,25 +260,25 @@
   {
     "title": "OREO: O-RAN intElligence Orchestration of xApp-based network services",
     "year": "2024",
-    "citations": 13,
+    "citations": 14,
     "authors": "N/A"
   },
   {
-    "title": "Designing the network intelligence stratum for 6G networks",
+    "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
-    "citations": 12,
+    "citations": 14,
     "authors": "N/A"
   },
   {
     "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
-    "citations": 12,
+    "citations": 13,
     "authors": "N/A"
   },
   {
     "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vRANs",
     "year": "2024",
-    "citations": 11,
+    "citations": 12,
     "authors": "N/A"
   },
   {
@@ -296,13 +296,13 @@
   {
     "title": "Network intelligence in action: the daemon perspective",
     "year": "2024",
-    "citations": 6,
+    "citations": 7,
     "authors": "N/A"
   },
   {
     "title": "MemorAI: Energy-efficient last-level cache memory optimization for virtualized RANs",
     "year": "2024",
-    "citations": 3,
+    "citations": 4,
     "authors": "N/A"
   },
   {
@@ -362,7 +362,7 @@
   {
     "title": "Open radio access networks (O-RAN) experimentation platform: Design and datasets",
     "year": "2023",
-    "citations": 50,
+    "citations": 51,
     "authors": "N/A"
   },
   {
@@ -386,7 +386,7 @@
   {
     "title": "Virtual radio access network control",
     "year": "2023",
-    "citations": 21,
+    "citations": 22,
     "authors": "N/A"
   },
   {
@@ -404,7 +404,7 @@
   {
     "title": "Orchestration procedures for the network intelligence stratum in 6g networks",
     "year": "2023",
-    "citations": 11,
+    "citations": 12,
     "authors": "N/A"
   },
   {
@@ -458,13 +458,13 @@
   {
     "title": "Requirements and Specifications for the Orchestration of Network Intelligence in 6G",
     "year": "2022",
-    "citations": 36,
+    "citations": 37,
     "authors": "N/A"
   },
   {
     "title": "Network intelligence for virtualized ran orchestration: The daemon approach",
     "year": "2022",
-    "citations": 25,
+    "citations": 26,
     "authors": "N/A"
   },
   {
@@ -488,7 +488,7 @@
   {
     "title": "Reconfigurable intelligent surface-based systems and methods for managing multiple wired connections in wireless data centers",
     "year": "2022",
-    "citations": 10,
+    "citations": 11,
     "authors": "N/A"
   },
   {
@@ -512,25 +512,25 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 294,
+    "citations": 300,
     "authors": "N/A"
   },
   {
     "title": "5Growth: An end-to-end service platform for automated deployment and management of vertical services over 5G networks",
     "year": "2021",
-    "citations": 105,
+    "citations": 106,
+    "authors": "N/A"
+  },
+  {
+    "title": "Nuberu: Reliable RAN virtualization in shared platforms",
+    "year": "2021",
+    "citations": 65,
     "authors": "N/A"
   },
   {
     "title": "Network intelligence in 6G: Challenges and opportunities",
     "year": "2021",
     "citations": 65,
-    "authors": "N/A"
-  },
-  {
-    "title": "Nuberu: Reliable RAN virtualization in shared platforms",
-    "year": "2021",
-    "citations": 62,
     "authors": "N/A"
   },
   {
@@ -572,7 +572,7 @@
   {
     "title": "System and method for network automation in slice-based network using reinforcement learning",
     "year": "2021",
-    "citations": 18,
+    "citations": 19,
     "authors": "N/A"
   },
   {
@@ -638,7 +638,7 @@
   {
     "title": "RISMA: Reconfigurable intelligent surfaces enabling beamforming for IoT massive access",
     "year": "2020",
-    "citations": 110,
+    "citations": 111,
     "authors": "N/A"
   },
   {
@@ -764,13 +764,13 @@
   {
     "title": "Artificial intelligence for elastic management and orchestration of 5G networks",
     "year": "2019",
-    "citations": 101,
+    "citations": 102,
     "authors": "N/A"
   },
   {
     "title": "Integrating fronthaul and backhaul networks: Transport challenges and feasibility results",
     "year": "2019",
-    "citations": 31,
+    "citations": 33,
     "authors": "N/A"
   },
   {
@@ -914,7 +914,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 523,
+    "citations": 526,
     "authors": "N/A"
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 769,
+    "citations": 772,
     "authors": "N/A"
   },
   {
