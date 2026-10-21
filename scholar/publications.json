@@ -104,7 +104,7 @@
   {
     "title": "Telecomrag: Taming telecom standards with retrieval augmented generation and llms",
     "year": "2025",
-    "citations": 45,
+    "citations": 46,
     "authors": "N/A"
   },
   {
@@ -116,7 +116,7 @@
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 22,
+    "citations": 23,
     "authors": "N/A"
   },
   {
@@ -254,7 +254,7 @@
   {
     "title": "Designing the network intelligence stratum for 6G networks",
     "year": "2024",
-    "citations": 14,
+    "citations": 15,
     "authors": "N/A"
   },
   {
@@ -408,13 +408,13 @@
     "authors": "N/A"
   },
   {
-    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
+    "title": "The 6G architecture landscape: European perspective",
     "year": "2023",
-    "citations": 10,
+    "citations": 11,
     "authors": "N/A"
   },
   {
-    "title": "The 6G architecture landscape: European perspective",
+    "title": "AIRIC: Orchestration of virtualized radio access networks with noisy neighbours",
     "year": "2023",
     "citations": 10,
     "authors": "N/A"
@@ -512,7 +512,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 300,
+    "citations": 301,
     "authors": "N/A"
   },
   {
@@ -914,7 +914,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 526,
+    "citations": 527,
     "authors": "N/A"
   },
   {
