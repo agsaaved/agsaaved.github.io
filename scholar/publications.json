@@ -108,15 +108,15 @@
     "authors": "N/A"
   },
   {
-    "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
+    "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
     "citations": 24,
     "authors": "N/A"
   },
   {
-    "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
+    "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 23,
+    "citations": 24,
     "authors": "N/A"
   },
   {
@@ -392,7 +392,7 @@
   {
     "title": "Fair and scalable orchestration of network and compute resources for virtual edge services",
     "year": "2023",
-    "citations": 20,
+    "citations": 21,
     "authors": "N/A"
   },
   {
@@ -512,7 +512,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 302,
+    "citations": 305,
     "authors": "N/A"
   },
   {
@@ -554,7 +554,7 @@
   {
     "title": "EdgeBOL: Automating energy-savings for mobile edge AI",
     "year": "2021",
-    "citations": 29,
+    "citations": 30,
     "authors": "N/A"
   },
   {
@@ -656,7 +656,7 @@
   {
     "title": "LACO: A latency-driven network slicing orchestration in beyond-5G networks",
     "year": "2020",
-    "citations": 66,
+    "citations": 67,
     "authors": "N/A"
   },
   {
@@ -914,7 +914,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 527,
+    "citations": 528,
     "authors": "N/A"
   },
   {
