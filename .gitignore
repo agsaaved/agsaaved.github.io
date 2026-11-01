@@ -1,0 +1,5 @@
+# Generated daily by ~/dockers/scholar-scraper; the site draws its chart from the JSON files
+scholar/*.png
+scholar/*.bk
+scholar/*.py
+.playwright-mcp/
