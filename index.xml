@@ -10,6 +10,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Exploring the Viability of Automated Heuristic Design for 5G LDPC Decoding</title>
+      <link>/publication/2026_namvar_iccspa/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2026_namvar_iccspa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-Learning-Based Service-Aware User Associations: An ORIGAMI Approach</title>
+      <link>/publication/2026_kalntis_eucnc_origami/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2026_kalntis_eucnc_origami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflict Mitigation of xApps and Interoperability of O-RAN Components: The ORIGAMI Approach</title>
+      <link>/publication/2026_rahman_eucnc_origami/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2026_rahman_eucnc_origami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ORIGAMI Use-Case Validation via 6G-SANDBOX Experimentation</title>
+      <link>/publication/2026_markudova_eucnc_origami/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2026_markudova_eucnc_origami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks</title>
       <link>/publication/2026_palena_infocom_spiff/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
