@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>/talk/20261030_wintech_test_of_time/</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/20261030_wintech_test_of_time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploring the Viability of Automated Heuristic Design for 5G LDPC Decoding</title>
       <link>/publication/2026_namvar_iccspa/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0200</pubDate>
