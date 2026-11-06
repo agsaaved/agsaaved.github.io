@@ -110,13 +110,19 @@
   {
     "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
-    "citations": 24,
+    "citations": 25,
     "authors": "N/A"
   },
   {
     "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
     "citations": 24,
+    "authors": "N/A"
+  },
+  {
+    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "year": "2025",
+    "citations": 3,
     "authors": "N/A"
   },
   {
@@ -135,12 +141,6 @@
     "title": "AegisRAN: A fair and energy-efficient computing resource allocation framework for vRANs",
     "year": "2025",
     "citations": 3,
-    "authors": "N/A"
-  },
-  {
-    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
-    "year": "2025",
-    "citations": 2,
     "authors": "N/A"
   },
   {
@@ -422,7 +422,7 @@
   {
     "title": "A leakage-based method for mitigation of faulty reconfigurable intelligent surfaces",
     "year": "2023",
-    "citations": 8,
+    "citations": 9,
     "authors": "N/A"
   },
   {
@@ -452,7 +452,7 @@
   {
     "title": "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces",
     "year": "2022",
-    "citations": 94,
+    "citations": 96,
     "authors": "N/A"
   },
   {
@@ -512,7 +512,7 @@
   {
     "title": "O-RAN: Disrupting the virtualized RAN ecosystem",
     "year": "2021",
-    "citations": 305,
+    "citations": 306,
     "authors": "N/A"
   },
   {
@@ -866,7 +866,7 @@
   {
     "title": "5G-crosshaul: An SDN/NFV integrated fronthaul/backhaul transport network architecture",
     "year": "2017",
-    "citations": 143,
+    "citations": 142,
     "authors": "N/A"
   },
   {
@@ -914,7 +914,7 @@
   {
     "title": "srsLTE: An Open-Source Platform for LTE Evolution and Experimentation",
     "year": "2016",
-    "citations": 529,
+    "citations": 530,
     "authors": "N/A"
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "title": "Device-to-device communications with Wi-Fi Direct: overview and experimentation",
     "year": "2013",
-    "citations": 772,
+    "citations": 773,
     "authors": "N/A"
   },
   {
