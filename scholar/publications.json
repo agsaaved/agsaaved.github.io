@@ -108,15 +108,15 @@
     "authors": "N/A"
   },
   {
-    "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
+    "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
     "year": "2025",
     "citations": 28,
     "authors": "N/A"
   },
   {
-    "title": "Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes",
+    "title": "O-ran intelligence orchestration framework for quality-driven xapp deployment and sharing",
     "year": "2025",
-    "citations": 27,
+    "citations": 28,
     "authors": "N/A"
   },
   {
@@ -212,7 +212,7 @@
   {
     "title": "Cloudric: Open radio access network (o-ran) virtualization with shared heterogeneous computing",
     "year": "2024",
-    "citations": 57,
+    "citations": 58,
     "authors": "N/A"
   },
   {
@@ -264,6 +264,12 @@
     "authors": "N/A"
   },
   {
+    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vRANs",
+    "year": "2024",
+    "citations": 14,
+    "authors": "N/A"
+  },
+  {
     "title": "Risk-aware continuous control with neural contextual bandits",
     "year": "2024",
     "citations": 14,
@@ -273,12 +279,6 @@
     "title": "Design and validation of scalable reconfigurable intelligent surfaces",
     "year": "2024",
     "citations": 14,
-    "authors": "N/A"
-  },
-  {
-    "title": "Mean-field multi-agent contextual bandit for energy-efficient resource allocation in vRANs",
-    "year": "2024",
-    "citations": 13,
     "authors": "N/A"
   },
   {
@@ -524,7 +524,7 @@
   {
     "title": "Nuberu: Reliable RAN virtualization in shared platforms",
     "year": "2021",
-    "citations": 68,
+    "citations": 69,
     "authors": "N/A"
   },
   {
@@ -560,7 +560,7 @@
   {
     "title": "Orchestrating energy-efficient vRANs: Bayesian learning and experimental results",
     "year": "2021",
-    "citations": 26,
+    "citations": 27,
     "authors": "N/A"
   },
   {
@@ -584,7 +584,7 @@
   {
     "title": "5growth data-driven ai-based scaling",
     "year": "2021",
-    "citations": 10,
+    "citations": 11,
     "authors": "N/A"
   },
   {
@@ -674,7 +674,7 @@
   {
     "title": "5Growth: AI-driven 5G for Automation in Vertical Industries",
     "year": "2020",
-    "citations": 50,
+    "citations": 51,
     "authors": "N/A"
   },
   {
@@ -704,7 +704,7 @@
   {
     "title": "Arena: A data-driven radio access networks analysis of football events",
     "year": "2020",
-    "citations": 8,
+    "citations": 7,
     "authors": "N/A"
   },
   {
@@ -758,7 +758,7 @@
   {
     "title": "vrAIn: A deep learning approach tailoring computing and radio resources in virtualized RANs",
     "year": "2019",
-    "citations": 114,
+    "citations": 115,
     "authors": "N/A"
   },
   {
